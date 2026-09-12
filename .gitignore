@@ -4,6 +4,9 @@ node_modules
 # macOS
 .DS_Store
 
+# JetBrains IDEs
+.idea
+
 # Expo
 .expo
 
