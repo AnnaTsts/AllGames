@@ -122,3 +122,23 @@
 .surface--card {
   @apply bg-surface border border-border rounded-2xl;
 }
+
+.card--stat {
+  @apply items-center justify-center rounded-3xl bg-orange py-7;
+}
+
+.button--cta {
+  @apply items-center justify-center rounded-3xl bg-orange py-5;
+}
+
+.button--primary {
+  @apply items-center justify-center rounded-3xl bg-primary py-5;
+}
+
+.button--outline {
+  @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-brown bg-cream py-4;
+}
+
+.card--team {
+  @apply overflow-hidden rounded-3xl bg-cream;
+}
