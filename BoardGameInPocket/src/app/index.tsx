@@ -9,7 +9,6 @@ import { useTeamStore } from "@/store/teamStore";
 export default function Index() {
   const router = useRouter();
   const teamCount = useTeamStore((state) => state.teams.length);
-  const language = useLanguageStore((state) => state.language);
   const toggleLanguage = useLanguageStore((state) => state.toggleLanguage);
 
   return (
@@ -19,17 +18,10 @@ export default function Index() {
           <View className="flex-row justify-end pt-2">
             <Pressable
               onPress={toggleLanguage}
-              className="h-12 w-12 items-center justify-center rounded-full bg-gray-50 border-2 border-cream"
-              style={({ pressed }) => ({
-                opacity: pressed ? 0.8 : 1,
-                shadowColor: "#000",
-                shadowOpacity: 0.15,
-                shadowRadius: 4,
-                shadowOffset: { width: 0, height: 2 },
-                elevation: 3,
-              })}
+              className="h-14 w-14 flex-col overflow-hidden rounded-full border-4 border-cream"
             >
-              <Text className="text-2xl">{language === "uk" ? "🇺🇦" : "🇬🇧"}</Text>
+              <View className="flex-1 bg-[#0057B7]" />
+              <View className="flex-1 bg-[#FFD700]" />
             </Pressable>
           </View>
 
@@ -77,7 +69,11 @@ export default function Index() {
         </View>
 
         <View className="px-6 pb-6">
-          <Pressable className="button--cta" style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}>
+          <Pressable
+            onPress={() => router.push("/teams")}
+            className="button--cta"
+            style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
+          >
             <Text className="font-nunito-bold text-h3 text-brown">Розпочати гру</Text>
           </Pressable>
         </View>
