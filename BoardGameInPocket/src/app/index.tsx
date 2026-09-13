@@ -1,10 +1,87 @@
-import { Text, View } from "react-native";
+import { useRouter } from "expo-router";
+import { Image, ImageBackground, Pressable, SafeAreaView, Text, View } from "react-native";
+
+import { StatCard } from "@/components/StatCard";
+import { images } from "@/constants/images";
+import { useLanguageStore } from "@/store/languageStore";
+import { useTeamStore } from "@/store/teamStore";
 
 export default function Index() {
+  const router = useRouter();
+  const teamCount = useTeamStore((state) => state.teams.length);
+  const language = useLanguageStore((state) => state.language);
+  const toggleLanguage = useLanguageStore((state) => state.toggleLanguage);
+
   return (
-    <View className="flex-1 items-center justify-center gap-2 bg-background px-6">
-      <Text className="heading--h1">GameInPocket</Text>
-      <Text className="body-text--md">Edit src/app/index.tsx to edit this screen.</Text>
-    </View>
+    <ImageBackground source={images.backgroundWelcome} className="flex-1" resizeMode="cover">
+      <SafeAreaView style={{ flex: 1 }}>
+        <View className="flex-1 px-6">
+          <View className="flex-row justify-end pt-2">
+            <Pressable
+              onPress={toggleLanguage}
+              className="h-12 w-12 items-center justify-center rounded-full bg-gray-50 border-2 border-cream"
+              style={({ pressed }) => ({
+                opacity: pressed ? 0.8 : 1,
+                shadowColor: "#000",
+                shadowOpacity: 0.15,
+                shadowRadius: 4,
+                shadowOffset: { width: 0, height: 2 },
+                elevation: 3,
+              })}
+            >
+              <Text className="text-2xl">{language === "uk" ? "🇺🇦" : "🇬🇧"}</Text>
+            </Pressable>
+          </View>
+
+          <View className="items-center">
+            <Image
+              source={images.mascotPocket}
+              style={{ width: 180, height: 180 }}
+              resizeMode="contain"
+            />
+            <Text className="mt-2 font-nunito-bold text-4xl text-primary">GameInPocket</Text>
+          </View>
+
+          <View className="mt-8 gap-4">
+            <View className="flex-row gap-4">
+              <StatCard icon="👥" value={String(teamCount)} label="команди" onPress={() => router.push("/teams")} />
+              <StatCard icon="🚀" value="3" label="тури" />
+            </View>
+            <View className="flex-row gap-4">
+              <StatCard icon="📖" value="30" label="слів" />
+              <StatCard icon="⏱️" value="60" label="секунд" />
+            </View>
+          </View>
+
+          <Text className="mt-6 text-center font-nunito-semibold text-body-lg text-brown/60">
+            Будь-які слова, 8 тем
+          </Text>
+        </View>
+
+        <View
+          className="absolute right-0 top-[26%] w-12 items-center justify-center rounded-l-3xl bg-rust py-8"
+          style={{
+            shadowColor: "#000",
+            shadowOpacity: 0.15,
+            shadowRadius: 4,
+            shadowOffset: { width: -2, height: 2 },
+            elevation: 3,
+          }}
+        >
+          <Text
+            className="w-28 text-center font-nunito-bold text-body-lg text-cream"
+            style={{ transform: [{ rotate: "-90deg" }] }}
+          >
+            Про гру
+          </Text>
+        </View>
+
+        <View className="px-6 pb-6">
+          <Pressable className="button--cta" style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}>
+            <Text className="font-nunito-bold text-h3 text-brown">Розпочати гру</Text>
+          </Pressable>
+        </View>
+      </SafeAreaView>
+    </ImageBackground>
   );
 }
