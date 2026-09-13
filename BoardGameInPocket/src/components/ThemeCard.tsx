@@ -21,7 +21,7 @@ export function ThemeCard({ name, enabled, onToggle, onAddWord }: ThemeCardProps
 
         <Pressable
           onPress={onAddWord}
-          className="h-10 w-10 items-center justify-center rounded-full bg-primary"
+          className="h-10 w-10 items-center justify-center rounded-full bg-teal"
           style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
         >
           <Text className="font-nunito-bold text-lg text-cream">+</Text>

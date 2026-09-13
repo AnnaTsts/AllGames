@@ -47,28 +47,28 @@ export default function Themes() {
           <Text className="text-center font-nunito-bold text-h1 text-cream">Теми</Text>
         </View>
 
-        <View className="gap-4 bg-tan px-6 py-5">
-          <View className="flex-row items-start justify-between gap-4">
+        <View className="flex-row items-center justify-between gap-4 bg-tan px-6 py-5">
+          <View className="flex-1 gap-1">
             <Text className="font-nunito-bold text-body-lg text-brown">КІЛЬКІСТЬ СЛІВ</Text>
 
-            <View className="items-end gap-1">
-              <Text className="text-right font-nunito-bold text-body-sm text-brown">
-                Вибрати{"\n"}Всі{"\n"}Теми
-              </Text>
-              <Toggle
-                value={allThemesSelected}
-                onValueChange={() => setAllThemesSelected(!allThemesSelected)}
-                showLabel
-              />
-            </View>
+            <WordCountSlider
+              min={MIN_WORD_COUNT}
+              max={MAX_WORD_COUNT}
+              value={wordCount}
+              onChange={setWordCount}
+            />
           </View>
 
-          <WordCountSlider
-            min={MIN_WORD_COUNT}
-            max={MAX_WORD_COUNT}
-            value={wordCount}
-            onChange={setWordCount}
-          />
+          <View className="flex-row items-center gap-3">
+            <Text className="text-right font-nunito-bold text-body-sm text-brown">
+              Вибрати{"\n"}Всі{"\n"}Теми
+            </Text>
+            <Toggle
+              value={allThemesSelected}
+              onValueChange={() => setAllThemesSelected(!allThemesSelected)}
+              showLabel
+            />
+          </View>
         </View>
 
         <View className="flex-1 bg-orange">
@@ -92,14 +92,14 @@ export default function Themes() {
               style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
             >
               <Text className="font-nunito-bold text-h3 text-brown">+</Text>
-              <Text className="font-nunito-bold text-body-lg text-brown">Додати свою тему</Text>
+              <Text className="font-nunito-bold text-h3 text-brown">ДОДАТИ СВОЮ ТЕМУ</Text>
             </Pressable>
           </ScrollView>
 
           <View className="bg-orange px-6 pb-6 pt-2">
             <Pressable
               onPress={() => router.back()}
-              className="button--primary"
+              className="button--teal"
               style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
             >
               <Text className="font-nunito-bold text-h3 text-cream">ГОТОВО</Text>
