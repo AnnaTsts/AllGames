@@ -13,6 +13,7 @@
   --color-brown: #833012;
   --color-tan: #f3c999;
   --color-amber: #d98b3a;
+  --color-teal: #3b7170;
 
   /* Semantic */
   --color-success: #578769;
@@ -135,6 +136,10 @@
 
 .button--primary {
   @apply items-center justify-center rounded-3xl bg-primary py-5;
+}
+
+.button--teal {
+  @apply items-center justify-center rounded-3xl bg-teal py-5;
 }
 
 .button--outline {

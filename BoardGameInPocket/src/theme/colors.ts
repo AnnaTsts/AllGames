@@ -6,6 +6,7 @@ export const colors = {
   brown: "#833012",
   tan: "#F3C999",
   amber: "#D98B3A",
+  teal: "#3B7170",
 
   success: "#578769",
   warning: "#F4B354",
