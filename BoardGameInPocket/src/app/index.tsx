@@ -1,5 +1,5 @@
 import { useRouter } from "expo-router";
-import { Image, Pressable, SafeAreaView, Text, View } from "react-native";
+import { Image, ImageBackground, Pressable, SafeAreaView, Text, View } from "react-native";
 
 import { StatCard } from "@/components/StatCard";
 import { images } from "@/constants/images";
@@ -8,21 +8,14 @@ import { useTeamStore } from "@/store/teamStore";
 
 export default function Index() {
   const router = useRouter();
-  const toggleLanguage = useLanguageStore((state) => state.toggleLanguage);
   const teamCount = useTeamStore((state) => state.teams.length);
+  const toggleLanguage = useLanguageStore((state) => state.toggleLanguage);
 
   return (
-    <View className="flex-1 bg-background">
-      <Image
-        source={images.backgroundWelcome}
-        resizeMode="cover"
-        className="absolute inset-0"
-        style={{ width: "100%", height: "100%" }}
-      />
-
+    <ImageBackground source={images.backgroundWelcome} className="flex-1" resizeMode="cover">
       <SafeAreaView style={{ flex: 1 }}>
-        <View className="flex-1 px-6 pt-2">
-          <View className="flex-row justify-end">
+        <View className="flex-1 px-6">
+          <View className="flex-row justify-end pt-2">
             <Pressable
               onPress={toggleLanguage}
               className="h-14 w-14 flex-col overflow-hidden rounded-full border-4 border-cream"
@@ -32,24 +25,18 @@ export default function Index() {
             </Pressable>
           </View>
 
-          <View className="-mt-8 items-center">
+          <View className="items-center">
             <Image
               source={images.mascotPocket}
+              style={{ width: 180, height: 180 }}
               resizeMode="contain"
-              style={{ width: 192, height: 192 }}
             />
+            <Text className="mt-2 font-nunito-bold text-4xl text-primary">GameInPocket</Text>
           </View>
 
-          <Text className="text-center font-nunito-bold text-h1 text-primary">GameInPocket</Text>
-
-          <View className="mt-6 gap-4">
+          <View className="mt-8 gap-4">
             <View className="flex-row gap-4">
-              <StatCard
-                icon="👥"
-                value={String(teamCount)}
-                label="команди"
-                onPress={() => router.push("/teams")}
-              />
+              <StatCard icon="👥" value={String(teamCount)} label="команди" onPress={() => router.push("/teams")} />
               <StatCard icon="🚀" value="3" label="тури" />
             </View>
             <View className="flex-row gap-4">
@@ -58,30 +45,39 @@ export default function Index() {
             </View>
           </View>
 
-          <Text className="mt-6 text-center font-nunito-semibold text-body-lg text-primary">
+          <Text className="mt-6 text-center font-nunito-semibold text-body-lg text-brown/60">
             Будь-які слова, 8 тем
           </Text>
+        </View>
 
-          <View className="flex-1" />
+        <View
+          className="absolute right-0 top-[26%] w-12 items-center justify-center rounded-l-3xl bg-rust py-8"
+          style={{
+            shadowColor: "#000",
+            shadowOpacity: 0.15,
+            shadowRadius: 4,
+            shadowOffset: { width: -2, height: 2 },
+            elevation: 3,
+          }}
+        >
+          <Text
+            className="w-28 text-center font-nunito-bold text-body-lg text-cream"
+            style={{ transform: [{ rotate: "-90deg" }] }}
+          >
+            Про гру
+          </Text>
+        </View>
 
+        <View className="px-6 pb-6">
           <Pressable
             onPress={() => router.push("/teams")}
-            className="button--cta mb-6"
-            style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
+            className="button--cta"
+            style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
           >
             <Text className="font-nunito-bold text-h3 text-brown">Розпочати гру</Text>
           </Pressable>
         </View>
       </SafeAreaView>
-
-      <View className="absolute right-0 top-[30%] rounded-l-2xl bg-rust px-2 py-4">
-        <Text
-          style={{ transform: [{ rotate: "90deg" }] }}
-          className="font-nunito-bold text-body-md text-cream"
-        >
-          Про гру
-        </Text>
-      </View>
-    </View>
+    </ImageBackground>
   );
 }

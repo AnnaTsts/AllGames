@@ -218,3 +218,5 @@ Before every feature:
 - Build clean, simple code.
 
 - Replicate UI exactly when designs are provided.
+
+- Add file you created to git follow so I can commit them automatically
