@@ -40,7 +40,7 @@ export default function Index() {
               <StatCard icon="🚀" value="3" label="тури" />
             </View>
             <View className="flex-row gap-4">
-              <StatCard icon="📖" value="30" label="слів" />
+              <StatCard icon="📖" value="30" label="слів" onPress={() => router.push("/themes")} />
               <StatCard icon="⏱️" value="60" label="секунд" />
             </View>
           </View>

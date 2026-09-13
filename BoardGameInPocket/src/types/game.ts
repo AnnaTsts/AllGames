@@ -22,6 +22,13 @@ export type Word = {
   category: WordCategory;
 };
 
+export type ThemeCategory = {
+  id: string;
+  name: string;
+  enabled: boolean;
+  customWords: string[];
+};
+
 export type Round = {
   id: string;
   order: number;

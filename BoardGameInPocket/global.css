@@ -11,6 +11,8 @@
   --color-orange: #f4b354;
   --color-rust: #a95031;
   --color-brown: #833012;
+  --color-tan: #f3c999;
+  --color-amber: #d98b3a;
 
   /* Semantic */
   --color-success: #578769;
@@ -141,4 +143,8 @@
 
 .card--team {
   @apply overflow-hidden rounded-3xl bg-cream;
+}
+
+.card--theme {
+  @apply flex-row items-center justify-between rounded-3xl bg-surface px-5 py-5;
 }

@@ -4,6 +4,8 @@ export const colors = {
   orange: "#F4B354",
   rust: "#A95031",
   brown: "#833012",
+  tan: "#F3C999",
+  amber: "#D98B3A",
 
   success: "#578769",
   warning: "#F4B354",
