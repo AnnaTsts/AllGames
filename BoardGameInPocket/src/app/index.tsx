@@ -73,7 +73,8 @@ export default function Index() {
             className="button--cta"
             style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
           >
-            <Text className="font-nunito-bold text-h3 text-brown">Розпочати гру</Text>          </Pressable>
+            <Text className="font-nunito-bold text-h3 text-brown">Розпочати гру</Text>
+          </Pressable>
         </View>
       </SafeAreaView>
     </ImageBackground>
