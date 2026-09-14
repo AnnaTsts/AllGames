@@ -4,14 +4,14 @@ import { Image, ImageBackground, Pressable, SafeAreaView, Text, View } from "rea
 import { StatCard } from "@/components/StatCard";
 import { images } from "@/constants/images";
 import { useLanguageStore } from "@/store/languageStore";
-import { useRoundStore } from "@/store/roundStore";
 import { useTeamStore } from "@/store/teamStore";
+import { useRoundStore } from "@/store/roundStore";
 
 export default function Index() {
   const router = useRouter();
   const teamCount = useTeamStore((state) => state.teams.length);
-  const roundCount = useRoundStore((state) => state.selectedRoundIds.length);
   const toggleLanguage = useLanguageStore((state) => state.toggleLanguage);
+  const roundCount = useRoundStore((state) => state.selectedRoundIds.length);
 
   return (
     <ImageBackground source={images.backgroundWelcome} className="flex-1" resizeMode="cover">
@@ -36,21 +36,17 @@ export default function Index() {
             <Text className="mt-2 font-nunito-bold text-4xl text-primary">GameInPocket</Text>
           </View>
 
-          <View className="mt-8 gap-4 px-10">
+          <View className="mt-8 gap-6">
             <View className="flex-row gap-4">
               <StatCard icon="👥" value={String(teamCount)} label="команди" onPress={() => router.push("/teams")} />
-              <StatCard
-                icon="🚀"
-                value={String(roundCount)}
-                label="тури"
-                onPress={() => router.push("/rounds")}
-              />
+              <StatCard icon="🚀" value={String(roundCount)} label="тури" onPress={() => router.push("/rounds")}/>
             </View>
             <View className="flex-row gap-4">
               <StatCard icon="📖" value="30" label="слів" onPress={() => router.push("/themes")} />
               <StatCard icon="⏱️" value="60" label="секунд" />
             </View>
           </View>
+
         </View>
 
         <View
@@ -71,13 +67,13 @@ export default function Index() {
           </Text>
         </View>
 
-        <View className="px-2 pb-6">
+        <View className="mb-[10%] px-2 pb-6">
           <Pressable
             onPress={() => router.push("/teams")}
             className="button--cta"
             style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
           >
-            <Text className="font-nunito-bold text-h2 text-brown">Розпочати гру</Text>
+            <Text className="font-nunito-bold text-h3 text-brown">Розпочати гру</Text>
           </Pressable>
         </View>
       </SafeAreaView>

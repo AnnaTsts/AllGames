@@ -96,7 +96,7 @@ export default function Themes() {
             </Pressable>
           </ScrollView>
 
-          <View className="bg-orange px-6 pb-6 pt-2">
+          <View className="mb-[10%] bg-orange px-6 pb-6 pt-2">
             <Pressable
               onPress={() => router.back()}
               className="button--teal"
