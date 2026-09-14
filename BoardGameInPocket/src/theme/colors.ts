@@ -7,6 +7,7 @@ export const colors = {
   tan: "#F3C999",
   amber: "#D98B3A",
   teal: "#3B7170",
+  violet: "#7D5BA6",
 
   success: "#578769",
   warning: "#F4B354",
