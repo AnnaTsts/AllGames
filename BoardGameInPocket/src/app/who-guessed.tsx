@@ -2,19 +2,35 @@ import { useRouter } from "expo-router";
 import { useState } from "react";
 import { Pressable, SafeAreaView, ScrollView, Text, View } from "react-native";
 
+import { useGameStore } from "@/store/gameStore";
 import { useTeamStore } from "@/store/teamStore";
 
 export default function WhoGuessed() {
   const router = useRouter();
   const teams = useTeamStore((state) => state.teams);
   const selectedTeamName = useTeamStore((state) => state.selectedTeamName);
+  const awardWord = useGameStore((state) => state.awardWord);
+  const discardWord = useGameStore((state) => state.discardWord);
+  const nextTeam = useGameStore((state) => state.nextTeam);
 
   const [soundOn, setSoundOn] = useState(true);
   const [guesserId, setGuesserId] = useState<string | null>(null);
 
+  const goToNextTurn = () => {
+    nextTeam();
+    const remaining = useGameStore.getState().wordPool.length;
+    router.replace(remaining === 0 ? "/results" : "/team-turn");
+  };
+
   const handleDone = () => {
     if (!guesserId) return;
-    router.back();
+    awardWord(guesserId);
+    goToNextTurn();
+  };
+
+  const handleNobodyGuessed = () => {
+    discardWord();
+    goToNextTurn();
   };
 
   return (
@@ -87,7 +103,7 @@ export default function WhoGuessed() {
             </Pressable>
 
             <Pressable
-              onPress={() => router.back()}
+              onPress={handleNobodyGuessed}
               className="button--outline-error"
               style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
             >

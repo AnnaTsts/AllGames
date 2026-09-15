@@ -3,8 +3,8 @@ import { useState } from "react";
 import { Alert, Pressable, SafeAreaView, Text, View } from "react-native";
 
 import { Toggle } from "@/components/Toggle";
+import { useGameStore } from "@/store/gameStore";
 import { useTeamStore } from "@/store/teamStore";
-import { useThemeStore } from "@/store/themeStore";
 
 const ROUND_SECONDS = 60;
 
@@ -29,16 +29,12 @@ function ReadyStatCard({ icon, label, value }: ReadyStatCardProps) {
 export default function TeamTurn() {
   const router = useRouter();
   const teams = useTeamStore((state) => state.teams);
-  const selectedTeamName = useTeamStore((state) => state.selectedTeamName);
-  const wordCount = useThemeStore((state) => state.wordCount);
+  const currentTeamIndex = useGameStore((state) => state.currentTeamIndex);
+  const wordPool = useGameStore((state) => state.wordPool);
 
   const [soundOn, setSoundOn] = useState(true);
   const [hideWord, setHideWord] = useState(false);
 
-  const currentTeamIndex = Math.max(
-    0,
-    teams.findIndex((team) => team.name === selectedTeamName)
-  );
   const currentTeam = teams[currentTeamIndex] ?? teams[0];
 
   const explainHideWord = () => {
@@ -76,7 +72,7 @@ export default function TeamTurn() {
 
             <View className="mt-10 w-full flex-row gap-4">
               <ReadyStatCard icon="🕐" label="Час" value={`${ROUND_SECONDS} сек`} />
-              <ReadyStatCard icon="🎴" label="У капелюсі" value={`${wordCount} слів`} />
+              <ReadyStatCard icon="🎴" label="У капелюсі" value={`${wordPool.length} слів`} />
             </View>
 
             <View className="mt-10 w-full flex-row items-center justify-between gap-4">
@@ -92,7 +88,7 @@ export default function TeamTurn() {
           </View>
 
           <Pressable
-            onPress={() => router.push("/game-round")}
+            onPress={() => router.replace("/game-round")}
             className="button--brown"
             style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
           >
