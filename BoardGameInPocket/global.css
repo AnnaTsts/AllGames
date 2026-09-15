@@ -178,3 +178,11 @@
 .button--outline-error {
   @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-error bg-cream py-4;
 }
+
+.button--brown {
+  @apply items-center justify-center rounded-3xl bg-brown py-5;
+}
+
+.card--stat-outline {
+  @apply flex-1 items-center rounded-3xl border-2 border-brown px-4 pb-5 pt-8;
+}
