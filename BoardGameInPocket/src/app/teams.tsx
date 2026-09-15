@@ -19,9 +19,20 @@ export default function Teams() {
   const selectTeam = useTeamStore((state) => state.selectTeam);
   const addTeam = useTeamStore((state) => state.addTeam);
   const addMember = useTeamStore((state) => state.addMember);
+  const deleteTeam = useTeamStore((state) => state.deleteTeam);
+  const deleteMember = useTeamStore((state) => state.deleteMember);
+  const renameTeam = useTeamStore((state) => state.renameTeam);
+  const renameMember = useTeamStore((state) => state.renameMember);
 
   const [isModalVisible, setIsModalVisible] = useState(false);
   const [newTeamName, setNewTeamName] = useState("");
+
+  type EditTarget =
+    | { type: "team"; teamId: string }
+    | { type: "member"; teamId: string; member: string };
+
+  const [editTarget, setEditTarget] = useState<EditTarget | null>(null);
+  const [editName, setEditName] = useState("");
 
   const closeModal = () => {
     setIsModalVisible(false);
@@ -33,6 +44,22 @@ export default function Teams() {
     if (!name) return;
     addTeam(name.toUpperCase());
     closeModal();
+  };
+
+  const closeEditModal = () => {
+    setEditTarget(null);
+    setEditName("");
+  };
+
+  const handleSaveEdit = () => {
+    const name = editName.trim();
+    if (!name || !editTarget) return;
+    if (editTarget.type === "team") {
+      renameTeam(editTarget.teamId, name.toUpperCase());
+    } else {
+      renameMember(editTarget.teamId, editTarget.member, name);
+    }
+    closeEditModal();
   };
 
   return (
@@ -55,6 +82,16 @@ export default function Teams() {
                   name={team.name}
                   members={team.members}
                   onAddMember={() => addMember(team.id)}
+                  onDeleteTeam={() => deleteTeam(team.id)}
+                  onDeleteMember={(member) => deleteMember(team.id, member)}
+                  onEditTeamName={() => {
+                    setEditTarget({ type: "team", teamId: team.id });
+                    setEditName(team.name);
+                  }}
+                  onEditMember={(member) => {
+                    setEditTarget({ type: "member", teamId: team.id, member });
+                    setEditName(member);
+                  }}
                 />
               </Pressable>
             ))}
@@ -127,6 +164,61 @@ export default function Teams() {
               >
                 <Text className="font-nunito-bold text-body-lg text-cream">
                   Додати
+                </Text>
+              </Pressable>
+            </View>
+          </View>
+        </View>
+      </Modal>
+
+      <Modal
+        visible={editTarget !== null}
+        transparent
+        animationType="fade"
+        onRequestClose={closeEditModal}
+      >
+        <View
+          className="flex-1 items-center justify-center bg-brown/60 px-6"
+        >
+          <View className="w-full gap-4 rounded-3xl bg-cream p-6">
+            <Text className="font-nunito-bold text-h3 text-brown">
+              {editTarget?.type === "team"
+                ? "Редагувати назву команди"
+                : "Редагувати ім'я гравця"}
+            </Text>
+
+            <TextInput
+              value={editName}
+              onChangeText={setEditName}
+              placeholder={
+                editTarget?.type === "team" ? "Назва команди" : "Ім'я гравця"
+              }
+              placeholderTextColor="#786459"
+              autoFocus
+              className="rounded-2xl border-2 border-brown px-4 py-3 font-nunito-regular text-body-lg text-brown"
+            />
+
+            <View className="flex-row gap-3">
+              <Pressable
+                onPress={closeEditModal}
+                className="flex-1 items-center justify-center rounded-full border-2 border-brown py-3"
+                style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
+              >
+                <Text className="font-nunito-bold text-body-lg text-brown">
+                  Скасувати
+                </Text>
+              </Pressable>
+
+              <Pressable
+                onPress={handleSaveEdit}
+                disabled={!editName.trim()}
+                className="flex-1 items-center justify-center rounded-full bg-primary py-3"
+                style={({ pressed }) => ({
+                  opacity: pressed || !editName.trim() ? 0.7 : 1,
+                })}
+              >
+                <Text className="font-nunito-bold text-body-lg text-cream">
+                  Зберегти
                 </Text>
               </Pressable>
             </View>
