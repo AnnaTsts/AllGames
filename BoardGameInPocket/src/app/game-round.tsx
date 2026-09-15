@@ -34,6 +34,12 @@ export default function GameRound() {
     return () => clearInterval(timer);
   }, [isPaused, secondsLeft]);
 
+  useEffect(() => {
+    if (secondsLeft === 0) {
+      router.push("/who-guessed");
+    }
+  }, [secondsLeft, router]);
+
   const currentWord = deck[wordIndex % deck.length];
   const minutes = String(Math.floor(secondsLeft / 60)).padStart(2, "0");
   const seconds = String(secondsLeft % 60).padStart(2, "0");
