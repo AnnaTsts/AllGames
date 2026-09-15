@@ -9,17 +9,10 @@ export type Team = {
   members: string[];
 };
 
-export type WordCategory =
-  | "тварини"
-  | "їжа"
-  | "професії"
-  | "предмети"
-  | "природа";
-
 export type Word = {
   id: string;
   text: string;
-  category: WordCategory;
+  themeId: string;
 };
 
 export type ThemeCategory = {

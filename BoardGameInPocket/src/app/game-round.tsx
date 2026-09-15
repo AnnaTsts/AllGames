@@ -2,24 +2,17 @@ import { useRouter } from "expo-router";
 import { useEffect, useState } from "react";
 import { Pressable, SafeAreaView, Share, Text, View } from "react-native";
 
-import { words } from "@/data/words";
+import { useGameStore } from "@/store/gameStore";
 
 const ROUND_SECONDS = 60;
 const SKIP_PENALTY = 1;
 
-function shuffle<T>(items: T[]): T[] {
-  const shuffled = [...items];
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  }
-  return shuffled;
-}
-
 export default function GameRound() {
   const router = useRouter();
-  const [deck] = useState(() => shuffle(words));
-  const [wordIndex, setWordIndex] = useState(0);
+  const wordPool = useGameStore((state) => state.wordPool);
+  const markCorrect = useGameStore((state) => state.markCorrect);
+  const markSkipped = useGameStore((state) => state.markSkipped);
+
   const [secondsLeft, setSecondsLeft] = useState(ROUND_SECONDS);
   const [isPaused, setIsPaused] = useState(false);
   const [soundOn, setSoundOn] = useState(true);
@@ -36,19 +29,26 @@ export default function GameRound() {
 
   useEffect(() => {
     if (secondsLeft === 0) {
-      router.push("/who-guessed");
+      router.replace("/who-guessed");
     }
   }, [secondsLeft, router]);
 
-  const currentWord = deck[wordIndex % deck.length];
+  useEffect(() => {
+    if (wordPool.length === 0) {
+      router.replace("/results");
+    }
+  }, [wordPool.length, router]);
+
+  const currentWord = wordPool[0];
   const minutes = String(Math.floor(secondsLeft / 60)).padStart(2, "0");
   const seconds = String(secondsLeft % 60).padStart(2, "0");
 
-  const goToNextWord = () => setWordIndex((prev) => prev + 1);
-
   const handleShare = () => {
+    if (!currentWord) return;
     Share.share({ message: currentWord.text }).catch(() => {});
   };
+
+  if (!currentWord) return null;
 
   return (
     <View className="flex-1 bg-cream">
@@ -93,7 +93,7 @@ export default function GameRound() {
         <View className="flex-row items-center justify-between px-10 py-8">
           <View className="relative">
             <Pressable
-              onPress={goToNextWord}
+              onPress={markSkipped}
               className="button--round-action bg-error"
               style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
             >
@@ -105,7 +105,7 @@ export default function GameRound() {
           </View>
 
           <Pressable
-            onPress={goToNextWord}
+            onPress={markCorrect}
             className="button--round-action bg-teal"
             style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
           >
