@@ -186,7 +186,7 @@ export default function Results() {
 
         <View className="px-6 pb-6 pt-2">
           <Pressable
-            onPress={() => router.back()}
+            onPress={() => router.replace("/")}
             className="button--teal"
             style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
           >
