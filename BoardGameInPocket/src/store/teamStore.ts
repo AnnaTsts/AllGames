@@ -7,6 +7,7 @@ import { teams as initialTeams } from "@/data/teams";
 import type { Team } from "@/types/game";
 
 const DEFAULT_MEMBER_COUNT = 2;
+const MIN_MEMBER_COUNT = 2;
 
 function pickRandomName(exclude: string[]): string {
   const available = players.map((player) => player.name).filter((name) => !exclude.includes(name));
@@ -28,6 +29,10 @@ type TeamState = {
   selectTeam: (name: string) => void;
   addTeam: (name: string) => void;
   addMember: (teamId: string) => void;
+  deleteTeam: (teamId: string) => void;
+  deleteMember: (teamId: string, member: string) => void;
+  renameTeam: (teamId: string, name: string) => void;
+  renameMember: (teamId: string, oldName: string, newName: string) => void;
 };
 
 export const useTeamStore = create<TeamState>()(
@@ -54,6 +59,49 @@ export const useTeamStore = create<TeamState>()(
               ? { ...team, members: [...team.members, pickRandomName(team.members)] }
               : team
           ),
+        })),
+      deleteTeam: (teamId) =>
+        set((state) => ({
+          teams: state.teams.filter((team) => team.id !== teamId),
+        })),
+      deleteMember: (teamId, member) =>
+        set((state) => ({
+          teams: state.teams.map((team) => {
+            if (team.id !== teamId || team.members.length <= MIN_MEMBER_COUNT) {
+              return team;
+            }
+            const index = team.members.indexOf(member);
+            if (index === -1) return team;
+            return {
+              ...team,
+              members: [
+                ...team.members.slice(0, index),
+                ...team.members.slice(index + 1),
+              ],
+            };
+          }),
+        })),
+      renameTeam: (teamId, name) =>
+        set((state) => ({
+          teams: state.teams.map((team) =>
+            team.id === teamId ? { ...team, name } : team
+          ),
+        })),
+      renameMember: (teamId, oldName, newName) =>
+        set((state) => ({
+          teams: state.teams.map((team) => {
+            if (team.id !== teamId) return team;
+            const index = team.members.indexOf(oldName);
+            if (index === -1) return team;
+            return {
+              ...team,
+              members: [
+                ...team.members.slice(0, index),
+                newName,
+                ...team.members.slice(index + 1),
+              ],
+            };
+          }),
         })),
     }),
     {
