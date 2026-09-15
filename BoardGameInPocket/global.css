@@ -147,6 +147,10 @@
   @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-brown bg-cream py-4;
 }
 
+.button--outline-teal {
+  @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-teal bg-cream py-4;
+}
+
 .card--team {
   @apply overflow-hidden rounded-3xl bg-cream;
 }
@@ -154,6 +158,13 @@
 .card--theme {
   @apply flex-row items-center justify-between rounded-3xl bg-surface px-5 py-5;
 }
+
+.card--word {
+  @apply flex-1 rounded-3xl bg-gray-50 p-6;
+}
+
+.button--round-action {
+  @apply h-24 w-24 items-center justify-center rounded-full;
 
 .card--round {
   @apply flex-row items-center gap-4 rounded-3xl bg-surface px-4 py-4;

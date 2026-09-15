@@ -73,7 +73,7 @@ export default function Teams() {
 
           <View className="mb-[10%] bg-orange px-6 pb-6 pt-2">
             <Pressable
-              onPress={() => router.back()}
+              onPress={() => router.push("/game-rules")}
               className="button--primary"
               style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
             >
