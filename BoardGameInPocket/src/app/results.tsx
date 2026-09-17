@@ -2,10 +2,11 @@ import { useRouter } from "expo-router";
 import { useMemo } from "react";
 import { Pressable, SafeAreaView, ScrollView, Text, View } from "react-native";
 
+import { roundTypes } from "@/data/rounds";
+import { useGameStore } from "@/store/gameStore";
 import { useTeamStore } from "@/store/teamStore";
-import type { Team } from "@/types/game";
+import type { Round, Team } from "@/types/game";
 
-const ROUND_COUNT = 3;
 const TOP_RESULT_COUNT = 3;
 
 const BADGES = [
@@ -25,42 +26,31 @@ type TeamResult = {
   total: number;
 };
 
-function hashSeed(value: string): number {
-  let hash = 0;
-  for (let i = 0; i < value.length; i++) {
-    hash = (hash << 5) - hash + value.charCodeAt(i);
-    hash |= 0;
-  }
-  return hash >>> 0;
-}
-
-function randomForSeed(seed: number): number {
-  const state = (Math.imul(seed ^ (seed >>> 16), 0x45d9f3b) >>> 0) ^ seed;
-  return ((state >>> 0) % 10000) / 10000;
-}
-
-function buildRoundScores(teamId: string): number[] {
-  const scores: number[] = [];
-  for (let i = 0; i < ROUND_COUNT; i++) {
-    const value = randomForSeed(hashSeed(`${teamId}-round-${i}`));
-    scores.push(70 + Math.floor(value * 26));
-  }
-  return scores;
-}
-
 export default function Results() {
   const router = useRouter();
   const teams = useTeamStore((state) => state.teams);
+  const activeRoundIds = useGameStore((state) => state.activeRoundIds);
+  const roundScores = useGameStore((state) => state.roundScores);
+
+  const playedRounds = useMemo<Round[]>(
+    () =>
+      activeRoundIds
+        .map((roundId) => roundTypes.find((round) => round.id === roundId))
+        .filter((round): round is Round => round !== undefined),
+    [activeRoundIds]
+  );
 
   const results = useMemo<TeamResult[]>(() => {
     return teams
       .map((team) => {
-        const roundScores = buildRoundScores(team.id);
-        const total = roundScores.reduce((sum, score) => sum + score, 0);
-        return { team, roundScores, total };
+        const scoresByRound = playedRounds.map(
+          (round) => roundScores[round.id]?.[team.id] ?? 0
+        );
+        const total = scoresByRound.reduce((sum, score) => sum + score, 0);
+        return { team, roundScores: scoresByRound, total };
       })
       .sort((a, b) => b.total - a.total);
-  }, [teams]);
+  }, [teams, playedRounds, roundScores]);
 
   const winner = results[0];
   const runnerUp = results[1];
@@ -111,15 +101,15 @@ export default function Results() {
           <Text className="flex-1 font-nunito-semibold text-body-sm text-muted-foreground">
             Назва команди
           </Text>
-          <Text className="w-7 text-center font-nunito-semibold text-body-sm text-muted-foreground">
-            Р1
-          </Text>
-          <Text className="w-7 text-center font-nunito-semibold text-body-sm text-muted-foreground">
-            Р2
-          </Text>
-          <Text className="w-7 text-center font-nunito-semibold text-body-sm text-muted-foreground">
-            Р3
-          </Text>
+          {playedRounds.map((round) => (
+            <Text
+              key={round.id}
+              className="w-12 text-center font-nunito-semibold text-body-sm text-muted-foreground"
+              numberOfLines={1}
+            >
+              {round.title}
+            </Text>
+          ))}
           <Text
             className="w-16 text-right font-nunito-semibold text-body-sm text-muted-foreground"
             numberOfLines={1}
@@ -166,7 +156,7 @@ export default function Results() {
                 {result.roundScores.map((score, scoreIndex) => (
                   <Text
                     key={scoreIndex}
-                    className="w-7 text-center font-nunito-bold text-body-md text-brown"
+                    className="w-12 text-center font-nunito-bold text-body-md text-brown"
                   >
                     {score}
                   </Text>

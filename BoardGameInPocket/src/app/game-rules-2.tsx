@@ -71,13 +71,15 @@ export default function GameRulesRound2() {
           </View>
         </ScrollView>
 
-        <Pressable
-          onPress={() => router.push("/team-turn")}
-          className="items-center justify-center bg-olive py-6"
-          style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
-        >
-          <Text className="font-nunito-bold text-h3 text-cream">Далі</Text>
-        </Pressable>
+        <View className="mb-[10%] bg-orange px-6 pb-6 pt-2">
+          <Pressable
+            onPress={() => router.push("/team-turn")}
+            className="button--primary"
+            style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
+          >
+            <Text className="font-nunito-bold text-h3 text-cream">› ДАЛІ</Text>
+          </Pressable>
+        </View>
       </SafeAreaView>
     </View>
   );

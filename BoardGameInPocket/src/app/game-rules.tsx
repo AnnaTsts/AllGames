@@ -80,14 +80,13 @@ export default function GameRules() {
           ))}
         </ScrollView>
 
-        <View className="bg-orange px-6 pb-6 pt-2">
+        <View className="mb-[10%] bg-orange px-6 pb-6 pt-2">
           <Pressable
             onPress={() => router.push("/team-turn")}
-            className="button--outline-teal"
-            style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
+            className="button--primary"
+            style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
           >
-            <Text className="font-nunito-bold text-h3 text-teal">›</Text>
-            <Text className="font-nunito-bold text-h3 text-teal">ДАЛІ</Text>
+            <Text className="font-nunito-bold text-h3 text-cream">› ДАЛІ</Text>
           </Pressable>
         </View>
       </SafeAreaView>

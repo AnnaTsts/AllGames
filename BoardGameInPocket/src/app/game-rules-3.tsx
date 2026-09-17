@@ -87,14 +87,13 @@ export default function GameRulesRound3() {
           ))}
         </ScrollView>
 
-        <View className="bg-orange px-6 pb-6 pt-2">
+        <View className="mb-[10%] bg-orange px-6 pb-6 pt-2">
           <Pressable
             onPress={() => router.push("/team-turn")}
-            className="button--outline-primary"
-            style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
+            className="button--primary"
+            style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
           >
-            <Text className="font-nunito-bold text-h3 text-primary">›</Text>
-            <Text className="font-nunito-bold text-h3 text-primary">ДАЛІ</Text>
+            <Text className="font-nunito-bold text-h3 text-cream">› ДАЛІ</Text>
           </Pressable>
         </View>
       </SafeAreaView>

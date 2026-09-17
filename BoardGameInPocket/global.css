@@ -181,8 +181,16 @@
   @apply flex-row items-center justify-between gap-3 rounded-2xl border-2 border-brown bg-cream px-5 py-4;
 }
 
+.card--select-team--selected {
+  @apply border-primary bg-tan;
+}
+
 .button--outline-error {
   @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-error bg-cream py-4;
+}
+
+.button--outline-error--selected {
+  @apply bg-error;
 }
 
 .button--brown {

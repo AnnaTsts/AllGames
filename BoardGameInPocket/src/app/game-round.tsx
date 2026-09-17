@@ -1,12 +1,22 @@
 import { useRouter } from "expo-router";
 import { useEffect, useState } from "react";
-import { Pressable, SafeAreaView, Share, Text, View } from "react-native";
+import { Pressable, SafeAreaView, Share, Text, useWindowDimensions, View } from "react-native";
+import { Gesture, GestureDetector } from "react-native-gesture-handler";
+import Animated, {
+  interpolate,
+  useAnimatedStyle,
+  useSharedValue,
+  withSpring,
+  withTiming,
+} from "react-native-reanimated";
+import { runOnJS } from "react-native-worklets";
 
 import { roundRulesRoute } from "@/data/rounds";
 import { useGameStore } from "@/store/gameStore";
 
 const ROUND_SECONDS = 60;
 const SKIP_PENALTY = 1;
+const SWIPE_OUT_DURATION = 220;
 
 export default function GameRound() {
   const router = useRouter();
@@ -14,10 +24,16 @@ export default function GameRound() {
   const markCorrect = useGameStore((state) => state.markCorrect);
   const markSkipped = useGameStore((state) => state.markSkipped);
   const startNextRound = useGameStore((state) => state.startNextRound);
+  const nextTeam = useGameStore((state) => state.nextTeam);
 
   const [secondsLeft, setSecondsLeft] = useState(ROUND_SECONDS);
   const [isPaused, setIsPaused] = useState(false);
   const [soundOn, setSoundOn] = useState(true);
+  const [isSwiping, setIsSwiping] = useState(false);
+
+  const { width: screenWidth } = useWindowDimensions();
+  const translateX = useSharedValue(0);
+  const swipeThreshold = screenWidth * 0.25;
 
   useEffect(() => {
     if (isPaused || secondsLeft === 0) return;
@@ -40,13 +56,14 @@ export default function GameRound() {
       const { activeRoundIds, currentRoundIndex } = useGameStore.getState();
       const nextRoundId = activeRoundIds[currentRoundIndex + 1];
       if (nextRoundId) {
+        nextTeam();
         startNextRound();
         router.replace(roundRulesRoute[nextRoundId]);
       } else {
         router.replace("/results");
       }
     }
-  }, [wordPool.length, router, startNextRound]);
+  }, [wordPool.length, router, startNextRound, nextTeam]);
 
   const currentWord = wordPool[0];
   const minutes = String(Math.floor(secondsLeft / 60)).padStart(2, "0");
@@ -56,6 +73,50 @@ export default function GameRound() {
     if (!currentWord) return;
     Share.share({ message: currentWord.text }).catch(() => {});
   };
+
+  const handleSwipeComplete = (direction: "left" | "right") => {
+    if (direction === "right") {
+      markCorrect();
+    } else {
+      markSkipped();
+    }
+    setIsSwiping(false);
+  };
+
+  const swipeCard = (direction: "left" | "right") => {
+    if (isSwiping) return;
+    setIsSwiping(true);
+
+    const target = direction === "right" ? screenWidth * 1.5 : -screenWidth * 1.5;
+    translateX.value = withTiming(target, { duration: SWIPE_OUT_DURATION }, (finished) => {
+      if (finished) {
+        translateX.value = 0;
+        runOnJS(handleSwipeComplete)(direction);
+      }
+    });
+  };
+
+  const panGesture = Gesture.Pan()
+    .enabled(!isSwiping)
+    .onUpdate((event) => {
+      translateX.value = event.translationX;
+    })
+    .onEnd((event) => {
+      if (event.translationX > swipeThreshold) {
+        runOnJS(swipeCard)("right");
+      } else if (event.translationX < -swipeThreshold) {
+        runOnJS(swipeCard)("left");
+      } else {
+        translateX.value = withSpring(0);
+      }
+    });
+
+  const animatedCardStyle = useAnimatedStyle(() => {
+    const rotate = interpolate(translateX.value, [-screenWidth, 0, screenWidth], [-12, 0, 12]);
+    return {
+      transform: [{ translateX: translateX.value }, { rotate: `${rotate}deg` }],
+    };
+  });
 
   if (!currentWord) return null;
 
@@ -86,25 +147,27 @@ export default function GameRound() {
         </View>
 
         <View className="flex-1 px-6 pt-6">
-          <View className="card--word">
-            <Text className="text-right font-nunito-regular text-body-lg italic text-amber">
-              О, які люди!
-            </Text>
-
-            <View className="flex-1 items-center justify-center">
-              <Text className="text-center font-nunito-bold text-h1 text-brown">
-                {currentWord.text}
+          <GestureDetector gesture={panGesture}>
+            <Animated.View className="card--word" style={animatedCardStyle}>
+              <Text className="text-right font-nunito-regular text-body-lg italic text-amber">
+                О, які люди!
               </Text>
-            </View>
-          </View>
+
+              <View className="flex-1 items-center justify-center">
+                <Text className="text-center font-nunito-bold text-h1 text-brown">
+                  {currentWord.text}
+                </Text>
+              </View>
+            </Animated.View>
+          </GestureDetector>
         </View>
 
         <View className="flex-row items-center justify-between px-10 py-8">
           <View className="relative">
             <Pressable
-              onPress={markSkipped}
+              onPress={() => swipeCard("left")}
               className="button--round-action bg-error"
-              style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
+              style={({ pressed }) => ({ opacity: pressed || isSwiping ? 0.85 : 1 })}
             >
               <Text className="font-nunito-bold text-h1 text-cream">✕</Text>
             </Pressable>
@@ -114,9 +177,9 @@ export default function GameRound() {
           </View>
 
           <Pressable
-            onPress={markCorrect}
+            onPress={() => swipeCard("right")}
             className="button--round-action bg-teal"
-            style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
+            style={({ pressed }) => ({ opacity: pressed || isSwiping ? 0.85 : 1 })}
           >
             <Text className="font-nunito-bold text-h1 text-cream">✓</Text>
           </Pressable>
