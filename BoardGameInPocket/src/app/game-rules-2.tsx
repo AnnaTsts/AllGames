@@ -4,11 +4,9 @@ import { Image, Pressable, SafeAreaView, ScrollView, Text, View } from "react-na
 
 import { images } from "@/constants/images";
 import { crocodileRules } from "@/data/gameRules";
-import { useGameStore } from "@/store/gameStore";
 
 export default function GameRulesRound2() {
   const router = useRouter();
-  const startGame = useGameStore((state) => state.startGame);
   const [soundOn, setSoundOn] = useState(true);
 
   return (
@@ -74,10 +72,7 @@ export default function GameRulesRound2() {
         </ScrollView>
 
         <Pressable
-          onPress={() => {
-            startGame();
-            router.push("/team-turn");
-          }}
+          onPress={() => router.push("/team-turn")}
           className="items-center justify-center bg-olive py-6"
           style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
         >

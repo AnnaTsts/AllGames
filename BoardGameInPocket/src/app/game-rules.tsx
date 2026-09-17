@@ -4,11 +4,9 @@ import { Image, Pressable, SafeAreaView, ScrollView, Text, View } from "react-na
 
 import { images } from "@/constants/images";
 import { oratorRules } from "@/data/gameRules";
-import { useGameStore } from "@/store/gameStore";
 
 export default function GameRules() {
   const router = useRouter();
-  const startGame = useGameStore((state) => state.startGame);
   const [soundOn, setSoundOn] = useState(true);
 
   return (
@@ -84,10 +82,7 @@ export default function GameRules() {
 
         <View className="bg-orange px-6 pb-6 pt-2">
           <Pressable
-            onPress={() => {
-              startGame();
-              router.push("/team-turn");
-            }}
+            onPress={() => router.push("/team-turn")}
             className="button--outline-teal"
             style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
           >
