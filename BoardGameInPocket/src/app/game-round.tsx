@@ -14,6 +14,7 @@ export default function GameRound() {
   const markCorrect = useGameStore((state) => state.markCorrect);
   const markSkipped = useGameStore((state) => state.markSkipped);
   const startNextRound = useGameStore((state) => state.startNextRound);
+  const nextTeam = useGameStore((state) => state.nextTeam);
 
   const [secondsLeft, setSecondsLeft] = useState(ROUND_SECONDS);
   const [isPaused, setIsPaused] = useState(false);
@@ -40,13 +41,14 @@ export default function GameRound() {
       const { activeRoundIds, currentRoundIndex } = useGameStore.getState();
       const nextRoundId = activeRoundIds[currentRoundIndex + 1];
       if (nextRoundId) {
+        nextTeam();
         startNextRound();
         router.replace(roundRulesRoute[nextRoundId]);
       } else {
         router.replace("/results");
       }
     }
-  }, [wordPool.length, router, startNextRound]);
+  }, [wordPool.length, router, startNextRound, nextTeam]);
 
   const currentWord = wordPool[0];
   const minutes = String(Math.floor(secondsLeft / 60)).padStart(2, "0");

@@ -99,7 +99,6 @@ export const useGameStore = create<GameState>()((set, get) => ({
 
     set((state) => ({
       wordPool: buildWordPool(wordCount),
-      currentTeamIndex: 0,
       currentRoundIndex: state.currentRoundIndex + 1,
     }));
   },
