@@ -1,3 +1,5 @@
+import type { Href } from "expo-router";
+
 import type { Round } from "@/types/game";
 
 export const roundTypes: Round[] = [
@@ -32,4 +34,11 @@ export const roundVisuals: Record<string, { icon: string; badgeClassName: string
   "2": { icon: "🎭", badgeClassName: "bg-amber" },
   "3": { icon: "📜", badgeClassName: "bg-primary" },
   "4": { icon: "🎨", badgeClassName: "bg-violet" },
+};
+
+export const roundRulesRoute: Record<string, Href> = {
+  "1": "/game-rules",
+  "2": "/game-rules-2",
+  "3": "/game-rules-3",
+  "4": "/game-rules-4",
 };

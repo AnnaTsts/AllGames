@@ -2,6 +2,7 @@ import { useRouter } from "expo-router";
 import { useState } from "react";
 import { Pressable, SafeAreaView, ScrollView, Text, View } from "react-native";
 
+import { roundRulesRoute } from "@/data/rounds";
 import { useGameStore } from "@/store/gameStore";
 import { useTeamStore } from "@/store/teamStore";
 
@@ -12,14 +13,27 @@ export default function WhoGuessed() {
   const awardWord = useGameStore((state) => state.awardWord);
   const discardWord = useGameStore((state) => state.discardWord);
   const nextTeam = useGameStore((state) => state.nextTeam);
+  const startNextRound = useGameStore((state) => state.startNextRound);
 
   const [soundOn, setSoundOn] = useState(true);
   const [guesserId, setGuesserId] = useState<string | null>(null);
 
   const goToNextTurn = () => {
     nextTeam();
-    const remaining = useGameStore.getState().wordPool.length;
-    router.replace(remaining === 0 ? "/results" : "/team-turn");
+    const { wordPool, activeRoundIds, currentRoundIndex } = useGameStore.getState();
+
+    if (wordPool.length > 0) {
+      router.replace("/team-turn");
+      return;
+    }
+
+    const nextRoundId = activeRoundIds[currentRoundIndex + 1];
+    if (nextRoundId) {
+      startNextRound();
+      router.replace(roundRulesRoute[nextRoundId]);
+    } else {
+      router.replace("/results");
+    }
   };
 
   const handleDone = () => {

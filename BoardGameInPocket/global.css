@@ -15,6 +15,8 @@
   --color-amber: #d98b3a;
   --color-teal: #3b7170;
   --color-violet: #7d5ba6;
+  --color-olive: #4d5433;
+  --color-khaki: #87713e;
 
   /* Semantic */
   --color-success: #578769;
@@ -149,6 +151,10 @@
 
 .button--outline-teal {
   @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-teal bg-cream py-4;
+}
+
+.button--outline-primary {
+  @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-primary bg-cream py-4;
 }
 
 .card--team {

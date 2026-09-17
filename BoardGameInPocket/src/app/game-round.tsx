@@ -2,6 +2,7 @@ import { useRouter } from "expo-router";
 import { useEffect, useState } from "react";
 import { Pressable, SafeAreaView, Share, Text, View } from "react-native";
 
+import { roundRulesRoute } from "@/data/rounds";
 import { useGameStore } from "@/store/gameStore";
 
 const ROUND_SECONDS = 60;
@@ -12,6 +13,7 @@ export default function GameRound() {
   const wordPool = useGameStore((state) => state.wordPool);
   const markCorrect = useGameStore((state) => state.markCorrect);
   const markSkipped = useGameStore((state) => state.markSkipped);
+  const startNextRound = useGameStore((state) => state.startNextRound);
 
   const [secondsLeft, setSecondsLeft] = useState(ROUND_SECONDS);
   const [isPaused, setIsPaused] = useState(false);
@@ -35,9 +37,16 @@ export default function GameRound() {
 
   useEffect(() => {
     if (wordPool.length === 0) {
-      router.replace("/results");
+      const { activeRoundIds, currentRoundIndex } = useGameStore.getState();
+      const nextRoundId = activeRoundIds[currentRoundIndex + 1];
+      if (nextRoundId) {
+        startNextRound();
+        router.replace(roundRulesRoute[nextRoundId]);
+      } else {
+        router.replace("/results");
+      }
     }
-  }, [wordPool.length, router]);
+  }, [wordPool.length, router, startNextRound]);
 
   const currentWord = wordPool[0];
   const minutes = String(Math.floor(secondsLeft / 60)).padStart(2, "0");

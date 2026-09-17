@@ -3,9 +3,9 @@ import { useState } from "react";
 import { Image, Pressable, SafeAreaView, ScrollView, Text, View } from "react-native";
 
 import { images } from "@/constants/images";
-import { oratorRules } from "@/data/gameRules";
+import { artistRules } from "@/data/gameRules";
 
-export default function GameRules() {
+export default function GameRulesRound4() {
   const router = useRouter();
   const [soundOn, setSoundOn] = useState(true);
 
@@ -21,12 +21,12 @@ export default function GameRules() {
             className="flex-1 px-2 text-center font-nunito-bold text-h2 text-cream"
             numberOfLines={1}
           >
-            ПРАВИЛА ГРИ: {oratorRules.gameTitle}
+            ПРАВИЛА ГРИ: {artistRules.gameTitle}
           </Text>
 
           <Pressable
             onPress={() => setSoundOn((prev) => !prev)}
-            className="h-10 w-10 items-center justify-center rounded-full bg-rust"
+            className="h-11 w-11 items-center justify-center rounded-full bg-rust"
             style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
           >
             <Text className="text-lg">{soundOn ? "🔊" : "🔈"}</Text>
@@ -34,30 +34,37 @@ export default function GameRules() {
         </View>
 
         <ScrollView
-          className="flex-1 px-6 pt-6"
-          contentContainerStyle={{ gap: 20, paddingBottom: 24 }}
+          className="flex-1 px-6"
+          contentContainerStyle={{ gap: 20, paddingBottom: 24, paddingTop: 44 }}
+          showsVerticalScrollIndicator={false}
         >
-          <View className="flex-row items-center gap-4 rounded-3xl bg-cream p-5">
-            <Image
-              source={images.oratorMascot}
-              style={{ width: 96, height: 96, borderRadius: 16 }}
-              resizeMode="contain"
-            />
-            <View className="flex-1 gap-1">
-              <Text className="font-nunito-semibold text-h4 text-brown">
-                {oratorRules.round} тур
-              </Text>
-              <Text className="font-nunito-bold text-h1 text-brown">
-                {oratorRules.gameTitle}:{"\n"}ПРАВИЛА
-              </Text>
+          <View style={{ position: "relative" }}>
+            <View
+              className="flex-row items-end rounded-3xl bg-cream py-5 pr-5"
+              style={{ paddingLeft: 150 }}
+            >
+              <View className="flex-1 gap-1 pb-1">
+                <Text className="font-nunito-semibold text-h4 text-brown">
+                  {artistRules.round} тур
+                </Text>
+                <Text className="font-nunito-bold text-h1 text-brown">
+                  {artistRules.roundName ?? artistRules.gameTitle}
+                </Text>
+              </View>
             </View>
+
+            <Image
+              source={images.artistMascot}
+              resizeMode="contain"
+              style={{ position: "absolute", left: 8, top: -52, width: 128, height: 177 }}
+            />
           </View>
 
           <View className="flex-row items-center gap-4 rounded-3xl bg-cream p-5">
-            <Text className="text-4xl">🎲</Text>
+            <Text className="text-4xl">🎨</Text>
             <Text className="flex-1 font-nunito-regular text-h4 text-brown">
               <Text className="font-nunito-bold">ЗАВДАННЯ: </Text>
-              {oratorRules.task}
+              {artistRules.task}
             </Text>
           </View>
 
@@ -65,7 +72,7 @@ export default function GameRules() {
             × × × × ЗАБОРОНЕНО × × × ×
           </Text>
 
-          {oratorRules.forbidden.map((item) => (
+          {artistRules.forbidden.map((item) => (
             <View
               key={item}
               className="flex-row items-center gap-4 rounded-3xl bg-cream p-5"
@@ -83,11 +90,11 @@ export default function GameRules() {
         <View className="bg-orange px-6 pb-6 pt-2">
           <Pressable
             onPress={() => router.push("/team-turn")}
-            className="button--outline-teal"
+            className="button--outline-primary"
             style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
           >
-            <Text className="font-nunito-bold text-h3 text-teal">›</Text>
-            <Text className="font-nunito-bold text-h3 text-teal">ДАЛІ</Text>
+            <Text className="font-nunito-bold text-h3 text-primary">›</Text>
+            <Text className="font-nunito-bold text-h3 text-primary">ДАЛІ</Text>
           </Pressable>
         </View>
       </SafeAreaView>

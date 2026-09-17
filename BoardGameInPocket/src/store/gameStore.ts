@@ -1,6 +1,8 @@
 import { create } from "zustand";
 
+import { roundTypes } from "@/data/rounds";
 import { words as allWords } from "@/data/words";
+import { useRoundStore } from "@/store/roundStore";
 import { useTeamStore } from "@/store/teamStore";
 import { useThemeStore } from "@/store/themeStore";
 import type { Word } from "@/types/game";
@@ -30,11 +32,26 @@ function buildWordPool(wordCount: number): Word[] {
   return shuffle(candidates).slice(0, wordCount);
 }
 
+function buildActiveRoundIds(): string[] {
+  const { selectedRoundIds } = useRoundStore.getState();
+  const selected = roundTypes
+    .filter((round) => selectedRoundIds.includes(round.id))
+    .sort((a, b) => a.order - b.order)
+    .map((round) => round.id);
+
+  return selected.length > 0
+    ? selected
+    : [...roundTypes].sort((a, b) => a.order - b.order).map((round) => round.id);
+}
+
 type GameState = {
   wordPool: Word[];
   teamScores: Record<string, number>;
   currentTeamIndex: number;
+  activeRoundIds: string[];
+  currentRoundIndex: number;
   startGame: () => void;
+  startNextRound: () => void;
   markCorrect: () => void;
   markSkipped: () => void;
   awardWord: (teamId: string) => void;
@@ -46,6 +63,8 @@ export const useGameStore = create<GameState>()((set, get) => ({
   wordPool: [],
   teamScores: {},
   currentTeamIndex: 0,
+  activeRoundIds: [],
+  currentRoundIndex: 0,
 
   startGame: () => {
     const { teams } = useTeamStore.getState();
@@ -55,7 +74,19 @@ export const useGameStore = create<GameState>()((set, get) => ({
       wordPool: buildWordPool(wordCount),
       teamScores: Object.fromEntries(teams.map((team) => [team.id, 0])),
       currentTeamIndex: 0,
+      activeRoundIds: buildActiveRoundIds(),
+      currentRoundIndex: 0,
     });
+  },
+
+  startNextRound: () => {
+    const { wordCount } = useThemeStore.getState();
+
+    set((state) => ({
+      wordPool: buildWordPool(wordCount),
+      currentTeamIndex: 0,
+      currentRoundIndex: state.currentRoundIndex + 1,
+    }));
   },
 
   markCorrect: () => {

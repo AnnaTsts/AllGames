@@ -11,11 +11,14 @@ import {
 } from "react-native";
 
 import { TeamCard } from "@/components/TeamCard";
+import { roundRulesRoute } from "@/data/rounds";
+import { useGameStore } from "@/store/gameStore";
 import { useTeamStore } from "@/store/teamStore";
 
 export default function Teams() {
   const router = useRouter();
   const teams = useTeamStore((state) => state.teams);
+  const startGame = useGameStore((state) => state.startGame);
   const selectTeam = useTeamStore((state) => state.selectTeam);
   const addTeam = useTeamStore((state) => state.addTeam);
   const addMember = useTeamStore((state) => state.addMember);
@@ -110,7 +113,11 @@ export default function Teams() {
 
           <View className="mb-[10%] bg-orange px-6 pb-6 pt-2">
             <Pressable
-              onPress={() => router.push("/game-rules")}
+              onPress={() => {
+                startGame();
+                const firstRoundId = useGameStore.getState().activeRoundIds[0];
+                router.push(roundRulesRoute[firstRoundId]);
+              }}
               className="button--primary"
               style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
             >
