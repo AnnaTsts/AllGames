@@ -50,6 +50,8 @@ type GameState = {
   currentTeamIndex: number;
   activeRoundIds: string[];
   currentRoundIndex: number;
+  turnCorrect: number;
+  turnSkipped: number;
   startGame: () => void;
   startNextRound: () => void;
   markCorrect: () => void;
@@ -81,6 +83,8 @@ export const useGameStore = create<GameState>()((set, get) => ({
   currentTeamIndex: 0,
   activeRoundIds: [],
   currentRoundIndex: 0,
+  turnCorrect: 0,
+  turnSkipped: 0,
 
   startGame: () => {
     const { wordCount } = useThemeStore.getState();
@@ -91,6 +95,8 @@ export const useGameStore = create<GameState>()((set, get) => ({
       currentTeamIndex: 0,
       activeRoundIds: buildActiveRoundIds(),
       currentRoundIndex: 0,
+      turnCorrect: 0,
+      turnSkipped: 0,
     });
   },
 
@@ -112,6 +118,7 @@ export const useGameStore = create<GameState>()((set, get) => ({
     set((state) => ({
       wordPool: state.wordPool.slice(1),
       roundScores: addToRoundScore(state.roundScores, roundId, team.id, 1),
+      turnCorrect: state.turnCorrect + 1,
     }));
   },
 
@@ -124,6 +131,7 @@ export const useGameStore = create<GameState>()((set, get) => ({
     set((state) => ({
       wordPool: [...state.wordPool.slice(1), state.wordPool[0]],
       roundScores: addToRoundScore(state.roundScores, roundId, team.id, -1),
+      turnSkipped: state.turnSkipped + 1,
     }));
   },
 
@@ -136,18 +144,24 @@ export const useGameStore = create<GameState>()((set, get) => ({
       return {
         wordPool: state.wordPool.slice(1),
         roundScores: addToRoundScore(state.roundScores, roundId, teamId, 1),
+        turnCorrect: state.turnCorrect + 1,
       };
     });
   },
 
   discardWord: () => {
-    set((state) => ({ wordPool: state.wordPool.slice(1) }));
+    set((state) => ({
+      wordPool: state.wordPool.slice(1),
+      turnSkipped: state.turnSkipped + 1,
+    }));
   },
 
   nextTeam: () => {
     const teamCount = useTeamStore.getState().teams.length;
     set((state) => ({
       currentTeamIndex: teamCount > 0 ? (state.currentTeamIndex + 1) % teamCount : 0,
+      turnCorrect: 0,
+      turnSkipped: 0,
     }));
   },
 }));
