@@ -151,7 +151,10 @@ export const useGameStore = create<GameState>()((set, get) => ({
 
   discardWord: () => {
     set((state) => ({
-      wordPool: state.wordPool.slice(1),
+      wordPool:
+        state.wordPool.length > 0
+          ? [...state.wordPool.slice(1), state.wordPool[0]]
+          : state.wordPool,
       turnSkipped: state.turnSkipped + 1,
     }));
   },

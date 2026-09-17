@@ -91,7 +91,7 @@ export default function TurnResult() {
           </View>
         </View>
 
-        <View className="px-6 pb-6 pt-2">
+        <View className="-translate-y-[10%] px-6 pb-6 pt-2">
           <Pressable
             onPress={handleNextTeam}
             className="button--brown"

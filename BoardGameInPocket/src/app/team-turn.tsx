@@ -89,10 +89,10 @@ export default function TeamTurn() {
 
           <Pressable
             onPress={() => router.replace("/game-round")}
-            className="button--brown"
+            className="items-center justify-center rounded-3xl bg-brown py-[22px]"
             style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
           >
-            <Text className="font-nunito-bold text-h3 text-cream">Грати</Text>
+            <Text className="font-nunito-bold text-[22px] text-cream">Грати</Text>
           </Pressable>
         </View>
       </SafeAreaView>
