@@ -46,7 +46,7 @@ function buildActiveRoundIds(): string[] {
 
 type GameState = {
   wordPool: Word[];
-  teamScores: Record<string, number>;
+  roundScores: Record<string, Record<string, number>>;
   currentTeamIndex: number;
   activeRoundIds: string[];
   currentRoundIndex: number;
@@ -59,20 +59,35 @@ type GameState = {
   nextTeam: () => void;
 };
 
+function addToRoundScore(
+  roundScores: Record<string, Record<string, number>>,
+  roundId: string,
+  teamId: string,
+  delta: number
+): Record<string, Record<string, number>> {
+  const currentRoundScores = roundScores[roundId] ?? {};
+  return {
+    ...roundScores,
+    [roundId]: {
+      ...currentRoundScores,
+      [teamId]: (currentRoundScores[teamId] ?? 0) + delta,
+    },
+  };
+}
+
 export const useGameStore = create<GameState>()((set, get) => ({
   wordPool: [],
-  teamScores: {},
+  roundScores: {},
   currentTeamIndex: 0,
   activeRoundIds: [],
   currentRoundIndex: 0,
 
   startGame: () => {
-    const { teams } = useTeamStore.getState();
     const { wordCount } = useThemeStore.getState();
 
     set({
       wordPool: buildWordPool(wordCount),
-      teamScores: Object.fromEntries(teams.map((team) => [team.id, 0])),
+      roundScores: {},
       currentTeamIndex: 0,
       activeRoundIds: buildActiveRoundIds(),
       currentRoundIndex: 0,
@@ -90,42 +105,38 @@ export const useGameStore = create<GameState>()((set, get) => ({
   },
 
   markCorrect: () => {
-    const { wordPool, currentTeamIndex } = get();
+    const { wordPool, currentTeamIndex, activeRoundIds, currentRoundIndex } = get();
     const team = useTeamStore.getState().teams[currentTeamIndex];
-    if (!team || wordPool.length === 0) return;
+    const roundId = activeRoundIds[currentRoundIndex];
+    if (!team || !roundId || wordPool.length === 0) return;
 
     set((state) => ({
       wordPool: state.wordPool.slice(1),
-      teamScores: {
-        ...state.teamScores,
-        [team.id]: (state.teamScores[team.id] ?? 0) + 1,
-      },
+      roundScores: addToRoundScore(state.roundScores, roundId, team.id, 1),
     }));
   },
 
   markSkipped: () => {
-    const { wordPool, currentTeamIndex } = get();
+    const { wordPool, currentTeamIndex, activeRoundIds, currentRoundIndex } = get();
     const team = useTeamStore.getState().teams[currentTeamIndex];
-    if (!team || wordPool.length === 0) return;
+    const roundId = activeRoundIds[currentRoundIndex];
+    if (!team || !roundId || wordPool.length === 0) return;
 
     set((state) => ({
       wordPool: [...state.wordPool.slice(1), state.wordPool[0]],
-      teamScores: {
-        ...state.teamScores,
-        [team.id]: (state.teamScores[team.id] ?? 0) - 1,
-      },
+      roundScores: addToRoundScore(state.roundScores, roundId, team.id, -1),
     }));
   },
 
   awardWord: (teamId) => {
+    const { activeRoundIds, currentRoundIndex } = get();
+    const roundId = activeRoundIds[currentRoundIndex];
+
     set((state) => {
-      if (state.wordPool.length === 0) return state;
+      if (!roundId || state.wordPool.length === 0) return state;
       return {
         wordPool: state.wordPool.slice(1),
-        teamScores: {
-          ...state.teamScores,
-          [teamId]: (state.teamScores[teamId] ?? 0) + 1,
-        },
+        roundScores: addToRoundScore(state.roundScores, roundId, teamId, 1),
       };
     });
   },
