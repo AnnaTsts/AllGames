@@ -3,12 +3,14 @@ import "../../global.css";
 import { useFonts } from "expo-font";
 import { Stack } from "expo-router";
 import * as SplashScreen from "expo-splash-screen";
+import { setAudioModeAsync } from "expo-audio";
 import { useEffect } from "react";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 
 import { fontAssets } from "@/theme/fonts";
 
 SplashScreen.preventAutoHideAsync();
+setAudioModeAsync({ playsInSilentMode: true });
 
 export default function RootLayout() {
   const [fontsLoaded, fontError] = useFonts(fontAssets);

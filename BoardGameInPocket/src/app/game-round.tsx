@@ -12,7 +12,9 @@ import Animated, {
 import { runOnJS } from "react-native-worklets";
 
 import { roundRulesRoute } from "@/data/rounds";
+import { soundEffects } from "@/lib/soundEffects";
 import { useGameStore } from "@/store/gameStore";
+import { useSoundStore } from "@/store/soundStore";
 
 const ROUND_SECONDS = 60;
 const SKIP_PENALTY = 1;
@@ -26,9 +28,11 @@ export default function GameRound() {
   const startNextRound = useGameStore((state) => state.startNextRound);
   const nextTeam = useGameStore((state) => state.nextTeam);
 
+  const soundEnabled = useSoundStore((state) => state.soundEnabled);
+  const toggleSound = useSoundStore((state) => state.toggleSound);
+
   const [secondsLeft, setSecondsLeft] = useState(ROUND_SECONDS);
   const [isPaused, setIsPaused] = useState(false);
-  const [soundOn, setSoundOn] = useState(true);
   const [isSwiping, setIsSwiping] = useState(false);
 
   const { width: screenWidth } = useWindowDimensions();
@@ -47,6 +51,7 @@ export default function GameRound() {
 
   useEffect(() => {
     if (secondsLeft === 0) {
+      soundEffects.playTimerEnd();
       router.replace("/who-guessed");
     }
   }, [secondsLeft, router]);
@@ -76,8 +81,10 @@ export default function GameRound() {
 
   const handleSwipeComplete = (direction: "left" | "right") => {
     if (direction === "right") {
+      soundEffects.playCorrect();
       markCorrect();
     } else {
+      soundEffects.playSkip();
       markSkipped();
     }
     setIsSwiping(false);
@@ -138,11 +145,11 @@ export default function GameRound() {
           </View>
 
           <Pressable
-            onPress={() => setSoundOn((prev) => !prev)}
+            onPress={toggleSound}
             className="h-10 w-10 items-center justify-center rounded-full bg-rust"
             style={({ pressed }) => ({ opacity: pressed ? 0.8 : 1 })}
           >
-            <Text className="text-lg">{soundOn ? "🔊" : "🔈"}</Text>
+            <Text className="text-lg">{soundEnabled ? "🔊" : "🔈"}</Text>
           </Pressable>
         </View>
 
