@@ -9,10 +9,13 @@ export type Team = {
   members: string[];
 };
 
+export type Difficulty = "easy" | "normal" | "hard";
+
 export type Word = {
   id: string;
   text: string;
   themeId: string;
+  difficulty: Difficulty;
 };
 
 export type ThemeCategory = {

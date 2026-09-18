@@ -14,11 +14,13 @@ export default function Themes() {
   const themes = useThemeStore((state) => state.themes);
   const wordCount = useThemeStore((state) => state.wordCount);
   const allThemesSelected = useThemeStore((state) => state.allThemesSelected);
+  const difficulties = useThemeStore((state) => state.difficulties);
   const setWordCount = useThemeStore((state) => state.setWordCount);
   const toggleTheme = useThemeStore((state) => state.toggleTheme);
   const setAllThemesSelected = useThemeStore((state) => state.setAllThemesSelected);
   const addTheme = useThemeStore((state) => state.addTheme);
   const addWordToTheme = useThemeStore((state) => state.addWordToTheme);
+  const toggleDifficulty = useThemeStore((state) => state.toggleDifficulty);
 
   const [modalState, setModalState] = useState<AddModalState>(null);
   const [inputValue, setInputValue] = useState("");
@@ -68,6 +70,27 @@ export default function Themes() {
               onValueChange={() => setAllThemesSelected(!allThemesSelected)}
               showLabel
             />
+          </View>
+        </View>
+
+        <View className="flex-col gap-3 bg-tan px-6 py-5">
+          <Text className="font-nunito-bold text-body-lg text-brown">СКЛАДНІСТЬ СЛІВ</Text>
+
+          <View className="flex-row items-center justify-between gap-3">
+            <View className="flex-row items-center gap-2">
+              <Text className="font-nunito-bold text-body-sm text-brown">Легко</Text>
+              <Toggle value={difficulties.easy} onValueChange={() => toggleDifficulty("easy")} />
+            </View>
+
+            <View className="flex-row items-center gap-2">
+              <Text className="font-nunito-bold text-body-sm text-brown">Нормально</Text>
+              <Toggle value={difficulties.normal} onValueChange={() => toggleDifficulty("normal")} />
+            </View>
+
+            <View className="flex-row items-center gap-2">
+              <Text className="font-nunito-bold text-body-sm text-brown">Важко</Text>
+              <Toggle value={difficulties.hard} onValueChange={() => toggleDifficulty("hard")} />
+            </View>
           </View>
         </View>
 

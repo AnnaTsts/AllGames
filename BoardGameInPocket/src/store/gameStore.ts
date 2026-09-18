@@ -17,15 +17,17 @@ function shuffle<T>(items: T[]): T[] {
 }
 
 function buildWordPool(wordCount: number): Word[] {
-  const { themes } = useThemeStore.getState();
+  const { themes, difficulties } = useThemeStore.getState();
   const enabledThemes = themes.filter((theme) => theme.enabled);
   const enabledThemeIds = new Set(enabledThemes.map((theme) => theme.id));
 
-  const candidates: Word[] = allWords.filter((word) => enabledThemeIds.has(word.themeId));
+  const candidates: Word[] = allWords.filter(
+    (word) => enabledThemeIds.has(word.themeId) && difficulties[word.difficulty]
+  );
 
   enabledThemes.forEach((theme) => {
     theme.customWords.forEach((text, index) => {
-      candidates.push({ id: `custom-${theme.id}-${index}`, text, themeId: theme.id });
+      candidates.push({ id: `custom-${theme.id}-${index}`, text, themeId: theme.id, difficulty: "hard" });
     });
   });
 

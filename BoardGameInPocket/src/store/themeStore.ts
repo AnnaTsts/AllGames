@@ -3,21 +3,29 @@ import { create } from "zustand";
 import { createJSONStorage, persist } from "zustand/middleware";
 
 import { themes as initialThemes } from "@/data/themes";
-import type { ThemeCategory } from "@/types/game";
+import type { Difficulty, ThemeCategory } from "@/types/game";
 
 export const MIN_WORD_COUNT = 5;
 export const MAX_WORD_COUNT = 50;
 const DEFAULT_WORD_COUNT = 20;
 
+const DEFAULT_DIFFICULTIES: Record<Difficulty, boolean> = {
+  easy: false,
+  normal: false,
+  hard: true,
+};
+
 type ThemeState = {
   themes: ThemeCategory[];
   wordCount: number;
   allThemesSelected: boolean;
+  difficulties: Record<Difficulty, boolean>;
   setWordCount: (count: number) => void;
   toggleTheme: (id: string) => void;
   setAllThemesSelected: (enabled: boolean) => void;
   addTheme: (name: string) => void;
   addWordToTheme: (id: string, word: string) => void;
+  toggleDifficulty: (difficulty: Difficulty) => void;
 };
 
 export const useThemeStore = create<ThemeState>()(
@@ -26,6 +34,7 @@ export const useThemeStore = create<ThemeState>()(
       themes: initialThemes,
       wordCount: DEFAULT_WORD_COUNT,
       allThemesSelected: true,
+      difficulties: DEFAULT_DIFFICULTIES,
       setWordCount: (count) =>
         set({
           wordCount: Math.min(MAX_WORD_COUNT, Math.max(MIN_WORD_COUNT, count)),
@@ -55,6 +64,13 @@ export const useThemeStore = create<ThemeState>()(
               ? { ...theme, customWords: [...theme.customWords, word] }
               : theme
           ),
+        })),
+      toggleDifficulty: (difficulty) =>
+        set((state) => ({
+          difficulties: {
+            ...state.difficulties,
+            [difficulty]: !state.difficulties[difficulty],
+          },
         })),
     }),
     {
