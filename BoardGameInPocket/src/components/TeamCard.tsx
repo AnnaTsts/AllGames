@@ -8,6 +8,7 @@ type TeamCardProps = {
   onDeleteMember?: (member: string) => void;
   onEditTeamName?: () => void;
   onEditMember?: (member: string) => void;
+  onRandomizeTeamName?: () => void;
 };
 
 const MIN_MEMBER_COUNT = 2;
@@ -20,6 +21,7 @@ export function TeamCard({
   onDeleteMember,
   onEditTeamName,
   onEditMember,
+  onRandomizeTeamName,
 }: TeamCardProps) {
   const canDeleteMember = members.length > MIN_MEMBER_COUNT;
 
@@ -27,7 +29,13 @@ export function TeamCard({
     <View className="card--team">
       <View className="flex-row items-center justify-between gap-3 px-4 py-4">
         <View className="flex-1 flex-row items-center gap-3">
-          <Text className="text-3xl">🎲</Text>
+          <Pressable
+            onPress={onRandomizeTeamName}
+            hitSlop={8}
+            style={({ pressed }) => ({ opacity: pressed ? 0.6 : 1 })}
+          >
+            <Text className="text-3xl">🎲</Text>
+          </Pressable>
           <Text
             className="flex-1 font-nunito-bold text-lg text-brown"
             numberOfLines={1}

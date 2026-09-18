@@ -3,6 +3,7 @@ import { create } from "zustand";
 import { createJSONStorage, persist } from "zustand/middleware";
 
 import { players } from "@/data/players";
+import { teamNames } from "@/data/teamNames";
 import { teams as initialTeams } from "@/data/teams";
 import type { Team } from "@/types/game";
 
@@ -12,6 +13,12 @@ const MIN_MEMBER_COUNT = 2;
 function pickRandomName(exclude: string[]): string {
   const available = players.map((player) => player.name).filter((name) => !exclude.includes(name));
   const pool = available.length > 0 ? available : players.map((player) => player.name);
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+
+function pickRandomTeamName(exclude: string[]): string {
+  const available = teamNames.filter((name) => !exclude.includes(name));
+  const pool = available.length > 0 ? available : teamNames;
   return pool[Math.floor(Math.random() * pool.length)];
 }
 
@@ -33,6 +40,7 @@ type TeamState = {
   deleteMember: (teamId: string, member: string) => void;
   renameTeam: (teamId: string, name: string) => void;
   renameMember: (teamId: string, oldName: string, newName: string) => void;
+  randomizeTeamName: (teamId: string) => void;
 };
 
 export const useTeamStore = create<TeamState>()(
@@ -103,6 +111,17 @@ export const useTeamStore = create<TeamState>()(
             };
           }),
         })),
+      randomizeTeamName: (teamId) =>
+        set((state) => {
+          const usedNames = state.teams.map((team) => team.name);
+          return {
+            teams: state.teams.map((team) =>
+              team.id === teamId
+                ? { ...team, name: pickRandomTeamName(usedNames) }
+                : team
+            ),
+          };
+        }),
     }),
     {
       name: "team-storage",

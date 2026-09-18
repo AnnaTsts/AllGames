@@ -26,6 +26,7 @@ export default function Teams() {
   const deleteMember = useTeamStore((state) => state.deleteMember);
   const renameTeam = useTeamStore((state) => state.renameTeam);
   const renameMember = useTeamStore((state) => state.renameMember);
+  const randomizeTeamName = useTeamStore((state) => state.randomizeTeamName);
 
   const [isModalVisible, setIsModalVisible] = useState(false);
   const [newTeamName, setNewTeamName] = useState("");
@@ -95,6 +96,7 @@ export default function Teams() {
                     setEditTarget({ type: "member", teamId: team.id, member });
                     setEditName(member);
                   }}
+                  onRandomizeTeamName={() => randomizeTeamName(team.id)}
                 />
               </Pressable>
             ))}
