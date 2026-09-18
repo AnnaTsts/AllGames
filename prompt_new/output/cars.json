@@ -1,0 +1,1807 @@
+{
+  "category": "Автомобілі",
+  "emoji": "🚗",
+  "count": 450,
+  "words": [
+    {
+      "word": "Тойота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "БМВ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мерседес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ауді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фольксваген",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Запорожець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Волга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тесла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феррарі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ламборгіні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Порше",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Форд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Опель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шкода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хендай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кіа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніссан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хонда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мазда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рено",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пежо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фіат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вольво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ролс-Ройс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шевроле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джип",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Міцубісі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Субару",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Седан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хетчбек",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Універсал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Позашляховик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кабріолет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мінівен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пікап",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Купе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лімузин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вантажівка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мотоцикл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Причіп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кермо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колесо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Багажник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Капот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Двигун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гальма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Педаль газу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дзеркало заднього виду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ремінь безпеки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лобове скло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Склоочисники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Поворотник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аварійка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клаксон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бензин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дизель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Акумулятор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Диски",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бампер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спідометр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Панель приладів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Коробка передач",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зчеплення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ручне гальмо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Підголівник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бардачок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дитяче автокрісло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Двері автомобіля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дах автомобіля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Номерний знак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Багажний відсік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ключі від машини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сигналізація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Радіатор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вихлопна труба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Глушник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Паливний бак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Протитуманні фари",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Водій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пасажир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Таксист",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автомеханік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Інструктор з водіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Поліцейський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Інспектор ДАІ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пішохід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автомийник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Продавець автомобілів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Таксі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автобус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тролейбус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Швидка допомога",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пожежна машина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Поліцейська машина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шкільний автобус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автовоз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Паркування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заправка машини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автомийка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гараж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пробка на дорозі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Затор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перехрестя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Швидкість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розгін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гальмування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обгін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розворот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заднім ходом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Завести машину",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заглухнути",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Помити машину",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заправити машину",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Проколоти колесо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Замінити колесо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Купити машину",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Продати машину",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Здати на права",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скласти іспит з водіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Технічний огляд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ремонт автомобіля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дорожня яма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лежачий поліцейський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Узбіччя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Штраф за швидкість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автосалон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стоянка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Паркомат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шлагбаум",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автосервіс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шиномонтаж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заміна масла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дорожній знак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пішохідний перехід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Світлофор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Знак стоп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Траса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автомагістраль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Міст",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тунель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автозаправна станція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кільцева розв'язка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Естакада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Платна дорога",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зона відпочинку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роздільна смуга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автопарк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автокрісло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ключ запалювання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Багажник на даху",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Причіп для човна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дорожня розмітка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пасажирське сидіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Водійське сидіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заднє сидіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дитяче сидіння в машині",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ремонтна майстерня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автозапчастини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автомобільна фарба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кузов автомобіля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вітрове скло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Задній хід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ручка дверей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Склопідйомник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кондиціонер в машині",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обігрів сидінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Магнітола",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автомобільний килимок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дорожній рух",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Правила дорожнього руху",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смугастий стовпчик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дорожній кордон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Велосипедна доріжка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пункт видачі прав",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автомобільна виставка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мийний засіб для авто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Інфініті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лексус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сузукі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дачія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сеат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бентлі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мазераті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Астон Мартін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бугатті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кадиллак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Додж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крайслер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ситроен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джилі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "УАЗ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Газель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "КамАЗ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Таврія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Москвич",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Смарт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кермова колонка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гальмівні колодки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свічки запалювання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Генератор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стартер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Амортизатор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Підвіска автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ремінь генератора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Паливний насос",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Датчик тиску в шинах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гальмівний диск",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кузовний ремонт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ходова частина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кермова рейка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Радіаторна решітка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Протибуксувальна система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Турбіна двигуна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Каталізатор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Форсунки палива",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Охолоджувальна рідина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гідропідсилювач керма",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Склоомивач",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антена автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Люк на даху",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тонування скла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дорожньо-транспортна пригода",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аварійна зупинка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виклик евакуатора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Буксирування авто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Застрягти в багнюці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пробуксовка коліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Занос машини на слизькій дорозі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обгін на подвійній суцільній",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перевищення швидкості",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Проїзд на червоне світло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Керування у нетверезому стані",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оформлення страховки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автоцивілка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Реєстрація автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перереєстрація на нового власника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Продаж авто на запчастини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Здача авто в оренду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прокат автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автомобіль напрокат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тест-драйв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тюнінг автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Заміна гальмівних колодок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Балансування коліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розвал-сходження",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Діагностика двигуна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Заміна ременя ГРМ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Промивання інжектора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Полірування кузова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зимова гума",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літня гума",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Драг-рейсинг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автопробіг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ретро-автомобіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автоколекціонер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Клуб автолюбителів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виставка ретро-авто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мітинг автомобілістів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нічні перегони",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стріт-рейсинг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гоночна траса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пітстоп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Формула-1",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ралі-рейд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автодром",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Картинг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Електромобіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гібридний автомобіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зарядна станція для електромобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автономне водіння",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Круїз-контроль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Парктронік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Камера заднього виду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Система навігації",
+      "difficulty": "normal"
+    },
+    {
+      "word": "GPS-навігатор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Штрафна квитанція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Камера фіксації швидкості",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Радар-детектор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дорожня поліція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Патрульний автомобіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пункт техогляду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Технічний паспорт автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гарантійне обслуговування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сервісна книжка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пробіг автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Скручений спідометр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вживаний автомобіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автомобіль з аукціону",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розмитнення авто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автомобіль на газу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Газобалонне обладнання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Витрата пального",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Витрата палива на трасі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автомобільний кредит",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лізинг автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Каско",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Довіреність на авто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Технічний талон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Знак аварійної зупинки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Трикутник аварійної зупинки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вогнегасник в машині",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аптечка автомобільна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Комплект автомобіліста",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Запасне колесо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Домкрат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Балонний ключ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Компресор для шин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пусковий пристрій для акумулятора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Проводи для прикурювання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Незамерзайка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Шумоізоляція автомобіля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ролс-Ройс Фантом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Астон Мартін Вантаж",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Майбах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спайкер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Паганні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кенігсегг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заз Славута",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заз Сенс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Богдан автомобіль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Еталон автобус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Момент інерції колеса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Коефіцієнт зчеплення з дорогою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Клас паливної економічності",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Система рекуперації енергії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Повний привід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Задній привід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Передній привід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Блокування диференціала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роздатковий редуктор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вакуумний підсилювач гальм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антиблокувальна система гальм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Система курсової стійкості",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Адаптивна підвіска",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пневматична підвіска",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Регенеративне гальмування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гібридна силова установка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Турбонаддув",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Компресорний наддув",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Система старт-стоп",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Клапанний механізм двигуна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розподільний вал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Колінчастий вал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Поршнева група",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ступінь стиснення двигуна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Октанове число бензину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Цетанове число дизелю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Система відведення вихлопних газів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сажовий фільтр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Каталітичний нейтралізатор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Система рециркуляції відпрацьованих газів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Електронний блок керування двигуном",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Датчик кисню",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Датчик детонації",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іммобілайзер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Транспондер ключа запалювання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Право переваги проїзду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Знак уступи дорогу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заборона обгону на перехресті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обмеження швидкості в населеному пункті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зона дії дорожнього знака",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Позбавлення посвідчення водія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Медичне освідчення на сп'яніння",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Адміністративне правопорушення в дорожньому русі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Реєстраційний номер транспортного засобу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Технічний стан гальмівної системи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Схема дорожньо-транспортної пригоди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Європротокол при ДТП",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Взаємне визнання вини водіїв",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свідчення очевидців аварії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оцінка збитків після аварії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Судова автотехнічна експертиза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Страхове відшкодування за ДТП",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Регресний позов страхової компанії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дорожній контроль вагових параметрів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Габаритні норми перевезення вантажу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дозвіл на негабаритне перевезення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тахограф вантажівки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Режим праці та відпочинку водія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Міжнародні автомобільні перевезення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Митне оформлення транспортного засобу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Транзитні номерні знаки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Договір купівлі-продажу автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Довіреність на керування автомобілем",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Технічна експертиза автомобіля перед купівлею",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перевірка автомобіля на розшук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Автомобільний музей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прототип автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Концепт-кар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Автомобіль ручної збірки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кузовне ательє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дизайнер автомобілів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аеродинамічна труба для випробувань",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Краш-тест автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рейтинг безпеки Євро NCAP",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гоночний болід Формули-1",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пілот ралійного автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Штурман у ралі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спецділянка ралі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Технічна інспекція перед стартом гонки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Піт-стоп команда механіків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дистанція гальмівного шляху",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аквапланування на трасі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ефект бумерангу при заносі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Недостатня поворотність автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Надлишкова поворотність автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Центр ваги автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розподіл маси по осях",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кліренс автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Знімний фаркоп",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Причіп-дача",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Автомобільний причіп для вантажу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вантажопідйомність транспортного засобу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Максимально дозволена маса причепа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сертифікат відповідності транспортного засобу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Екологічний клас Євро-6",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гідротрансформатор коробки передач",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Варіатор трансмісії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роботизована коробка передач",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Секвентальна коробка передач",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Диференціал підвищеного тертя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Повнопривідна трансмісія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Легкосплавні диски",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Штамповані диски",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Індекс навантаження шини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Протектор шини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Комп'ютерна діагностика автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чіп-тюнінг двигуна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прошивка блока керування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Динамометричний ключ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кузовний зазор панелей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антикорозійна обробка кузова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оцинкований кузов автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Керамічне покриття кузова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Автомобільний детейлінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хімчистка салону автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Озонування салону автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Утилізаційний збір на автомобіль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Акцизний податок на автомобіль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Митна вартість автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розтаможення автомобіля з-за кордону",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Автомобіль з пробігом із США",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гарантійний талон виробника",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Відкликання автомобілів виробником",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заводський дефект автомобіля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сервісна кампанія виробника",
+      "difficulty": "hard"
+    }
+  ]
+}

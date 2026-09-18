@@ -57,7 +57,14 @@ export const useThemeStore = create<ThemeState>()(
         set((state) => ({
           themes: [
             ...state.themes,
-            { id: Date.now().toString(), name, enabled: true, customWords: [], isCustom: true },
+            {
+              id: Date.now().toString(),
+              name,
+              emoji: "✏️",
+              enabled: true,
+              customWords: [],
+              isCustom: true,
+            },
           ],
         })),
       renameTheme: (id, name) =>
@@ -104,6 +111,12 @@ export const useThemeStore = create<ThemeState>()(
     {
       name: "theme-storage",
       storage: createJSONStorage(() => AsyncStorage),
+      version: 2,
+      migrate: (persistedState) => {
+        const state = persistedState as ThemeState;
+        const customThemes = state?.themes?.filter((theme) => theme.isCustom) ?? [];
+        return { ...state, themes: [...initialThemes, ...customThemes] };
+      },
     }
   )
 );

@@ -1,0 +1,1807 @@
+{
+  "category": "Бізнес і гроші",
+  "emoji": "💰",
+  "count": 450,
+  "words": [
+    {
+      "word": "гроші",
+      "difficulty": "easy"
+    },
+    {
+      "word": "готівка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банкнота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "монета",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гаманець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скарбничка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "долар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "євро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гривня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "копійка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пачка грошей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дрібні гроші",
+      "difficulty": "easy"
+    },
+    {
+      "word": "здача",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чайові",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банкомат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банківська картка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кредитна картка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пін-код картки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "каса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "касир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "черга в касу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сейф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скарбниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кредит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "позика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "борг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "боржник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розписка про борг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "магазин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ринок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "базар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крамниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "супермаркет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "товар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ціна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цінник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "знижка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розпродаж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акція в магазині",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чорна п'ятниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "покупка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "продаж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "продавець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "покупець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вітрина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "прилавок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кошик покупок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чек",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квитанція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штрих-код",
+      "difficulty": "easy"
+    },
+    {
+      "word": "торгуватися",
+      "difficulty": "easy"
+    },
+    {
+      "word": "секонд-хенд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "комісійний магазин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ярмарок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кіоск",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оптом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вроздріб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "повернення товару",
+      "difficulty": "easy"
+    },
+    {
+      "word": "обмін товару",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гарантійний талон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дисконтна карта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кешбек",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розстрочка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "робота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "офіс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "колега",
+      "difficulty": "easy"
+    },
+    {
+      "word": "начальник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "директор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "працівник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "секретар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "менеджер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зарплата",
+      "difficulty": "easy"
+    },
+    {
+      "word": "аванс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "премія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "відпустка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лікарняний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "звільнення з роботи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "співбесіда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "резюме",
+      "difficulty": "easy"
+    },
+    {
+      "word": "візитка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нарада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "робочий стіл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "принтер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "степлер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "папка з документами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дрес-код",
+      "difficulty": "easy"
+    },
+    {
+      "word": "робочий графік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "обідня перерва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "понаднормова робота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пенсія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "компанія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фірма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "підприємство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "завод",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фабрика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "власник бізнесу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бізнесмен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "підприємець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "конкурент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "клієнт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "постачальник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "доставка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кур'єр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "замовлення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "накладна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "склад товарів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виробник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "реклама",
+      "difficulty": "easy"
+    },
+    {
+      "word": "логотип",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бренд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вивіска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оголошення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "листівка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "роздача листівок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "договір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "підпис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "печатка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рахунок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оплата",
+      "difficulty": "easy"
+    },
+    {
+      "word": "готівковий розрахунок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оплата карткою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штраф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "податок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бухгалтер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оренда квартири",
+      "difficulty": "easy"
+    },
+    {
+      "word": "орендар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "власник нерухомості",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нерухомість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квартира на продаж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "земельна ділянка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "аукціон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "обмінник валют",
+      "difficulty": "easy"
+    },
+    {
+      "word": "заощадження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "витрати сім'ї",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кишенькові гроші",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скарбник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "інкасатор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "валіза з грошима",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лотерейний квиток",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виграш у лотерею",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жебрак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "багатій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бідняк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мільйонер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скупий чоловік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "марнотратник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гараж-сейл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "продаж з рук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "продавець на ринку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вуличний торговець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морозивник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ятка з овочами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "прилавок з фруктами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ваги для зважування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банківський переказ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зарплата в конверті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "робочий контракт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "трудова книжка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пропуск на роботу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "робочий телефон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "робоча пошта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "корпоратив",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тімбілдинг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "продуктовий кошик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "візок у супермаркеті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сканер штрих-кодів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "термінал оплати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гроші під матрацом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спільний бюджет сім'ї",
+      "difficulty": "easy"
+    },
+    {
+      "word": "подарунковий сертифікат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "благодійний ярмарок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кіоск з морозивом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "газетний кіоск",
+      "difficulty": "easy"
+    },
+    {
+      "word": "продаж квитків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "каса кінотеатру",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квиток на потяг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "талон на обід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "торгова точка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бізнес-план",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стартап",
+      "difficulty": "normal"
+    },
+    {
+      "word": "франшиза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тендер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дедлайн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ділова зустріч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "переговори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "угода",
+      "difficulty": "normal"
+    },
+    {
+      "word": "партнерство",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інвестор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інвестиція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стартовий капітал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бізнес-інкубатор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фінансовий звіт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "баланс компанії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прибуток компанії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "збиток компанії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "собівартість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "маркетинг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "маркетингова кампанія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "цільова аудиторія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бренд-менеджер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "піар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пресконференція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "слоган",
+      "difficulty": "normal"
+    },
+    {
+      "word": "упаковка товару",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дизайн упаковки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дистриб'ютор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "оптовий покупець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "роздрібна мережа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мережа магазинів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "франчайзі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ліцензія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "патент",
+      "difficulty": "normal"
+    },
+    {
+      "word": "авторське право",
+      "difficulty": "normal"
+    },
+    {
+      "word": "торгова марка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "реєстрація бізнесу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "юридична особа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фізична особа-підприємець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "статутний капітал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "засновник компанії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акціонер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рада директорів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "виконавчий директор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фінансовий директор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "відділ кадрів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кадровий резерв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плинність кадрів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "корпоративна культура",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мотивація персоналу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кар'єрне зростання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "підвищення на посаді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пониження на посаді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "випробувальний термін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "трудовий договір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "колективний договір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "соціальний пакет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "понаднормові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бонусна система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "показники ефективності",
+      "difficulty": "normal"
+    },
+    {
+      "word": "планування бюджету",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фінансова звітність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аудит",
+      "difficulty": "normal"
+    },
+    {
+      "word": "податкова перевірка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "податкова декларація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "єдиний податок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "податок на додану вартість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "банківський кредит",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кредитна історія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кредитний рейтинг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "іпотечний кредит",
+      "difficulty": "normal"
+    },
+    {
+      "word": "депозитний рахунок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "відсоткова ставка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "валютний курс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "обмінний пункт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "переказ грошей за кордон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "банківська комісія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розрахунковий рахунок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "платіжне доручення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електронний гаманець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мобільний банкінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "безконтактна оплата",
+      "difficulty": "normal"
+    },
+    {
+      "word": "оплата частинами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кредитний ліміт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "овердрафт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "страхування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "страховий поліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "страховий випадок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пенсійний фонд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "накопичувальна пенсія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "соціальне страхування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мінімальна зарплата",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прожитковий мінімум",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ринок праці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "безробіття",
+      "difficulty": "normal"
+    },
+    {
+      "word": "служба зайнятості",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фріланс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "віддалена робота",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гнучкий графік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "самозайнята особа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "договір підряду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аутсорсинг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аутстафінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "конкурентна перевага",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ніша на ринку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сегмент ринку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "попит і пропозиція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "цінова політика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "демпінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рекламна кампанія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "таргетована реклама",
+      "difficulty": "normal"
+    },
+    {
+      "word": "контекстна реклама",
+      "difficulty": "normal"
+    },
+    {
+      "word": "smm-спеціаліст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лендінг сторінка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "воронка продажів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "база клієнтів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лояльність клієнтів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "клієнтський сервіс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гаряча лінія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "скарга клієнта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "повернення коштів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гарантійний термін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сертифікація товару",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стандарт якості",
+      "difficulty": "normal"
+    },
+    {
+      "word": "логістика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ланцюг постачання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "митниця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "митний збір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "імпорт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "експорт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "міжнародна торгівля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "валютні операції",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ділова репутація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бізнес-етика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "соціальна відповідальність бізнесу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інфляція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дефляція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "девальвація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стагнація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рецесія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "економічна криза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "валовий внутрішній продукт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "купівельна спроможність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "диверсифікація портфеля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фондова біржа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "акція компанії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дивіденди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "облігація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цінні папери",
+      "difficulty": "hard"
+    },
+    {
+      "word": "портфель інвестицій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ліквідність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "волатильність ринку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "біржовий індекс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "брокер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трейдер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хедж-фонд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "венчурний капітал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ангел-інвестор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "краудфандинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "первинне розміщення акцій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "злиття компаній",
+      "difficulty": "hard"
+    },
+    {
+      "word": "поглинання компанії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "реструктуризація боргу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "банкрутство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ліквідація підприємства",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дефолт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кредитне плече",
+      "difficulty": "hard"
+    },
+    {
+      "word": "маржинальна торгівля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ф'ючерсний контракт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "опціон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "деривативи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "криптовалюта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "біткоїн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "блокчейн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "майнінг криптовалюти",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гаманець криптовалюти",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стейблкоїн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "монополія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "олігополія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "картельна змова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "антимонопольний комітет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "демпінгова політика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "протекціонізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вільна торгівля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "митний тариф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "торговельний баланс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "платіжний баланс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "валютні резерви",
+      "difficulty": "hard"
+    },
+    {
+      "word": "центральний банк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "облікова ставка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "грошова маса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "емісія грошей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "державний борг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бюджетний дефіцит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "профіцит бюджету",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фіскальна політика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "монетарна політика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "субсидія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дотація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "прогресивний податок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "регресивний податок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "офшорна зона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ухилення від податків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тіньова економіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "корупційна схема",
+      "difficulty": "hard"
+    },
+    {
+      "word": "відмивання грошей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рейдерське захоплення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "недружнє поглинання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "синергія бізнесу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "реінжиніринг процесів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оптимізація витрат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бенчмаркінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "диверсифікація бізнесу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вертикальна інтеграція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "горизонтальна інтеграція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "роялті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "аналіз конкурентів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "swot-аналіз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "точка беззбитковості",
+      "difficulty": "hard"
+    },
+    {
+      "word": "маржинальність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "валова маржа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "амортизація обладнання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "основні засоби",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оборотні кошти",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дебіторська заборгованість",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кредиторська заборгованість",
+      "difficulty": "hard"
+    },
+    {
+      "word": "грошовий потік",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рентабельність інвестицій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "індекс споживчих цін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "купівля контрольного пакета",
+      "difficulty": "hard"
+    },
+    {
+      "word": "контрольний пакет акцій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "міноритарний акціонер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мажоритарний акціонер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "емісія акцій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вторинний ринок цінних паперів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "валютний своп",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хеджування ризиків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "страхування ризиків бізнесу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "юніт-економіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пітч інвесторам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пітч-дек стартапу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "раунд фінансування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оцінка вартості компанії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вихід із бізнесу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "продаж частки бізнесу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "опціонна програма для співробітників",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вестинг акцій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пул опціонів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "термін окупності",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дисконтування грошових потоків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чиста приведена вартість",
+      "difficulty": "hard"
+    },
+    {
+      "word": "внутрішня норма прибутковості",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фінансове моделювання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бізнес-модель компанії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ціннісна пропозиція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "канали збуту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "життєвий цикл продукту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крива попиту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "еластичність попиту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "асиметрія інформації",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ефект масштабу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "економія на масштабі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бар'єри входу на ринок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "природна монополія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суспільне благо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зовнішні ефекти економіки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "невидима рука ринку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон спадної віддачі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "циклічність економіки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "індекс ділової активності",
+      "difficulty": "hard"
+    }
+  ]
+}

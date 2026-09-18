@@ -1,0 +1,4007 @@
+{
+  "category": "Географія",
+  "emoji": "🌍",
+  "count": 1000,
+  "words": [
+    {
+      "word": "Європа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Азія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Африка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Північна Америка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Південна Америка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Австралія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Антарктида",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тихий океан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Атлантичний океан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Індійський океан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Північний Льодовитий океан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Україна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Польща",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Німеччина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Франція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Італія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іспанія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великобританія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ірландія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Норвегія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Швеція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фінляндія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Данія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нідерланди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бельгія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Швейцарія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Австрія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Греція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Португалія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чехія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Словаччина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Угорщина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Румунія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Болгарія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хорватія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сербія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Туреччина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Росія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Білорусь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Молдова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Литва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Латвія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Естонія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Канада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "США",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мексика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бразилія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аргентина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чилі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колумбія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Венесуела",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Куба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ямайка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Китай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Японія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Індія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Індонезія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Таїланд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "В'єтнам",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Філіппіни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Малайзія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сінгапур",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Південна Корея",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Північна Корея",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пакистан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Афганістан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Єгипет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марокко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Туніс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Алжир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лівія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кенія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нігерія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ефіопія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Танзанія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Південна Африка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ізраїль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Йорданія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліван",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сирія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ірак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іран",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Саудівська Аравія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Об'єднані Арабські Емірати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Катар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кувейт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ватикан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Монако",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Люксембург",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ісландія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мальта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кіпр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Грузія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вірменія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Азербайджан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Казахстан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Узбекистан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нова Зеландія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Київ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Варшава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Берлін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Париж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лондон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мадрид",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рим",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лісабон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Афіни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Відень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Берн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Брюссель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Амстердам",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Осло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стокгольм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гельсінкі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Копенгаген",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дублін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рейк'явік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прага",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Братислава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Будапешт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бухарест",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Софія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Белград",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Загреб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Москва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мінськ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кишинів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вільнюс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рига",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Таллінн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Анкара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Токіо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пекін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сеул",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нью-Делі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бангкок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ханой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джакарта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маніла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Куала-Лумпур",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Каїр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Найробі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Преторія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Оттава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вашингтон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мехіко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бразиліа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Буенос-Айрес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сантьяго",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Богота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гавана",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Канберра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Веллінгтон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Єрусалим",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тбілісі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Єреван",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Баку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Астана",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ташкент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Львів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Одеса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Харків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дніпро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Запоріжжя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вінниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Полтава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чернігів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Житомир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Суми",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Черкаси",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Херсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Миколаїв",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Івано-Франківськ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кривий Ріг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ужгород",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Луцьк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тернопіль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хмельницький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чернівці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорне море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Азовське море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Середземне море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Червоне море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Каспійське море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Балтійське море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Північне море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мертве море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ейфелева вежа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Велика Китайська стіна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тадж-Махал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Статуя Свободи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колізей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Піраміди Гізи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сфінкс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніагарський водоспад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гранд-Каньйон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Біг-Бен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Московський Кремль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Акрополь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стоунхендж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гора Рашмор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бурдж-Халіфа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Панамський канал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Суецький канал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мачу-Пікчу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ангкор-Ват",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Оперний театр Сіднея",
+      "difficulty": "easy"
+    },
+    {
+      "word": "материк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "континент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "острів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "півострів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гора",
+      "difficulty": "easy"
+    },
+    {
+      "word": "річка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "озеро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "океан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "столиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пустеля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рівнина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "водоспад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вулкан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "льодовик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "екватор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "полюс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "глобус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "компас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гімалаї",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Еверест",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Альпи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Карпати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кавказ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Анди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Уральські гори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кордильєри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Монблан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кіліманджаро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Софійський собор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Києво-Печерська лавра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Говерла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кримські гори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрещатик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Андріївський узвіз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нью-Йорк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лос-Анджелес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сідней",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дубай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стамбул",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гонконг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ріо-де-Жанейро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Барселона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Венеція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Флоренція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мальдіви",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сейшели",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шрі-Ланка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Таджикистан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Киргизстан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Туркменістан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Монголія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "М'янма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Камбоджа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лаос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Непал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бутан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бангладеш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Оман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бахрейн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліхтенштейн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сан-Марино",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Андорра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Словенія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Північна Македонія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Боснія і Герцеговина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорногорія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Косово",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Албанія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гренландія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мадагаскар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сицилія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сардинія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тайвань",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гаваї",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Амазонка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Місісіпі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дунай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Волга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дністер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Південний Буг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байкал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вікторія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кремль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лувр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Урал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сахара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гобі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аравійський півострів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скандинавський півострів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Балканський півострів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Флорида",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Каліфорнія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Техас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аляска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сибір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Далекий Схід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крим",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Донбас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Поділля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Волинь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Галичина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Буковина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Закарпаття",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Полісся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слобожанщина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Запорізька Січ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гирло річки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "витік річки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дельта річки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "берег моря",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морське узбережжя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гірський хребет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вершина гори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "підніжжя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "долина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ліс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "джунглі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тропічний ліс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сніговий покрив",
+      "difficulty": "easy"
+    },
+    {
+      "word": "айсберг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коралові рифи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "атол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "затока",
+      "difficulty": "easy"
+    },
+    {
+      "word": "протока",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "архіпелаг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "острівна держава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "материковий острів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "південна півкуля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "північна півкуля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "західна півкуля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "східна півкуля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "часовий пояс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "карта світу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "атлас світу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "градус широти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Единбург",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мюнхен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гамбург",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Франкфурт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роттердам",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліверпуль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Манчестер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Неаполь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мілан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Севілья",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Порту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Краків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гданськ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зальцбург",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тауер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Букінгемський палац",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Версаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Собор Святого Петра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пантеон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Альгамбра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Червона площа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Статуя Христа-Спасителя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Водоспад Ігуасу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Водоспад Вікторія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великий Бар'єрний риф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Йеллоустонський парк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гора Фудзіяма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сан-Франциско",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чикаго",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маямі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Торонто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ванкувер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мельбурн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кейптаун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Йоганнесбург",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тегеран",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Багдад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дамаск",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бейрут",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Амман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ер-Ріяд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Абу-Дабі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Доха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кувейт-Сіті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Манама",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маскат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кабул",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ісламабад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Женева",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніцца",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дрезден",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ангола",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сенегал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Замбія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зімбабве",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Уганда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мозамбік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Намібія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ботсвана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Габон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Камерун",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Малаві",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Малі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нігер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чад",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Судан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Південний Судан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джибуті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сомалі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Руанда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бурунді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лесото",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Есватіні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гвінея",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бенін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Того",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліберія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сьєрра-Леоне",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кот-д'Івуар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Буркіна-Фасо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гамбія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мавританія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кабо-Верде",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гватемала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гондурас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нікарагуа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сальвадор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Коста-Рика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Панама",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Еквадор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Болівія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Парагвай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Уругвай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гаїті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Домініканська Республіка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тринідад і Тобаго",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Барбадос",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Багамські Острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Суринам",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гайана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Папуа Нова Гвінея",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фіджі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Самоа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тонга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вануату",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Соломонові Острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бруней",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ємен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Луанда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аккра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дакар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лусака",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хараре",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кампала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мапуту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Віндгук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Габороне",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лібревіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Яунде",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антананаріву",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Порт-Луї",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бамако",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ніамей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нджамена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хартум",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джуба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Могадішо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кігалі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бужумбура",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лілонгве",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Масеру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мбабане",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Конакрі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Порто-Ново",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ломе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Монровія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фрітаун",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ямусукро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Уагадугу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Банжул",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нуакшот",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прая",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тегусігальпа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Манагуа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сан-Сальвадор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кіто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ла-Пас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Асунсьйон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Монтевідео",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Порт-о-Пренс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Санто-Домінго",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Порт-оф-Спейн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Парамарибо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джорджтаун",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Порт-Морсбі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сува",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Апіа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хоніара",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Київська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Львівська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Одеська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Харківська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дніпропетровська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Запорізька область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вінницька область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Полтавська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чернігівська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Житомирська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сумська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Черкаська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Херсонська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Миколаївська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Івано-Франківська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Закарпатська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Волинська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рівненська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тернопільська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хмельницька область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кіровоградська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чернівецька область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Донецька область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Луганська область",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прут",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Десна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сіверський Донець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тиса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Західний Буг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Об",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Єнісей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Амур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Замбезі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міссісіпі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міссурі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Колорадо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ріо-Гранде",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Янцзи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хуанхе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ганг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Інд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Меконг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тигр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Євфрат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рейн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Темза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вісла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джомолунгма",
+      "difficulty": "normal"
+    },
+    {
+      "word": "К2",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Маттергорн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ельбрус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Казбек",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аконкагуа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Атлаські гори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Памір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тянь-Шань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Алтай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дракенові гори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Апеннини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Піренеї",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Балкани",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Татри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Судети",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Скелясті гори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аральське море",
+      "difficulty": "normal"
+    },
+    {
+      "word": "озеро Вікторія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Танганьїка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ладозьке озеро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Онезьке озеро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Женевське озеро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Балатон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Світязь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аравійське море",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Японське море",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Жовте море",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карибське море",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Каракуми",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кизилкум",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Атакама",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Калахарі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аравійська пустеля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Намібійська пустеля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Такла-Макан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Патагонська пустеля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Долина Смерті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сонора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хоккайдо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Балі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ява",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Суматра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Борнео",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гавайські острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Канарські острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Азорські острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фолклендські острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Галапагоські острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бермудські острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Курильські острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сахалін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хайнань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Занзібар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вулканічний острів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гейзер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фіорд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плоскогір'я",
+      "difficulty": "normal"
+    },
+    {
+      "word": "каньйон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "перешийок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лиман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ущелина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плато",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тундра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "степ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кам'янець-Подільський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Біла Церква",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Умань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Трускавець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ялта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Севастополь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Феодосія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Судак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бердянськ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Маріуполь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мукачево",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кропивницький",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кам'яна могила",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Софіївський парк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Шацькі озера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Синевир",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мармурова печера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кришталева печера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Асканія-Нова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хотинська фортеця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тунель кохання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Личаківський цвинтар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Потьомкінські сходи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дністровський каньйон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гібралтар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Буковель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аскольдова могила",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Золоті ворота",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кара-Даг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ай-Петрі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чатир-Даг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тарханкут",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дніпровські пороги",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хортиця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Меджибізька фортеця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Луцький замок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олеський замок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Підгорецький замок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Золочівський замок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мукачівський замок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ужгородський замок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кременецький замок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Луара",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Одра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Морава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Влтава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гіндукуш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пустеля Тар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мадейра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Балеарські острови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мальорка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ібіца",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ірпінь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Буча",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Славутич",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Конотоп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прилуки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ковель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Броди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Самбір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Городенка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Заліщики",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кам'янка-Бузька",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Порт-Віла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тасманове море",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Коралове море",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Херсонес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бахчисарай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Судацька фортеця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кам'янська Січ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чортків",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бориспіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Біловезька пуща",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Куршська коса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мазурські озера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Татранський національний парк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Науру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тувалу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кірибаті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Палау",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Маршаллові Острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мікронезія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сент-Люсія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сент-Вінсент і Гренадини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сент-Кіттс і Невіс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антигуа і Барбуда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Домініка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гренада",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Екваторіальна Гвінея",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гвінея-Бісау",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сан-Томе і Принсіпі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Коморські Острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Центральноафриканська Республіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Демократична Республіка Конго",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Республіка Конго",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Еритрея",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мельекеок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нгерулмуд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фунафуті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тарава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ярен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Малабо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бісау",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сан-Томе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Морони",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Асмара",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ла-Валетта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Босфор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дарданелли",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гібралтарська протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Берингова протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Магелланова протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ла-Манш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перська затока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мексиканська затока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гвінейська затока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бенгальська затока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аденська затока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ормузька протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Малаккська протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "меридіан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "паралель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тропік Рака",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тропік Козерога",
+      "difficulty": "hard"
+    },
+    {
+      "word": "полярне коло",
+      "difficulty": "hard"
+    },
+    {
+      "word": "географічна широта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "географічна довгота",
+      "difficulty": "hard"
+    },
+    {
+      "word": "материковий шельф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тектонічна плита",
+      "difficulty": "hard"
+    },
+    {
+      "word": "земна кора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мантія Землі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вододіл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ізобата",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бархан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дюна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оазис",
+      "difficulty": "hard"
+    },
+    {
+      "word": "савана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тайга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вічна мерзлота",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кратер вулкана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підніжжя гори",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нагір'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "височина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "низовина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "топографічна карта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рельєф місцевості",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ерозія ґрунту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "координати GPS",
+      "difficulty": "hard"
+    },
+    {
+      "word": "річкова долина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "озерна улоговина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "прибережна смуга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "морська течія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пасатні вітри",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мусон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пік Комунізму",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ключевська Сопка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Демавенд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аннапурна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нанга-Парбат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оріноко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іртиш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Печора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кубань",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Псьол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ворскла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рось",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Інгулець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тетерів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Случ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Горинь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чадське озеро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ері",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Верхнє озеро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "озеро Мічиган",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гурон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "озеро Онтаріо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тітікака",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ньяса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тасманія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Земля Франца-Йосифа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шпіцберген",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нова Земля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Острів Врангеля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Командорські острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Алеутські острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Каролінські острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кергелен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Реюньйон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оркнейські острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шетландські острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фарерські острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кам'янське",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нікополь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Павлоград",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мелітополь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бердичів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Коростень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нововолинськ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дрогобич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стрий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Коломия",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Косів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Яремче",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рахів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Берегове",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свалява",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кременець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Почаїв",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Меджибіж",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Батурин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Глухів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Путивль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Овруч",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Канів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чигирин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Байдарська долина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джангул",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Актовський каньйон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роман-Кош",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Демерджі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аю-Даг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Меганом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Урочище Джангул",
+      "difficulty": "hard"
+    },
+    {
+      "word": "антициклон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "атмосферний циклон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пасат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бриз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "карстова печера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сталактит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сталагміт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гейзерна долина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вулканічна дуга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рифтова долина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "серединно-океанічний хребет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "абісаль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "континентальний шельф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "острівна дуга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "протока Дрейка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мис Доброї Надії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мис Горн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мис Канаверал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мис Челюскін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аддис-Абеба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дар-ес-Салам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Додома",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тхімпху",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Катманду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дакка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Улан-Батор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "В'єнтьян",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пномпень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Янгон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Найп'їдо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Долина гейзерів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ущелина Дарваза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гора Костюшко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плато Путорана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плато Колорадо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Улуру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гора Кука",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Йосемітська долина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Долина монументів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Салар де Уюні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плитвицькі озера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гора Олімп",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Долина Луари",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Скелі Мохер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ущелина Вердон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дельта Окаванго",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Озеро Комо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мис Байрон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гора Синай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Долина царів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тімор-Лешті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ділі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нульовий меридіан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Берегова лінія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Останець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Полонина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Верховина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мис Рока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мис Піай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Полюс недоступності",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Точка Немо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жерло вулкана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лавове плато",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Солотвино",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кривбас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джарилгач",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тендрівська коса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кінбурнська коса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обитічна коса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Арабатська стрілка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зміїний острів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мис Сарич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ваді-Рам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Амазонська сельва",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кракатау",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Везувій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Етна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тибетське нагір'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Індо-Гангська рівнина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Придніпровська височина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Донецький кряж",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Приазовська височина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Волинська височина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Поліська низовина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Причорноморська низовина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Закарпатська низовина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Керченська протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дніпровсько-Бузький лиман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Каркінітська затока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сиваш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Острови Кука",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ніуе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Уолліс і Футуна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Французька Полінезія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нова Каледонія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гуам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пуерто-Рико",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аруба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кюрасао",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мартиніка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гваделупа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Макао",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Острів Мен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джерсі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гернсі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Муррей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дарлінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оранжева річка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лімпопо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Колима",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Індигірка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рувензорі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чорногірський хребет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свидовецький хребет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Горгани",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розточчя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Опілля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гуцульщина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бойківщина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лемківщина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Таврія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сіверщина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лакшадвіп",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андаманські острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нікобарські острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Острів Різдва",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кокосові острови",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Флоридська протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тайванська протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Корейська протока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Категат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Скагеррак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ефіопське нагір'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іранське нагір'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Анатолійське нагір'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Деканське плоскогір'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бразильське плоскогір'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гвіанське плоскогір'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Патагонське плато",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Великі рівнини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пампа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прерія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Льянос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сельва",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мангрові зарості",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Солончак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Такир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ерг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хамада",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вади",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Провалля",
+      "difficulty": "hard"
+    }
+  ]
+}

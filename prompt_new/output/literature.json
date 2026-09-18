@@ -1,0 +1,4007 @@
+{
+  "category": "Література",
+  "emoji": "📚",
+  "count": 1000,
+  "words": [
+    {
+      "word": "Тарас Шевченко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кобзар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заповіт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Франко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Захар Беркут",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леся Українка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лісова пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Котляревський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Енеїда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наталка Полтавка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Микола Гоголь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вечори на хуторі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тарас Бульба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Панас Мирний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хіба ревуть воли",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Нечуй-Левицький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кайдашева сім'я",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Михайло Коцюбинський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тіні забутих предків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fata morgana",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Григір Тютюнник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Василь Стус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліна Костенко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маруся Чурай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олександр Довженко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Земля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Панас Куліш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорна рада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марко Вовчок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Народні оповідання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Григорій Сковорода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Остап Вишня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Усмішки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Юрій Яновський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вершники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ольга Кобилянська",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Земля стогне",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Богдан Лепкий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байка про лисицю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дитяча книга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Казка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Народна казка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прислів'я",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Загадка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Легенда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Переказ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Билина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шерлок Холмс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Артур Конан Дойл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дон Кіхот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мігель де Сервантес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гамлет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вільям Шекспір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ромео і Джульєтта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Король Лір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Отелло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Макбет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Три мушкетери",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Александр Дюма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Граф Монте-Крісто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Робінзон Крузо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Даніель Дефо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Острів скарбів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роберт Луїс Стівенсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пригоди Тома Сойєра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марк Твен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пригоди Гекльберрі Фінна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аліса в Країні чудес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Льюїс Керрол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маленький принц",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Антуан де Сент-Екзюпері",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гаррі Поттер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джоан Роулінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Володар перснів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джон Толкін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хоббіт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гобіт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хроніки Нарнії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клайв Стейплз Льюїс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "П'ятнадцятирічний капітан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жуль Верн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Навколо світу за 80 днів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Діти капітана Гранта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Двадцять тисяч льє під водою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пригоди Піноккіо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Карло Коллоді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мауглі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Редьярд Кіплінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Книга джунглів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вінні-Пух",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Алан Мілн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пітер Пен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джеймс Баррі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Попелюшка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Брати Грімм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Червона Шапочка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шарль Перро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кіт у чоботях",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спляча красуня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Русалонька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ганс Крістіан Андерсен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Снігова королева",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дюймовочка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гидке каченя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Незнайко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Микола Носов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Буратіно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олексій Толстой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чарлі і шоколадна фабрика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роальд Дал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пеппі Довгапанчоха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Астрід Ліндгрен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Малий і Карлсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Муфта, Півчеревичок та Мохобородько",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Еліс Мілн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Три поросята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вовк і семеро козенят",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ріпка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колобок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Курочка Ряба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Морозко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Івасик-Телесик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Котигорошко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кирило Кожум'яка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Летюча коляска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лисичка-сестричка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вовк і лисиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Повість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Оповідання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новела",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вірш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Поема",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Драма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Комедія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Трагедія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Міф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Балада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Епос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Письменник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Поет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Читач",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Герой твору",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Головний герой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Персонаж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бібліотека",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Книга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сторінка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обкладинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зміст",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розділ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Абзац",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заголовок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Видавництво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рукопис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Щоденник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лист",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Літературний твір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Художня література",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дитяча література",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пригодницька повість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Казкова історія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байкар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Драматург",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прозаїк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Повістяр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Романіст",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Літературний герой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Позитивний герой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Негативний герой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Головна думка твору",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мораль байки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пряма мова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Діалог у творі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Опис природи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Портрет героя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кінцівка твору",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зав'язка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кульмінація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розв'язка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Епілог",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пролог",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вступ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Автор твору",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Літературний персонаж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Казковий герой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чарівник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фея",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дракон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Принцеса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Принц",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Король",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Королева",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лицар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Відьма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чаклун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Велетень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гном",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ельф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тролль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Русалка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мавка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кентавр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пегас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фенікс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Одноріг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ерагон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крістофер Паоліні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Персі Джексон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рік Ріордан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Голодні ігри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сюзанна Коллінз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дивовижний світ Оз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Волшебник Изумрудного города",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Александр Волков",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смарагдове місто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Приключения Незнайки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мумі-тролі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Туве Янссон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вінні Пух і його друзі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Простоквашино",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Едуард Успенський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чебурашка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Малюк і Карлсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джанні Родарі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пригоди Чиполліно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мандрівний лицар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байка про журавля і чаплю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байка про ґав і лисицю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крилов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байки Крилова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Три ведмеді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лев Толстой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Війна і мир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Анна Кареніна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Федір Достоєвський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Злочин і кара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Брати Карамазови",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ідіот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Антон Чехов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вишневий сад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чайка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Максим Горький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "На дні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пушкін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Євгеній Онєгін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Казка про рибака і рибку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гоголь Мертві душі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ревізор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байрон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гете",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фауст",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Йоганн Вольфганг Гете",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Данте Аліг'єрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Божественна комедія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гомер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Одіссея",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іліада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Езоп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Байки Езопа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вовк і ягня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крилата фраза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Летюча фраза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крилатий вислів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Приказка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скоромовка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тарас Бульба Гоголь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніч перед Різдвом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пропала грамота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сорочинський ярмарок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заклятий скарб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Панночка-утоплениця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дідух",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяна казка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новорічна казка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Снігуронька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Морозенко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Баба Яга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кощій Безсмертний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жар-птиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Царівна-жаба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван-царевич",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сивка-Бурка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Летючий корабель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скатертина-самобранка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чоботи-скороходи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шапка-невидимка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Килим-літак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Молодильні яблука",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жива вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мертва вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Двоє з скриньки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пан Коцький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Солом'яний бичок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рукавичка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Коза-дереза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Названий батько",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кривенька качечка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зайчикова хатка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вужик і жаба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мудра дівчина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Правда і кривда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кобиляча голова казка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дідова дочка й бабина дочка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Три брати і дракон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мандрівка Нільса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сельма Лагерлеф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пітер Пен і Венді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мері Поппінс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Памела Треверс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Довгоногий татусь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джин Вебстер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Таємний сад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Френсіс Бернетт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маленькі жінки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Луїза Мей Олкотт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гекльберрі Фінн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Білосніжка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Семеро гномів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рапунцель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бременські музиканти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ганс і Гретель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хлопчик-мізинчик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кіт в чоботях казка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Синя борода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Осел у шкурі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Красуня і чудовисько",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аленький цветочек",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сергій Аксаков",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Морозко казка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Двенадцять місяців",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Самуїл Маршак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кіт, що гуляв сам собою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дощовий день книга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мауглі і Балу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Багіра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шер-Хан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Балу ведмідь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Каа удав",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Акела вовк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аліса і Білий Кролик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чеширський Кіт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Королева Червів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Капелюшник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гусениця з кальяном",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гаррі Поттер і філософський камінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Герміона Грейнджер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рон Візлі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дамблдор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Волдеморт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гоґвортс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фродо Бегінс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гендальф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ґолум",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сем Ґемджі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Більбо Бегінс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смауг дракон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аслан лев",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Білий Кит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Герман Мелвілл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мобі Дік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Капітан Немо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наутілус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "П'ятниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Робінзонада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гулівер у ліліпутів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гулівер у велетнів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мюнхаузен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Еріх Распе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пригоди барона Мюнхаузена",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Том Сойєр і Гек Фінн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бекі Тетчер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Індіанець Джо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дядько Том",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хатина дядька Тома",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гаррієт Бічер-Стоу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорний Красень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Анна Сьюелл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Білий Ікло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джек Лондон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Поклик пращурів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Балто собака",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лессі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Багато шуму з нічого",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дванадцята ніч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сон літньої ночі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Венеціанський купець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Приборкання норовливої",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ромео Монтеккі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джульєтта Капулетті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пригоди Аліси в Задзеркаллі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Червона Королева",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Труляля і Трулюлю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кіплінг Кіт що гуляв сам",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слонове дитя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Багряний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тигролови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сад Гетсиманський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Улас Самчук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Валер'ян Підмогильний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Місто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Хвильовий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вальдшнепи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Юрій Смолич",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олесь Гончар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Собор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прапороносці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Павло Загребельний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Диво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роксолана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліна Костенко Записки українського самашедшого",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оксана Забужко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Польові дослідження з українського сексу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Музей покинутих секретів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сергій Жадан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ворошиловград",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Інтернат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Юрій Андрухович",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Московіада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рекреації",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Юрій Винничук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Танго смерті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ірен Роздобудько",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мама, я вбив свою вчительку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тарас Прохасько",
+      "difficulty": "normal"
+    },
+    {
+      "word": "НепрОсті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марія Матіос",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Солодка Даруся",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Валерій Шевчук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дім на горі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Улас Самчук Волинь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іван Багряний Сад Гетсиманський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Куліш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Народний Малахій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мина Мазайло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Леся Українка Лісова пісня Мавка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кассандра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бояриня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Одержима",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Григорій Квітка-Основ'яненко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Маруся",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Конотопська відьма",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Степан Руданський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Співомовки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пантелеймон Куліш Чорна рада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Юрій Федькович",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Осип Маковей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Богдан-Ігор Антонич",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Володимир Сосюра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Максим Рильський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Павло Тичина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Зеров",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Євген Плужник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Михайль Семенко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Бажан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Андрій Малишко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дмитро Павличко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Василь Симоненко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іван Драч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Вінграновський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Григір Тютюнник Климко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Володимир Винниченко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чесне слово",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Соняшна машина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Записки кирпатого Мефістофеля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Улюблена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман-епопея",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман-хроніка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман у віршах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман-антиутопія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Соціально-побутова драма",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Історичний роман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пригодницький роман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Психологічний роман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сатирична повість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліро-епічний твір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Метафора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Епітет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Порівняння",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гіпербола",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літота",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Алегорія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Уособлення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Персоніфікація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антитеза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рима",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Строфа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ритм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сюжетна лінія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Внутрішній монолог",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліричний герой",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Художній образ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Художня деталь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Символ у творі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мотив твору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тема твору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ідея твору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Композиція твору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Експозиція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розв'язка конфлікту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Конфлікт твору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літературний напрям",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Романтизм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Реалізм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Класицизм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сентименталізм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Модернізм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Символізм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Футуризм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Неокласицизм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бароко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Постмодернізм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Екзистенціалізм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Наратор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оповідач",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автобіографічний твір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мемуари",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Есе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нарис",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фейлетон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Памфлет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сонет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гімн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ода",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Елегія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Епіграма",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Частушка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дума",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Колядка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Щедрівка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Веснянка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антиутопія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Утопія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Готичний роман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Епістолярний роман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман-виховання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пригодницька література",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Наукова фантастика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фентезі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Детективний роман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Психологічний трилер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Байка з мораллю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літературна казка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Авторська казка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Народна пісня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліричний вірш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордж Орвелл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "1984",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Колгосп тварин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рей Бредбері",
+      "difficulty": "normal"
+    },
+    {
+      "word": "451 градус за Фаренгейтом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олдос Гакслі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прекрасний новий світ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джером Селінджер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Над прірвою у житі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ернест Гемінгвей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Старий і море",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прощавай, зброє",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Френсіс Скотт Фіцджеральд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Великий Гетсбі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Габріель Гарсія Маркес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сто років самотності",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кохання під час холери",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордж Мартін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пісня льоду й полум'я",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гра престолів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Агата Крісті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вбивство у Східному експресі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Десять негренят",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джейн Остін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гордість і упередження",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Шарлотта Бронте",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джейн Ейр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Емілі Бронте",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Буремний перевал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чарльз Діккенс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олівер Твіст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Різдвяна пісня в прозі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Великі сподівання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Віктор Гюго",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Собор Паризької Богоматері",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Знедолені",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оноре де Бальзак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Батько Горіо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стендаль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Червоне і чорне",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йоганн Крістоф Фрідріх Шиллер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розбійники",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Франц Кафка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перевтілення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Процес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Герман Гессе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Степовий вовк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гра в бісер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Томас Манн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чарівна гора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Еріх Марія Ремарк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Три товариші",
+      "difficulty": "normal"
+    },
+    {
+      "word": "На Західному фронті без змін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Умберто Еко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ім'я троянди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мілан Кундера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нестерпна легкість буття",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пауло Коельйо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Алхімік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Харукі Муракамі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Норвезький ліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кобо Абе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Жінка в пісках",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Данте",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пекло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чистилище",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джонатан Свіфт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мандри Гуллівера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Даніель Дефо Робінзон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Персонаж-двійник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман у листах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман-притча",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Байка-алегорія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гумористична повість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сатира",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гумор у творі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іронія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сарказм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гротеск",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Химерна проза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Химерний роман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Валер'ян Підмогильний Місто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кобиляча голова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дід та баба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман-феєрія Лісова пісня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Драма-феєрія Мавка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кассандра Українка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Camelot легенда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Король Артур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лицарі Круглого столу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мерлін чарівник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Екскалібур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Трістан та Ізольда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пісня про Роланда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пісня про нібелунгів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зігфрід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Беовульф",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сага про Вольсунгів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Едда старша",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Калевала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рунічний епос",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ляльковий театр вертеп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Козак Мамай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дума про Байду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дума про Марусю Богуславку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дума про Олексія Поповича",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Історична пісня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стрілецька пісня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Січові стрільці поезія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Хвильовий Я Романтика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Валер'ян Підмогильний Третя революція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Юрій Яновський Майстер корабля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Остап Вишня Мисливські усмішки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іван Багряний Огненне коло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Три зозулі з поклоном",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Улас Самчук Ost",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Докія Гуменна Діти Чумацького Шляху",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тодось Осьмачка Старший боярин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Наталена Королева Предок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спогади сучасників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літературний журнал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Товстий журнал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Альманах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антологія поезії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хрестоматія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літературна премія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Шевченківська премія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нобелівська премія з літератури",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Букерівська премія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пулітцерівська премія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Переклад художній",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перекладач",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оригінал твору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Автентичний текст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Адаптація твору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Екранізація роману",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сценарій за мотивами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літературна містифікація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Псевдонім письменника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літературний гурток",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Творчий метод",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Індивідуальний стиль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ідіостиль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тропи в тексті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стилістична фігура",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман про кохання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман про війну",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Синекдоха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оксиморон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ампліфікація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Верлібр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Алюзія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ремінісценція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Парцеляція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Анафора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Епіфора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Градація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Інверсія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Еліпсис у поезії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Асонанс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Алітерація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тавтологія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плеоназм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оксюморонний образ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Катахреза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Метонімія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перифраз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хіазм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Риторичне питання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Риторичний оклик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Умовчання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Апосіопеза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спондей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ямб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хорей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дактиль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Амфібрахій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Анапест",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Білий вірш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вільний вірш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Октава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Терцина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рондо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тріолет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Акровірш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Панегірик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дифірамб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ідилія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пастораль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Буколіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Травестія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бурлеск",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пародія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стилізація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ремарка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Репліка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Монолог",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Полілог",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ретроспекція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрамлена оповідь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оповідь від першої особи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Всезнаючий оповідач",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ненадійний оповідач",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Потік свідомості",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Інтертекстуальність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кінцівка відкрита",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кільцева композиція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дзеркальна композиція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хронотоп",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Топос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Архетип",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Двійництво персонажів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Літературний канон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Химерний реалізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Магічний реалізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Соцреалізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розстріляне відродження",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Празька школа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нью-Йоркська група",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шістдесятники",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вісімдесятники",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Химерники",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бубабісти",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Станіслав Лем",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Соляріс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хосе Луїс Борхес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хорхе Луїс Борхес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сад розбіжних стежок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джеймс Джойс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Улісс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Портрет митця замолоду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марсель Пруст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "У пошуках втраченого часу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вірджинія Вулф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Місіс Делловей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "На маяк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вільям Фолкнер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шум і лють",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Альбер Камю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чужий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чума",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жан-Поль Сартр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нудота",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Симона де Бовуар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Друга стать",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фрідріх Ніцше",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Так казав Заратустра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Костомаров",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Книга буття українського народу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пантелеймон Куліш переклад Біблії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Вишенський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Послання до єпископів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мелетій Смотрицький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Граматика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Феофан Прокопович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Мономах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Повчання дітям",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Слово о полку Ігоревім",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Літопис Руський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Повість минулих літ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Києво-Печерський патерик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іпатіївський літопис",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Галицько-Волинський літопис",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Самійло Величко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Козацькі літописи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Григорій Граб'янка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Самовидець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Мазепа поезія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Климентій Зіновіїв",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Данило Братковський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лазар Баранович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кирило Транквіліон-Ставровецький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дмитро Туптало",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ірмологіон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Києво-Могилянська академія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шкільна драма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вертеп",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Інтермедія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Панегірична поезія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Емблематична поезія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Курйозний вірш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фігурний вірш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Силабічне віршування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Силабо-тонічне віршування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тонічне віршування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Цезура",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Енжамбман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Строфіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Онєгінська строфа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сапфічна строфа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Алкеєва строфа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гекзаметр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пентаметр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Логаед",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Верлібризація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наратологія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Імпліцитний автор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Експліцитний автор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фокалізація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дискурс літературний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рецептивна естетика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Деконструкція тексту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Формалізм літературний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Структуралізм у літературі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Постколоніальна критика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Феміністична критика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Психоаналітична критика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Компаративістика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Текстологія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Палеографія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Едиційна практика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Автограф твору",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Список рукопису",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Список твору",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Апокриф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Агіографія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Житіє святого",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Проповідь як жанр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Полемічний трактат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Трактат філософський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Діалог філософський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Афоризм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Максима",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сентенція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гнома",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Притча",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Парабола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Байка-парабола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роман-феєрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Феєрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Містерія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Містерія-буф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Драма-феєрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Драматична поема",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ліро-драма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Трагікомедія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Водевіль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фарс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мораліте",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Міракль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пікареска",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плутовський роман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роман потоку свідомості",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роман-колаж",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роман-монтаж",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нелінійна оповідь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Метапроза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Автофікшн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Документальна проза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нон-фікшн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Верлібрична поема",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ліричний цикл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вінок сонетів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Цикл новел",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Збірка новел",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Новелістичний цикл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Химерна повість",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Готична повість",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Неоромантизм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Імпресіонізм у літературі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Експресіонізм у літературі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дадаїзм у літературі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сюрреалізм у літературі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Конструктивізм літературний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кларнетизм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пантелеймон Куліш стиль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розстріляне покоління письменників",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Зеров неокласики",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Клен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Освальд Бургардт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Михайло Драй-Хмара",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Максим Рильський неокласик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Павло Филипович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Літературна дискусія 1925",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ваплітяни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вільна академія пролетарської літератури",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плуг організація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гарт організація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Літературний угруповання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аспанфут",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Неокласицизм український",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Празька поетична школа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Дараган",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олег Ольжич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олена Теліга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Євген Маланюк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Липа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наталена Королева",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Докія Гуменна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тодось Осьмачка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Багряний Морітурі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Улас Самчук Юність Василя Шеремети",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Григорій Косинка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Валер'ян Поліщук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Куліш Патетична соната",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Кочерга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свіччине весілля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ярослав Мудрий Кочерга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гнат Хоткевич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кам'яна душа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Модест Левицький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спиридон Черкасенко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Самійленко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Агатангел Кримський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Головко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бур'ян",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Панч",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Голубі ешелони",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Ле",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юхим Кобилянський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Натан Рибак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Переяславська рада роман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олександр Копиленко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дуже добре",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Смолич Дитинство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мати роман Кониський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олександр Кониський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ігор Костецький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Емма Андієвська",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Тарнавський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Богдан Бойчук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нью-Йоркська група поетів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Василь Барка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жовтий князь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Кошелівець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "В'ячеслав Липинський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дмитро Донцов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Літературно-науковий вісник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Українська хата журнал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Молода муза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Вороний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Модест Левицький письменник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гнат Хоткевич Довбуш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Осип Турянський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Поза межами болю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марко Черемшина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лесь Мартович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Василь Стефаник Камінний хрест",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Новаторство Стефаника",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Покутська трійця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Крайова література",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Буковинська література",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Закарпатська література",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Емігрантська література",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Діаспорна проза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Табірна лірика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мистецьке українське рухо",
+      "difficulty": "hard"
+    }
+  ]
+}

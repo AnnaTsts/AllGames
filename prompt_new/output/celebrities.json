@@ -1,0 +1,4007 @@
+{
+  "category": "Відомі люди",
+  "emoji": "⭐",
+  "count": 1000,
+  "words": [
+    {
+      "word": "Альберт Ейнштейн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леонардо да Вінчі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вільям Шекспір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наполеон Бонапарт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Юлій Цезар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клеопатра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Христофор Колумб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чингісхан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Авраам Лінкольн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джордж Вашингтон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вінстон Черчилль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Махатма Ганді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нельсон Мандела",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мартін Лютер Кінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Матір Тереза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ісаак Ньютон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Галілео Галілей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чарльз Дарвін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нікола Тесла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Томас Едісон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бенджамін Франклін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марія Кюрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стівен Гокінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зигмунд Фрейд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Юрій Гагарін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нейл Армстронг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Барак Обама",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Королева Єлизавета Друга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джон Кеннеді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леонардо Ді Капріо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бред Пітт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Анджеліна Джолі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Том Круз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джонні Депп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роберт Дауні-молодший",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скарлет Йоганссон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дженніфер Лоуренс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вілл Сміт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Морган Фрімен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дензел Вашингтон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мерил Стріп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джулія Робертс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кіану Рівз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Арнольд Шварценеггер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сильвестр Сталлоне",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джекі Чан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чарлі Чаплін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мерилін Монро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Одрі Хепберн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Елвіс Преслі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Майкл Джексон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мадонна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бейонсе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ріанна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леді Гага",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тейлор Свіфт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Адель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ед Ширан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джастін Бібер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кеті Перрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Брітні Спірс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Боб Марлі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фредді Мерк'юрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джон Леннон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пол Маккартні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Елтон Джон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Майкл Джордан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кріштіану Роналду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліонель Мессі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мухаммед Алі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Усейн Болт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пеле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дієго Марадона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роджер Федерер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Серена Вільямс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тайгер Вудс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ілон Маск",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стів Джобс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Білл Гейтс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марк Цукерберг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джефф Безос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Уоррен Баффет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Волт Дісней",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Генрі Форд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тарас Шевченко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леся Українка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Франко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Богдан Хмельницький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Степан Бандера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Віталій Кличко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Володимир Кличко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Андрій Шевченко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Руслана",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джамала",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олег Винник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Святослав Вакарчук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ані Лорак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Верка Сердючка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Уїльям Тьорнер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пабло Пікассо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вінсент ван Гог",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сальвадор Далі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клод Моне",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рембрандт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мікеланджело",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рафаель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Волт Вітмен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марк Твен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ернест Хемінгуей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джордж Оруелл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Агата Крісті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лев Толстой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Федір Достоєвський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Антон Чехов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олександр Пушкін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Микола Гоголь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джоан Роулінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стівен Кінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ганс Крістіан Андерсен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Брати Грімм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Моцарт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бетховен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Йоганн Себастьян Бах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фредерік Шопен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чайковський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Опра Вінфрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Емма Вотсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джордж Клуні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джулія Ендрюс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гаррісон Форд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Едді Мерфі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джим Керрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мел Гібсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кевін Гарт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дуейн Джонсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кріс Хемсворт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кріс Еванс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хью Джекман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роберт Де Ніро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аль Пачіно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ентоні Гопкінс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джек Ніколсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клінт Іствуд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Квентін Тарантіно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стівен Спілберг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джеймс Кемерон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крістофер Нолан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джордж Лукас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тім Бертон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Альфред Гічкок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стенлі Кубрик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мерайя Кері",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Уітні Г'юстон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Селін Діон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шакіра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дженніфер Лопес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кайлі Дженнер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кім Кардаш'ян",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Неймар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кайлі Міноуг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рікі Мартін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бред Пейслі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кеша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Брюс Лі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джет Лі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ван Дамм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Річард Гір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Меттью Макконахі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леонард Німой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гаррі Кейн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пеп Гвардіола",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жозе Моурінью",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зінедін Зідан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дель Пьеро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роналдіньйо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Девід Бекхем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Майк Тайсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Флойд Мейвезер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конор Макгрегор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Валентина Терешкова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Річард Бренсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ларрі Пейдж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сергій Брін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тім Кук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джек Ма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ангела Меркель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маргарет Тетчер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шарль де Голль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Отто фон Бісмарк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джордж Буш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рональд Рейган",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Франклін Рузвельт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Йосип Сталін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Володимир Ленін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Петро Перший",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Катерина Друга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Грозний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кароль Войтила",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Далай-лама",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конфуцій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Будда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ісус Христос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мохамед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мойсей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гомер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аристотель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Платон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сократ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Піфагор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Архімед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гіппократ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Александр Македонський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ганнібал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спартак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марко Поло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фердинанд Магеллан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Васко да Гама",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джеймс Кук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ернест Резерфорд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Луї Пастер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дмитро Менделєєв",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Костянтин Ціолковський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сергій Корольов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Володимир Вернадський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліл Вейн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Емінем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Снуп Дог",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дрейк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кендрік Ламар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джей Зі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Каньє Вест",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аврил Лавін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Майлі Сайрус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Селена Гомес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Демі Ловато",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніккі Мінаж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Арiана Гранде",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аріана Гранде",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бруно Марс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джон Траволта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сідні Пуатьє",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хоакін Фенікс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тімоті Шаламе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Райан Гослінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Райан Рейнольдс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Емма Стоун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наталі Портман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кейт Вінслет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сандра Буллок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніколь Кідман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шарліз Терон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пенелопа Крус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ева Мендес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сальма Гаєк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Умберто Еко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пауло Коельо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джек Лондон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Артур Конан Дойл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жуль Верн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Данте Аліг'єрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гете",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фрідріх Ніцше",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іммануїл Кант",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Карл Маркс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мохандас Ганді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Малала Юсуфзай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Грета Тунберг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стів Возняк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Річард Фейнман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роберт Ойпенгеймер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роберт Оппенгеймер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Альберт Швейцер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Флоренс Найтінгейл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розалінд Франклін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джейн Гудолл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Карл Саган",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ольга Кобилянська",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Михайло Грушевський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Симон Петлюра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Мазепа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роман Шухевич",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Данило Галицький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ярослав Мудрий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Володимир Великий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Княгиня Ольга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Григорій Сковорода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Михайло Булгаков",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Казимир Малевич",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Соломія Крушельницька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олександр Довженко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сергій Параджанов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кузьма Скрябін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ірина Білик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наталя Могилевська",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тіна Кароль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Настя Каменських",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Монатік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Альона Альона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MELOVIN",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олег Скрипка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олег Блохін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сергій Бубка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Яна Клочкова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Василь Ломаченко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олександр Усик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олена Костевич",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ярослава Магучіх",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дмитро Гнатюк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Богдан Ступка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ада Роговцева",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наталія Сумська",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Остап Ступка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Квітка Цісик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Том Генкс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дженніфер Еністон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кортні Кокс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліза Кудроу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Х'ю Лорі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бенедикт Камбербетч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мартін Фрімен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іен Маккеллен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Деніел Редкліфф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Емма Робертс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зендая",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Том Голланд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ендрю Гарфілд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тобі Магуайр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крістіан Бейл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вілл Феррелл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стів Карелл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Овен Вілсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бен Стіллер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кемерон Діаз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дрю Беррімор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різ Візерспун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Емма Томпсон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кейт Бланшетт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гелена Бонем Картер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хелен Міррен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джуд Лоу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Юен Макгрегор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колін Ферт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Едрієн Броуді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Глорія Естефан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Енріке Іглесіас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хуліо Іглесіас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рід Гастінгс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джордж Сорос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мохаммед бін Салман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Опра Уїнфрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Валентино Россі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Себастьян Феттель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Льюїс Гамільтон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Айртон Сенна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Міхаель Шумахер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніккі Лауда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пабло Ескобар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джон Ньюкомб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рафаель Надаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новак Джокович",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Андре Агассі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Піт Сампрас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джон Макінрой",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мартіна Навратілова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Штеффі Граф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марія Шарапова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Анна Курникова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Майк Пенс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кім Чен Ин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сі Цзіньпін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ден Сяопін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мустафа Кемаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Отто Скорцені",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ервін Роммель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дуайт Ейзенхауер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дуглас Макартур",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джордж Паттон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Юрій Долгорукий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кузьма Мінін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дмитро Пожарський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Петро Столипін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Григорій Распутін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Микола Другий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олександр Керенський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лев Троцький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Микита Хрущов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леонід Брежнєв",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Михайло Горбачов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Борис Єльцин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Беназір Бхутто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тоні Блер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Девід Кемерон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Еммануель Макрон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жак Ширак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ніколя Саркозі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Франсуа Міттеран",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гельмут Коль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вілі Брандт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конрад Аденауер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вольтер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Жан-Поль Сартр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Альбер Камю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Франц Кафка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оскар Уайльд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Редьярд Кіплінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марк Шагал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Анрі Матісс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Поль Сезанн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Едгар Дега",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Огюст Ренуар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Едвард Мунк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гюстав Курбе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Франсіско Гойя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дієго Веласкес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Френк Ллойд Райт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Заха Хадід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Коко Шанель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крістіан Діор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джорджо Армані",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джанні Версаче",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Валентино Гаравані",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ів Сен-Лоран",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Анна Вінтур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карл Лагерфельд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кейт Мосс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Жизель Бюндхен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тайра Бенкс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хайді Клум",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Наомі Кемпбелл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Клаудіа Шиффер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сінді Кроуфорд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліндсі Вагнер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордж Гершвін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ігор Стравінський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сергій Рахманінов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дмитро Шостакович",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гектор Берліоз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джузеппе Верді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джакомо Пуччіні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ріхард Вагнер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йоганнес Брамс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антоніо Вівальді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Франц Ліст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роберт Шуман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Клод Дебюссі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Моріс Равель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Едвард Гріг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ян Сібеліус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Густав Малер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антон Брукнер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордж Байрон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Персі Шеллі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Кітс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Емілі Дікінсон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Едгар Аллан По",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Натаніель Готорн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Герман Мелвілл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Генрі Джеймс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Скотт Фіцджеральд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вільям Фолкнер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Стейнбек",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Курт Воннегут",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джером Селінджер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джек Керуак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Габріель Гарсія Маркес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хорхе Луїс Борхес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пабло Неруда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марсель Пруст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Віктор Гюго",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оноре де Бальзак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гюстав Флобер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Еміль Золя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стендаль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мольєр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Жан Расін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ромен Роллан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мілан Кундера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Італо Кальвіно",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Габріеле Д'Аннунціо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Луїджі Піранделло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Герман Гессе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Томас Манн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бертольт Брехт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гайнріх Гейне",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фрідріх Шиллер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іван Тургенєв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іван Бунін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Борис Пастернак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Осип Мандельштам",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марина Цвєтаєва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Анна Ахматова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Володимир Маяковський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сергій Єсенін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Михайло Лермонтов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Некрасов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іван Крилов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Максим Горький",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Михайло Шолохов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олександр Солженіцин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Володимир Набоков",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Мілтон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мігель де Сервантес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марк Аврелій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Цицерон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сенека",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карл Великий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Річард Левове Серце",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Генріх Восьмий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Єлизавета Перша",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марія Стюарт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Людовик Чотирнадцятий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марія-Антуанетта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Максиміліан Робесп'єр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джузеппе Гарібальді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Симон Болівар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Че Гевара",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фідель Кастро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мао Цзедун",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хо Ши Мін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Індіра Ганді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джавахарлал Неру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Голда Меїр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іцхак Рабін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Локк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Томас Гоббс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рене Декарт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Девід Юм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Адам Сміт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мішель Фуко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карл Юнг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іван Павлов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Коперник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йоганн Кеплер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роберт Гук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Майкл Фарадей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джеймс Максвелл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ервін Шредінгер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вернер Гейзенберг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нільс Бор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Макс Планк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Поль Дірак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Алан Т'юрінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон фон Нейман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Клод Шеннон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тім Бернерс-Лі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лінус Торвальдс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ларрі Еллісон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Майкл Делл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джек Дорсі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пітер Тіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сатья Наделла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джеймс Дайсон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Говард Шульц",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рей Крок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сем Волтон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Пірпонт Морган",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стен Лі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хаяо Міядзакі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Акіра Куросава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Федеріко Фелліні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Інгмар Бергман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Педро Альмодовар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ларс фон Трієр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Люк Бессон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гай Річі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дені Вільньов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пітер Джексон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джеймс Вен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вес Андерсон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мартін Скорсезе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Френсіс Форд Коппола",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вуді Аллен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рон Говард",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роланд Еммеріх",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Майкл Бей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордж Р. Р. Мартін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Толкін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "К. С. Льюїс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роальд Дал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Моріс Сендак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ганна Франк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Еліас Канетті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ромен Гарі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мілорад Павич",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Орхан Памук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кадзуо Ішіґуро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тоні Моррісон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Елі Візель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Салман Рушді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ден Браун",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стефані Маєр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сюзанна Коллінз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліонел Річі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стіві Уандер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рей Чарльз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джеймс Браун",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Арета Франклін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дайана Росс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тіна Тернер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гладіс Найт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прінс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дюк Еллінгтон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Луї Армстронг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Елла Фіцджеральд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Френк Сінатра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дін Мартін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сем Кук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Отіс Реддінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марвін Гей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джимі Гендрікс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дженіс Джоплін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джим Моррісон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Курт Кобейн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ленні Кравіц",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Філ Коллінз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пітер Гебріел",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Девід Боуї",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мік Джаггер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кіт Річардс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роджер Уотерс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Бон Джові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Брюс Спрінгстін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Боб Ділан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ніл Янг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ерік Клептон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордж Гаррісон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рінго Старр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роббі Вільямс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордж Майкл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крейг Девід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аманда Сайфред",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джастін Тімберлейк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кристина Агілера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лана Дель Рей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дуа Ліпа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Біллі Айліш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олівія Родріго",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гаррі Стайлз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Заїн Малік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ніл Хоран",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліам Пейн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вікторія Бекхем",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Андрес Ін'єста",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хаві Ернандес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Френк Лемпард",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стівен Джеррард",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Уейн Руні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гарет Бейл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кіліан Мбаппе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роберт Левандовскі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ерлінг Голанн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мохамед Салах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сон Хин Мін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лука Модрич",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тьєррі Анрі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Патрік Вієйра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Раян Гіггз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пол Скоулз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Едвін ван дер Сар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джанлуїджі Буффон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Каземіро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роналдо Феномен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ромаріо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Загало",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Юрген Клопп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карло Анчелотті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Алекс Фергюсон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Арсен Венгер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хосе Моурінью",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордж Форман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Менні Пак'яо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хабіб Нурмагомедов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Джонс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ронда Роузі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кобі Браянт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Леброн Джеймс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Шакіл О'Ніл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Меджик Джонсон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ларрі Берд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Майкл Фелпс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марк Спітц",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карл Льюїс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джессі Оуенс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Флоренс Гріффіт-Джойнер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марта Вієйра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аліна Кабаєва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ірина Дерюгіна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Світлана Хоркіна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Наталя Заболотна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дмитро Салита",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Костянтин Кущенко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Андрій Ворона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марина Литвиненко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ольга Харлан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Денис Силантьєв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сергій Стаховський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Еліна Світоліна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марта Костюк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Парацельс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тіхо Браге",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Йоганн Гутенберг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Еразм Роттердамський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Томас Мор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ніколо Макіавеллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мартін Лютер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жан Кальвін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ігнатій Лойола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джордано Бруно",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Блез Паскаль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "П'єр Ферма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Карл Лінней",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антуан Лавуазьє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джеймс Ватт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джеймс Джоуль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Людвіг Больцман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олександр Попов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Жуковський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ігор Сікорський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Валентин Глушко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мстислав Келдиш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Капіца",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лев Ландау",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ігор Курчатов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Сахаров",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жорес Алфьоров",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ілля Мечников",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Сєченов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Пирогов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Філатов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Амосов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олександр Богомолець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Данило Заболотний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Августин Аврелій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тома Аквінський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пітер Абеляр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вільям Оккам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Кузанський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Френсіс Бекон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джон Дьюї",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вільям Джеймс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чарльз Пірс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бертран Рассел",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Альфред Вайтхед",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жак Дерріда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жиль Дельоз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрген Габермас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Славой Жижек",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ганна Арендт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Симона де Бовуар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Симона Вейль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Айн Ренд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Карл Ясперс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Едмунд Гуссерль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Макс Шелер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ернст Кассірер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Клод Леві-Стросс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ролан Барт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тзвєтан Тодоров",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Костомаров",
+      "difficulty": "hard"
+    },
+    {
+      "word": "В'ячеслав Липинський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дмитро Донцов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Михайло Драгоманов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пантелеймон Куліш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марко Вовчок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Нечуй-Левицький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Панас Мирний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Михайло Коцюбинський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Василь Стефаник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Агатангел Кримський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Хвильовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Валер'ян Підмогильний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Куліш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лесь Курбас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Яновський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Остап Вишня",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Павло Тичина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Максим Рильський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Сосюра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Малишко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Василь Симоненко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ліна Костенко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Драч",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дмитро Павличко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Василь Стус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Світличний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "В'ячеслав Чорновіл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Левко Лук'яненко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Шухевич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Євген Коновалець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Мельник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Міхновський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Павло Скоропадський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Михайло Верещагін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Ге",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Айвазовський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ілля Рєпін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Архип Куїнджі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марія Приймаченко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Катерина Білокур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олекса Новаківський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Труш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Пимоненко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олександр Мурашко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олександр Архипенко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Соня Делоне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Татлін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олександр Богомазов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Давид Бурлюк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Скрипник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Григорій Косинка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Зеров",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Клен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тодось Осьмачка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Улас Самчук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Багряний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Докія Гуменна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Євген Маланюк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олег Ольжич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олена Теліга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ольга Басараб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роксолана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ярема Вишневецький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Виговський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Дорошенко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пилип Орлик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кирило Розумовський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Феофан Прокопович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Могила",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Вишенський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мелетій Смотрицький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нестор Літописець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Мономах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ізяслав Ярославич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ярослав Осмомисл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Данило Апостол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ганс Гольбейн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пітер Пауль Рубенс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ян ван Ейк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тіціан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тінторетто",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Караваджо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ель Ліссицький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пауль Клее",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Василь Кандинський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джексон Поллок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марк Ротко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Енді Воргол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рой Ліхтенштейн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жан-Мішель Баскіа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кіт Гарінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бенксі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дем'єн Герст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джефф Кунс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мартін Бубер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ганна Ахматова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Йосип Бродський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Варлам Шаламов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олександр Твардовський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Костянтин Симонов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Расул Гамзатов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чингіз Айтматов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фазіль Іскандер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Тарковський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сергій Ейзенштейн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Всеволод Пудовкін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дзига Вертов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Григорій Козинцев",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ельдар Рязанов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Леонід Гайдай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микита Міхалков",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Кончаловський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кіра Муратова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Іллєнко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Миколайчук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Леонід Биков",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Костянтин Степанков",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Раїса Недашківська",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наталя Ужвій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Амвросій Бучма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марко Кропивницький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Садовський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Панас Саксаганський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марія Заньковецька",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гнат Юра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оксана Петрусенко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Борис Гмиря",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Анатолій Солов'яненко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Назарій Яремчук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Софія Ротару",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Василь Зінкевич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Гнатюк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іво Бобул",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Павло Зібров",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Таісія Повалій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оксана Білозір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Злата Огнєвіч",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Христина Соловій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Онука",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Андрухович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оксана Забужко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сергій Жадан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Курков",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марія Матіос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Любко Дереш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ірен Роздобудько",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тарас Прохасько",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Винничук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Костянтин Москалець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іздрик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрко Позаяк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Валерій Шевчук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Микола Вінграновський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Григір Тютюнник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олесь Гончар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Смолич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Панч",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Винниченко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ольга Мак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Феодосій Печерський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антоній Печерський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іларіон Київський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Сагайдачний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Северин Наливайко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Устим Кармелюк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олекса Довбуш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Максим Кривоніс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Богун",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Данило Нечай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нестор Махно",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрко Тютюнник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Данило Скоропадський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Лівицький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ісаак Мазепа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аполлоній Пергський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ератосфен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гіпатія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Авіценна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аль-Хорезмі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Омар Хайям",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ібн Баттута",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джон Непер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Еванджеліста Торрічеллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Христіан Гюйгенс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роберт Бойль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антоні ван Левенгук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Карл Гаусс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бернхард Ріман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Еваріст Галуа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Анрі Пуанкаре",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Давід Гільберт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Софія Ковалевська",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Еммі Нетер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ада Лавлейс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чарльз Беббідж",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Грейс Хоппер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джон Атанасов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Конрад Цузе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Броніслав Малиновський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Маргарет Мід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Франц Боас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Едвард Тайлор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джеймс Фрейзер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мірча Еліаде",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Йоганн Гердер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Йоганн Фіхте",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фрідріх Шеллінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Артур Кестлер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ганна Барвінок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олена Пчілка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Христя Алчевська",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Уляна Кравченко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наталя Кобринська",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дніпрова Чайка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Грицько Чупринка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спиридон Черкасенко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Богдан Лепкий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Осип Маковей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Гнатюк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Керницький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Улас Кравченко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Модест Левицький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Чайковський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Федькович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сидір Воробкевич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Маркіян Шашкевич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Вагилевич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Яків Головацький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Котляревський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Григорій Квітка-Основ'яненко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Євген Гребінка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Амвросій Метлинський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Осип Бодянський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ізмаїл Срезневський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Михайло Максимович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Гулак-Артемовський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Степан Руданський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юрій Шкрумеляк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Богдан Кравців",
+      "difficulty": "hard"
+    }
+  ]
+}

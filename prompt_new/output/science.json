@@ -1,0 +1,4007 @@
+{
+  "category": "Наука",
+  "emoji": "🧪",
+  "count": 1000,
+  "words": [
+    {
+      "word": "атом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "молекула",
+      "difficulty": "easy"
+    },
+    {
+      "word": "електрон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "протон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нейтрон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ядро атома",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гравітація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "магніт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "магнітне поле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "електричний струм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "батарейка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лампочка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дзеркало",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лінза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "веселка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "блискавка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грім",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тертя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "швидкість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "прискорення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "маятник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "важіль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "терези",
+      "difficulty": "easy"
+    },
+    {
+      "word": "термометр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "компас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "телескоп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мікроскоп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лупа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "призма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонячне світло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "луна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "звукова хвиля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "світлова хвиля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "температура",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тиск",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вага",
+      "difficulty": "easy"
+    },
+    {
+      "word": "маса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "об'єм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "густина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "енергія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сила тяжіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "потужність",
+      "difficulty": "easy"
+    },
+    {
+      "word": "електрика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "статична електрика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "провідник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ізолятор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "резистор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "генератор струму",
+      "difficulty": "easy"
+    },
+    {
+      "word": "двигун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "турбіна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "парова машина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "реактивний двигун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ракета",
+      "difficulty": "easy"
+    },
+    {
+      "word": "супутник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "орбіта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "невагомість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вакуум",
+      "difficulty": "easy"
+    },
+    {
+      "word": "атмосфера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кисень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "водень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вуглекислий газ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "азот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гелій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "озоновий шар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вітер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хмара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дощ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сніг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "град",
+      "difficulty": "easy"
+    },
+    {
+      "word": "іній",
+      "difficulty": "easy"
+    },
+    {
+      "word": "роса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "туман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "північне сяйво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "приплив і відплив",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хімічний елемент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "періодична таблиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "молекула води",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кислота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "луг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сіль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розчин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хімічна реакція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "іржавіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кристал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "метал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "залізо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "золото",
+      "difficulty": "easy"
+    },
+    {
+      "word": "срібло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мідь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "алюміній",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вуглець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ртуть",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спирт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оцет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "питна сода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крейда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пластик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гума",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нафта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "природний газ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вугілля кам'яне",
+      "difficulty": "easy"
+    },
+    {
+      "word": "випаровування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "конденсація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кипіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "замерзання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "танення льоду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "клітина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "молекула ДНК",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ген",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хромосома",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бактерія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вірус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мікроб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мембрана клітини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ядро клітини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фотосинтез",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дихання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кровообіг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "серце людини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мозок людини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скелет людини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "м'язи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шкіра людини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кров",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вітамін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "білок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вуглевод",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фермент травний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гормон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "імунітет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вакцина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "антибіотик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "еволюція видів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "природний добір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вимирання динозаврів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "динозавр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скам'янілість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "екосистема",
+      "difficulty": "easy"
+    },
+    {
+      "word": "харчовий ланцюг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "корінь рослини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "листок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пилок квітки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "насінина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "паросток",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гриб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "водорість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "комаха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "метелик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бджола",
+      "difficulty": "easy"
+    },
+    {
+      "word": "павук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жаба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "змія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ящірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ссавець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "птах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "риба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дельфін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "черепаха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "планета",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сонце",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Місяць",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "галактика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чумацький Шлях",
+      "difficulty": "easy"
+    },
+    {
+      "word": "комета",
+      "difficulty": "easy"
+    },
+    {
+      "word": "метеорит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "астероїд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чорна діра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сузір'я",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонячне затемнення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "місячне затемнення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "обертання Землі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фаза Місяця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "космічний корабель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "космонавт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скафандр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ракета-носій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Венера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Юпітер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сатурн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кільця Сатурна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "планета Земля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "космічна станція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ісаак Ньютон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Альберт Ейнштейн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чарльз Дарвін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Галілео Галілей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Микола Коперник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дмитро Менделєєв",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марія Кюрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нікола Тесла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Томас Едісон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Луї Пастер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Архімед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Піфагор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леонардо да Вінчі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стівен Гокінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Грегор Мендель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "телефон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "комп'ютер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "інтернет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "електрична лампа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "паровоз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "автомобіль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "літак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "радіо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "телевізор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фотоапарат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "годинник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рентгенівський знімок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "друкарський верстат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "парасолька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "окуляри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "холодильник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кондиціонер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мікрохвильова піч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вольтметр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "амперметр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "секундомір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лінійка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "транспортир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пробірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "колба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "піпетка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пінцет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скальпель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стетоскоп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ваги лабораторні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "число",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цифра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дріб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "відсоток",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коло геометричне",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квадрат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "трикутник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "куб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "піраміда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "симетрія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лабіринт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "графік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "діаграма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "калькулятор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "землетрус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вулкан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цунамі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "торнадо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ураган",
+      "difficulty": "easy"
+    },
+    {
+      "word": "повінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "посуха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "айсберг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "льодовик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гейзер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ерозія ґрунту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хімічний дослід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лабораторія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дослідник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "науковий експеримент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "формула хімічна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "будова атома",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонячна система",
+      "difficulty": "easy"
+    },
+    {
+      "word": "планета-карлик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морська зірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "корал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мурашка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бабка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сарана",
+      "difficulty": "easy"
+    },
+    {
+      "word": "равлик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "медуза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "восьминіг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "краб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кит-горбач",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вовк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лисиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ведмідь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "заєць",
+      "difficulty": "easy"
+    },
+    {
+      "word": "білка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "їжак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кажан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "орел",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пінгвін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фотоапарат цифровий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мобільний телефон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "навушники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акумулятор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонячна панель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вітряк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гідроелектростанція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "атомна електростанція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "міст інженерний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хмарочос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "робот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штучний інтелект",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дрон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "3D-принтер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GPS-навігатор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штучний супутник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квітка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дерево",
+      "difficulty": "easy"
+    },
+    {
+      "word": "трава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мох",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кактус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пальма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яблуко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "насіння соняшника",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бджолиний вулик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мурашник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "павутина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гніздо птаха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нірка тварини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "річка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "озеро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "океан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гора",
+      "difficulty": "easy"
+    },
+    {
+      "word": "печера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пустеля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "джунглі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ліс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "степ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хмара дощова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "блискавковідвід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонячний годинник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісочний годинник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "термос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барометр побутовий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "глобус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "карта зоряного неба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бінокль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мікроскопічний організм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "одноклітинний організм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "багатоклітинний організм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хребет людини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "легені",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нирки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "печінка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шлунок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кишківник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зубна емаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кістка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "суглоб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нервова клітина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "око людини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вухо людини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ніс людини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонячна батарея",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вітрова турбіна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "парниковий ефект",
+      "difficulty": "easy"
+    },
+    {
+      "word": "глобальне потепління",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кругообіг води в природі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "озеро вулканічне",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коралові рифи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "планктон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морський коник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акула",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кит синій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тюлень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "видра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бобер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жираф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "слон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лев",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тигр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зебра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кенгуру",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коала",
+      "difficulty": "easy"
+    },
+    {
+      "word": "панда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горила",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мавпа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крокодил",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хамелеон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ігуана",
+      "difficulty": "easy"
+    },
+    {
+      "word": "саламандра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скорпіон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "богомол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "світлячок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонечко комаха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "джміль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мураха-листоріз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "перелітні птахи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гніздо лелеки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яйце пташине",
+      "difficulty": "easy"
+    },
+    {
+      "word": "личинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лялечка метелика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кокон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "линька тварин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "камуфляж тварин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "отрута змії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жало бджоли",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пилок алергія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "насіння кульбаби",
+      "difficulty": "easy"
+    },
+    {
+      "word": "закон Ньютона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "закон збереження енергії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "закон Архімеда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "теорія відносності",
+      "difficulty": "normal"
+    },
+    {
+      "word": "квантова фізика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ядерна реакція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ядерний реактор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "атомна енергія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "напівпровідник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "надпровідність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електромагнітна хвиля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спектр світла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "довжина хвилі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "частота коливань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "амплітуда хвилі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "резонанс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інерція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "момент сили",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кінетична енергія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "потенціальна енергія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "теплопередача",
+      "difficulty": "normal"
+    },
+    {
+      "word": "конвекція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "теплопровідність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "випромінювання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "радіоактивність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ізотоп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "іонізація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плазма стан речовини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "агрегатний стан речовини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "поверхневий натяг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аеродинаміка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гідродинаміка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "оптика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "заломлення світла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "відбиття світла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дифракція світла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інтерференція хвиль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "поляризація світла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хімічний зв'язок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "іонний зв'язок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ковалентний зв'язок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "молярна маса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хімічна формула",
+      "difficulty": "normal"
+    },
+    {
+      "word": "каталізатор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "полімер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "органічна хімія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "неорганічна хімія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розчинність речовини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "концентрація розчину",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кислотність pH",
+      "difficulty": "normal"
+    },
+    {
+      "word": "титрування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електроліз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гальванізація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сплав металів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "легування металу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "оксид",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гідроксид",
+      "difficulty": "normal"
+    },
+    {
+      "word": "карбонат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сульфат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хлорид",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мітохондрія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рибосома",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ендоплазматична сітка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мейоз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мітоз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "генетичний код",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мутація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спадковість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "домінантна ознака",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рецесивна ознака",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стовбурові клітини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "антитіло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "антиген",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нейрон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "синапс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рефлекс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гормон росту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ендокринна система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нервова система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вегетативна нервова система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "метаболізм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "обмін речовин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гомеостаз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "симбіоз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "паразитизм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мімікрія тварин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "регенерація тканин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "класифікація видів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "таксономія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вид біологічний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рід біологічний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сузір'я Оріон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сузір'я Великої Ведмедиці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "екзопланета",
+      "difficulty": "normal"
+    },
+    {
+      "word": "червоний гігант",
+      "difficulty": "normal"
+    },
+    {
+      "word": "білий карлик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нейтронна зірка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "наднова зірка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Великий вибух",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розширення Всесвіту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гравітаційна хвиля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "космічне випромінювання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "геліоцентрична система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "геоцентрична система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "світловий рік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "апогей орбіти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "перигей орбіти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сонячний вітер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "магнітосфера Землі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "атмосфера Марса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роберт Гук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антоні ван Левенгук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джеймс Максвелл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Майкл Фарадей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ернест Резерфорд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нільс Бор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вернер Гейзенберг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ервін Шредінгер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Макс Планк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Річард Фейнман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Блез Паскаль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рене Декарт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Готфрід Лейбніц",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карл Лінней",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Луїджі Гальвані",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Александр Флемінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роберт Бойль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джон Дальтон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Андре-Марі Ампер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Георг Ом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йоганн Кеплер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Христіан Гюйгенс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спектрометр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "осцилограф",
+      "difficulty": "normal"
+    },
+    {
+      "word": "центрифуга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "автоклав",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електронний мікроскоп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прискорювач частинок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "адронний колайдер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лазер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гіроскоп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сейсмограф",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ареометр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хроматографія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "теорема Піфагора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "число Пі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "золотий перетин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "логарифм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "похідна функції",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інтеграл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "множина математична",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ймовірність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "статистика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "координатна площина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вектор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "матриця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "факторіал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "просте число",
+      "difficulty": "normal"
+    },
+    {
+      "word": "послідовність Фібоначчі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "периферійний нерв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спинний мозок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "головний мозок людини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кора головного мозку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гіпофіз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "щитоподібна залоза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "підшлункова залоза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лімфатична система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дихальна система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "травна система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сечовидільна система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "репродуктивна система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "клітинне дихання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аеробне дихання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "анаеробне дихання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фотосинтез рослин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хлорофіл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пігмент рослин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "транспірація рослин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кореневий тиск",
+      "difficulty": "normal"
+    },
+    {
+      "word": "судинна система рослин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "опилення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "запилення комахами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "генетичне схрещування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гібрид рослин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "селекція рослин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "штучний добір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "біологічний годинник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "циркадний ритм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зимова сплячка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "міграція птахів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "луска риби",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зябра риби",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плавальний міхур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хребетні тварини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "безхребетні тварини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "членистоногі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "молюски",
+      "difficulty": "normal"
+    },
+    {
+      "word": "найпростіші організми",
+      "difficulty": "normal"
+    },
+    {
+      "word": "царство тварин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "царство рослин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "царство грибів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бінарна номенклатура",
+      "difficulty": "normal"
+    },
+    {
+      "word": "латинська назва виду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "квантовий стрибок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "атомна орбіталь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електронна оболонка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "валентний електрон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хімічний елемент благородний газ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "метал лужний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "метал лужноземельний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "галоген хімічний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "перехідний метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хімічна сполука",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хімічна суміш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розчинник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розчинена речовина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "насичений розчин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ненасичений розчин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "емульсія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "суспензія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "колоїдний розчин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дифузія речовин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "осмос",
+      "difficulty": "normal"
+    },
+    {
+      "word": "термодинамічна рівновага",
+      "difficulty": "normal"
+    },
+    {
+      "word": "перший закон термодинаміки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "другий закон термодинаміки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ентропія системи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "питома теплоємність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "абсолютний нуль температури",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шкала Цельсія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шкала Кельвіна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шкала Фаренгейта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "одиниця виміру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "метрична система",
+      "difficulty": "normal"
+    },
+    {
+      "word": "міжнародна система одиниць",
+      "difficulty": "normal"
+    },
+    {
+      "word": "похибка вимірювання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "наукова гіпотеза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "науковий метод",
+      "difficulty": "normal"
+    },
+    {
+      "word": "контрольна група дослід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "незалежна змінна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "залежна змінна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "статистична похибка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кореляція даних",
+      "difficulty": "normal"
+    },
+    {
+      "word": "закон Ома",
+      "difficulty": "normal"
+    },
+    {
+      "word": "закон Джоуля-Ленца",
+      "difficulty": "normal"
+    },
+    {
+      "word": "послідовне зʼєднання провідників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "паралельне зʼєднання провідників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електрична схема",
+      "difficulty": "normal"
+    },
+    {
+      "word": "напруга електрична",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сила струму",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електричний заряд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "закон збереження заряду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "конденсатор електричний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "котушка індуктивності",
+      "difficulty": "normal"
+    },
+    {
+      "word": "трансформатор електричний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електромагніт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "індукційний струм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "змінний струм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "постійний струм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електростанція теплова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гідроелектростанція мала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сонячна електростанція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вітроелектростанція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акумуляторна батарея",
+      "difficulty": "normal"
+    },
+    {
+      "word": "паливний елемент",
+      "difficulty": "normal"
+    },
+    {
+      "word": "водневе паливо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "біопаливо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "переробка відходів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вторинна сировина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "забруднення повітря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "забруднення води",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кислотний дощ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "смог",
+      "difficulty": "normal"
+    },
+    {
+      "word": "екологічний слід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "відновлювана енергія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "викопне паливо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "будова квітки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "будова листка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "будова насінини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "проростання насіння",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вегетативне розмноження",
+      "difficulty": "normal"
+    },
+    {
+      "word": "статеве розмноження рослин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "запилення вітром",
+      "difficulty": "normal"
+    },
+    {
+      "word": "поширення насіння",
+      "difficulty": "normal"
+    },
+    {
+      "word": "річні кільця дерев",
+      "difficulty": "normal"
+    },
+    {
+      "word": "листопад",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фотоперіодизм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "біологічний вид людина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "антропогенез",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прямоходіння людини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "будова ока",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акомодація ока",
+      "difficulty": "normal"
+    },
+    {
+      "word": "короткозорість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "далекозорість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "будова вуха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "барабанна перетинка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вестибулярний апарат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "смакові рецептори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нюхові рецептори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дотикові рецептори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "принцип невизначеності Гейзенберга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квантова заплутаність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "теорія струн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стандартна модель фізики",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бозон Хіггса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "темна матерія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "темна енергія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ефект Доплера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ефект Комптона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тунельний ефект",
+      "difficulty": "hard"
+    },
+    {
+      "word": "надплинність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "магнітний резонанс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спін частинки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кварк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лептон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ферміон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бозон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "античастинка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "анігіляція частинок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "реліктове випромінювання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гравітаційна сингулярність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "горизонт подій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "червоний зсув",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ефект Казиміра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "принцип еквівалентності",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон Кулона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон Ампера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон електромагнітної індукції Фарадея",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рівняння Максвелла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рівняння Шредінгера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стехіометрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ентальпія реакції",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хімічна рівновага",
+      "difficulty": "hard"
+    },
+    {
+      "word": "буферний розчин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ізомерія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алотропія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гібридизація орбіталей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "валентність елемента",
+      "difficulty": "hard"
+    },
+    {
+      "word": "електронегативність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "окисно-відновна реакція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "комплексна сполука",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ферментативний каталіз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "полімеризація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "поліконденсація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нуклеофіл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "електрофіл хімія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ароматичність сполуки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хіральність молекули",
+      "difficulty": "hard"
+    },
+    {
+      "word": "епігенетика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "транскрипція ДНК",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трансляція білка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кодон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "антикодон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оперон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "плазміда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рекомбінантна ДНК",
+      "difficulty": "hard"
+    },
+    {
+      "word": "генна інженерія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "редагування генів CRISPR",
+      "difficulty": "hard"
+    },
+    {
+      "word": "клонування організмів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "апоптоз клітини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "некроз тканини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "автофагія клітини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цитоскелет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гліколіз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цикл Кребса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "окисне фосфорилювання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "темнова фаза фотосинтезу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "філогенез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "онтогенез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гомологічні органи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рудиментарні органи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конвергентна еволюція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дивергентна еволюція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "статевий добір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "генетичний дрейф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "популяційна генетика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "біологічне різноманіття",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гравітаційне лінзування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чорна діра Шварцшильда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гіпотеза Великого відскоку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "космологічна стала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "астеросейсмологія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "протопланетний диск",
+      "difficulty": "hard"
+    },
+    {
+      "word": "коричневий карлик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "магнетар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пульсар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квазар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гало галактики",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Поль Дірак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вольфганг Паулі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Анрі Пуанкаре",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Емі Нетер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розалінд Франклін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джеймс Вотсон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Френсіс Крік",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Барбара Мак-Клінток",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лайнус Полінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Макс Борн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хендрик Лоренц",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Джозайя Гіббс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сванте Арреніус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лев Ландау",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ігор Тамм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Капіца",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сергій Корольов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Костянтин Ціолковський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мас-спектрометр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ядерний магнітний резонанс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рентгенівська дифракція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "синхротрон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кріостат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "інтерферометр Майкельсона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "детектор елементарних частинок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сцинтиляційний лічильник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лічильник Гейгера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "теорема Ферма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гіпотеза Рімана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "топологія математична",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фрактал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "множина Мандельброта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "диференціальне рівняння",
+      "difficulty": "hard"
+    },
+    {
+      "word": "комплексне число",
+      "difficulty": "hard"
+    },
+    {
+      "word": "математична нескінченність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "парадокс Зенона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "теорія ймовірностей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "теорія хаосу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "теорема Геделя про неповноту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квантова хромодинаміка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квантова електродинаміка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суперсиметрія частинок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "теорія великого об'єднання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "реліктовий фон Всесвіту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "космічна інфляція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мультивсесвіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "антропний принцип",
+      "difficulty": "hard"
+    },
+    {
+      "word": "термоядерний синтез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ланцюгова ядерна реакція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "період напіврозпаду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "альфа-розпад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бета-розпад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гамма-випромінювання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон радіоактивного розпаду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хвильова функція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суперпозиція станів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "декогеренція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квантовий комп'ютер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кубіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алгоритм Шора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нейромедіатор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "потенціал дії нейрона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мієлінова оболонка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "синаптична щілина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пластичність мозку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нейропластичність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "білок-фермент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алостерична регуляція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вторинний посередник клітини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мембранний потенціал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "натрій-калієвий насос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "осмотичний тиск клітини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тургорний тиск",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ксилема",
+      "difficulty": "hard"
+    },
+    {
+      "word": "флоема",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мезофіл листка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "продихи листка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "геном людини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "геномне секвенування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "полімеразна ланцюгова реакція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "електрофорез ДНК",
+      "difficulty": "hard"
+    },
+    {
+      "word": "молекулярна філогенетика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "біоінформатика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "протеоміка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метаболоміка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "екзосома клітини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "прион",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ретровірус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зворотна транскрипція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "теломера хромосоми",
+      "difficulty": "hard"
+    },
+    {
+      "word": "теломераза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дифракційна решітка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "поляриметрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рефрактометрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спектроскопія ЯМР",
+      "difficulty": "hard"
+    },
+    {
+      "word": "інфрачервона спектроскопія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мас-спектрометрія органічна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хроматографія газова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рідинна хроматографія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "електронна конфігурація атома",
+      "difficulty": "hard"
+    },
+    {
+      "word": "правило Хунда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "принцип Паулі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "орбітальне гібридне зв'язування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "молекулярна орбіталь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зонна теорія твердого тіла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "заборонена зона напівпровідника",
+      "difficulty": "hard"
+    },
+    {
+      "word": "p-n перехід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тунельний діод",
+      "difficulty": "hard"
+    },
+    {
+      "word": "транзистор польовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "інтегральна мікросхема",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квантова теорія поля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бозе-конденсат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ефект Мейснера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "надплинний гелій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "космічний мікрохвильовий фон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон Хаббла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стала Хаббла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метрика Фрідмана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рівняння Ейнштейна загальної релятивності",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гравітон гіпотетична частинка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нейтрино",
+      "difficulty": "hard"
+    },
+    {
+      "word": "осциляція нейтрино",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мюон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "прискорювач ЦЕРН",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хвиля де Бройля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "принцип Ле Шательє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон Гесса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рівняння Арреніуса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "каталітичний цикл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ензиматична кінетика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "константа рівноваги",
+      "difficulty": "hard"
+    },
+    {
+      "word": "осмотичний градієнт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мембранний транспорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "активний транспорт клітини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пасивна дифузія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "іонний канал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "натрієвий канал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "калієвий канал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "потенціал спокою клітини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "збудливість тканини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скорочення міофібрили",
+      "difficulty": "hard"
+    },
+    {
+      "word": "актин і міозин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "саркомер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нейромʼязовий синапс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рефлекторна дуга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гіпоталамус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лімбічна система",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мозолисте тіло",
+      "difficulty": "hard"
+    },
+    {
+      "word": "аксон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дендрит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гліальна клітина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "астроцит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "олігодендроцит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мієлінізація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кора великих півкуль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "базальні ганглії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мозочок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "імуноглобулін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Т-лімфоцит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "В-лімфоцит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "макрофаг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цитокін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "комплемент система",
+      "difficulty": "hard"
+    },
+    {
+      "word": "аутоімунна реакція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алергічна реакція гіперчутливість",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вакцинація колективний імунітет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "патоген",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вірусна реплікація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бактеріофаг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конʼюгація бактерій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трансформація бактерій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "горизонтальний перенос генів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мутагенез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "канцерогенез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "онкоген",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ген-супресор пухлин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "апоптотичний сигнал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стовбурова клітина плюрипотентна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "індукована плюрипотентна клітина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тканинна інженерія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "біопринтинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нанотехнологія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нанотрубка вуглецева",
+      "difficulty": "hard"
+    },
+    {
+      "word": "графен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фулерен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квантова точка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метаматеріал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "надтверді матеріали",
+      "difficulty": "hard"
+    },
+    {
+      "word": "аморфний метал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кристалічна решітка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дефект кристалу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дислокація кристалічна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фазовий перехід речовини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "критична точка речовини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "потрійна точка речовини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рівняння стану газу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон Бойля-Маріотта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон Гей-Люссака",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон Авогадро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "число Авогадро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стала Больцмана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стала Планка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стала Планка зведена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "принцип найменшої дії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лагранжіан системи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гамільтоніан системи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рівняння руху Ньютона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закон всесвітнього тяжіння",
+      "difficulty": "hard"
+    },
+    {
+      "word": "приливні сили",
+      "difficulty": "hard"
+    },
+    {
+      "word": "точки Лагранжа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гравітаційний маневр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "третя космічна швидкість",
+      "difficulty": "hard"
+    }
+  ]
+}

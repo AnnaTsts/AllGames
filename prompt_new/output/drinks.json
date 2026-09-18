@@ -1,0 +1,1807 @@
+{
+  "category": "Напої",
+  "emoji": "🍹",
+  "count": 450,
+  "words": [
+    {
+      "word": "кава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "молоко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пиво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вино",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горілка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коньяк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "віскі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шампанське",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лимонад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кефір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "какао",
+      "difficulty": "easy"
+    },
+    {
+      "word": "компот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "узвар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чарка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "келих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пляшка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "склянка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кружка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "соломинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чайник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кавоварка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "термос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мінібар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кафе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "офіціант",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бармен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тост",
+      "difficulty": "easy"
+    },
+    {
+      "word": "свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "п'яний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тверезий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лимон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "м'ята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кока-кола",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фанта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спрайт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пепсі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "енергетик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смузі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "молочний коктейль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гарячий шоколад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "капучино",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лате",
+      "difficulty": "easy"
+    },
+    {
+      "word": "еспресо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "американо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яблучний сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "апельсиновий сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "томатний сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вишневий сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ряжанка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штопор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "наливати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чокатися",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бокал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фужер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кухоль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пивний бар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хміль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "самогон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сидр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "глінтвейн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коктейль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "алкоголь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мінеральна вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "газована вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "содова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кисіль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "айран",
+      "difficulty": "easy"
+    },
+    {
+      "word": "турка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кавові зерна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розчинна кава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чайна ложка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цукерниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чайний пакетик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "відкривачка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дегустація вина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пивоварня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "напитися",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спрага",
+      "difficulty": "easy"
+    },
+    {
+      "word": "самовар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "заварка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зелений чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чорний чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "соковижималка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фреш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виноградний сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гранатовий сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "персиковий сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "березовий сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "холодний чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гаряча кава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крижана вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "склянка води",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пляшка вина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пляшка пива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "винний келих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пивний келих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чашка кави",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чашка чаю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цукор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "солод",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дріжджі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "брага",
+      "difficulty": "easy"
+    },
+    {
+      "word": "медовуха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "наливка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вермут",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лікер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ром",
+      "difficulty": "easy"
+    },
+    {
+      "word": "текіла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "джин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бренді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "абсент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "саке",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пунш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сангрія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "какао з молоком",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чай з лимоном",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кава з молоком",
+      "difficulty": "easy"
+    },
+    {
+      "word": "холодне какао",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гарячий чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "склянка соку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пакет соку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пакет молока",
+      "difficulty": "easy"
+    },
+    {
+      "word": "упаковка молока",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кран пива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розлив пива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бокал шампанського",
+      "difficulty": "easy"
+    },
+    {
+      "word": "наливати шампанське",
+      "difficulty": "easy"
+    },
+    {
+      "word": "відкривати шампанське",
+      "difficulty": "easy"
+    },
+    {
+      "word": "корок від шампанського",
+      "difficulty": "easy"
+    },
+    {
+      "word": "випити чарку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "випити келих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "закуска до пива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горішки до пива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чіпси до пива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барна карта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "меню напоїв",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барна стійка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "винна карта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фруктовий чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "імбирний чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "трав'яний чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чай з медом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гаряче молоко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тепле молоко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "холодне молоко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "склянка кефіру",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пляшка кефіру",
+      "difficulty": "easy"
+    },
+    {
+      "word": "йогурт питний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сироватка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вода з газом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вода без газу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "содова вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тонізуючий напій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивний напій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "какао порошок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шоколадне молоко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ванільний коктейль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "полуничний коктейль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банановий коктейль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фруктовий смузі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "овочевий сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морквяний сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гарбузовий сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чай в термосі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кава на виніс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кавовий стаканчик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "охолоджувати пиво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розбавляти сік водою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пити через соломинку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чокнутися келихами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "підняти тост",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мохіто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "похмілля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "глінтвейн з корицею",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джин-тонік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "піна колада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "куба лібре",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дайкірі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "маргарита",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кривава мері",
+      "difficulty": "normal"
+    },
+    {
+      "word": "апероль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "віскі з колою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гарячий грог",
+      "difficulty": "normal"
+    },
+    {
+      "word": "медовий напій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "компот із сухофруктів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "узвар на свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "какао з маршмелоу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "латте макіато",
+      "difficulty": "normal"
+    },
+    {
+      "word": "раф кава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "флет вайт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "айс кава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "холодний глінтвейн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "безалкогольне пиво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "крафтове пиво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "темне пиво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "світле пиво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пшеничне пиво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сухе вино",
+      "difficulty": "normal"
+    },
+    {
+      "word": "напівсухе вино",
+      "difficulty": "normal"
+    },
+    {
+      "word": "солодке вино",
+      "difficulty": "normal"
+    },
+    {
+      "word": "червоне вино",
+      "difficulty": "normal"
+    },
+    {
+      "word": "біле вино",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рожеве вино",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ігристе вино",
+      "difficulty": "normal"
+    },
+    {
+      "word": "домашнє вино",
+      "difficulty": "normal"
+    },
+    {
+      "word": "портвейн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кагор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шеррі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мадера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бехеровка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джин з тоніком",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дегустація коньяку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дегустація віскі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коктейльна карта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "барна ложка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шейкер для коктейлів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мірна склянка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коктейльна вишенька",
+      "difficulty": "normal"
+    },
+    {
+      "word": "парасолька в коктейлі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коктейль з льодом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фруктовий лід у напої",
+      "difficulty": "normal"
+    },
+    {
+      "word": "наздогнати чаркою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пити на брудершафт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пити до дна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "піднімати келихи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "цокатися до дна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "застілля з тостами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "корпоратив з алкоголем",
+      "difficulty": "normal"
+    },
+    {
+      "word": "весільний тост",
+      "difficulty": "normal"
+    },
+    {
+      "word": "новорічне шампанське",
+      "difficulty": "normal"
+    },
+    {
+      "word": "різдвяний глінтвейн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "похмільний синдром",
+      "difficulty": "normal"
+    },
+    {
+      "word": "протверезіти вранці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пити воду з похмілля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розсіл від огірків",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мінералка з похмілля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аспірин з похмілля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "закусити лимоном",
+      "difficulty": "normal"
+    },
+    {
+      "word": "закусити соленим огірком",
+      "difficulty": "normal"
+    },
+    {
+      "word": "випити на посошок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "з горла пляшки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розпивання у дворі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пити в компанії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "алкогольна залежність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тверезий спосіб життя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "безалкогольна вечірка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "детокс від алкоголю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кальян і напої",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бар з коктейлями",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нічний клуб з барменом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дегустаційний сет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "винний льох",
+      "difficulty": "normal"
+    },
+    {
+      "word": "виноробня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пивоварня крафтова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "броварня домашня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хмільний напій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "солодовий напій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фільтроване пиво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нефільтроване пиво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розливне пиво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пиво в кегах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чайна церемонія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кавова церемонія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "турецька кава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бразильська кава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "колумбійська кава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кава по-віденськи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кава з корицею",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гарячий шоколад зі спеціями",
+      "difficulty": "normal"
+    },
+    {
+      "word": "молочний коктейль з фруктами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "смузі з бананом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фреш з апельсинів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сік холодного віджиму",
+      "difficulty": "normal"
+    },
+    {
+      "word": "компот з вишні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "узвар з яблук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "квас домашній",
+      "difficulty": "normal"
+    },
+    {
+      "word": "медовуха домашня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "самогон на травах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "настоянка на горіху",
+      "difficulty": "normal"
+    },
+    {
+      "word": "настоянка на перці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "калганівка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вишнівка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хреновуха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гарячий пунш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зимовий напій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "літній прохолодний напій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "напій з м'ятою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "напій з імбирем",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лимонад домашній",
+      "difficulty": "normal"
+    },
+    {
+      "word": "газована вода з сиропом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "содова з лаймом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "морквяно-яблучний сік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гарбузовий смузі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "йогуртовий напій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "протеїновий коктейль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "енергетичний напій з кофеїном",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ізотонічний напій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мінеральна вода з газом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мінеральна вода без газу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вода з лимоном і м'ятою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "охолоджений чай з льодом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фраппе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чай масала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чай з чабрецем",
+      "difficulty": "normal"
+    },
+    {
+      "word": "морозивний коктейль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лимонний квас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "апероль шприц",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дистилят",
+      "difficulty": "hard"
+    },
+    {
+      "word": "негроні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "олд фешн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "космополітен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лонг айленд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "секс на пляжі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "манхеттен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "том коллінз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мохіто без рому",
+      "difficulty": "hard"
+    },
+    {
+      "word": "віскі сауер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "блек рашн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вайт рашн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ірландський кавовий коктейль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "белліні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мімоза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кір рояль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "французький 75",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дайкірі полуничний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "апероль сауер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кайпіринья",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кайпіроска",
+      "difficulty": "hard"
+    },
+    {
+      "word": "маргарита фрозен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "текіла санрайз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гімлет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сайдкар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алекзандер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "космо з журавлиною",
+      "difficulty": "hard"
+    },
+    {
+      "word": "еспресо мартіні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "грасхоппер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зомбі коктейль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "май тай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "блу лагун",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хуго коктейль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спрайт з апероль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "джин безіл смеш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сингапурський слінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дарк енд сторм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "карибський панч",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пуерто-ріканський ром",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кубинський ром",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ямайський ром",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шотландський віскі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бурбон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ірландський віскі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "житній віскі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "односолодовий віскі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "купажований віскі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "арманьяк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кальвадос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "граппа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мескаль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "писко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "писко сауер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "абсент з полином",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чинзано",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мартіні бьянко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мартіні россо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кампарі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фернет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "куантро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трипл сек",
+      "difficulty": "hard"
+    },
+    {
+      "word": "амаретто",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бейліз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "самбука",
+      "difficulty": "hard"
+    },
+    {
+      "word": "йегермайстер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шартрез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "драмбуі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "калуа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крем-де-мент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крем-де-касіс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ангостура біттер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тонік-вода преміум",
+      "difficulty": "hard"
+    },
+    {
+      "word": "содова сифон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "барний інвентар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "джигер мірний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стрейнер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мадлер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "барна лопаточка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дистиляція самогону",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ректифікація спирту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бродіння сусла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "затирання солоду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хмелевий сорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крафтовий сидр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "грушевий сидр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "медовий сидр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крижане вино",
+      "difficulty": "hard"
+    },
+    {
+      "word": "десертне вино",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вино пізнього збору",
+      "difficulty": "hard"
+    },
+    {
+      "word": "терруар вина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сомельє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дегустаційна картка вина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "аромат вина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "танін у вині",
+      "difficulty": "hard"
+    },
+    {
+      "word": "витримка коньяку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "купаж коньяку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вінтажний портвейн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "портвейн тавні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "херес фіно",
+      "difficulty": "hard"
+    },
+    {
+      "word": "херес олоросо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "саке холодне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "саке гаряче",
+      "difficulty": "hard"
+    },
+    {
+      "word": "умешу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "соджу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бехеровка гірка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "напій юнак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тархун",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дюшес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крем-сода",
+      "difficulty": "hard"
+    },
+    {
+      "word": "байкал напій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "салют напій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мохіто безалкогольний класичний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вермут сухий французький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "глінтвейн на білому вині",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пунш ромовий гарячий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "грог з лаймом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тодді гарячий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сідр брют",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пивний сомельє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крафтова броварня іпа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стаут",
+      "difficulty": "hard"
+    },
+    {
+      "word": "портер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лагер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хефевайцен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кисле пиво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бельгійський трапістський ель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "медовий ель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рислінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шардоне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "піно нуар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зінфандель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мерло",
+      "difficulty": "hard"
+    },
+    {
+      "word": "совіньйон блан",
+      "difficulty": "hard"
+    }
+  ]
+}

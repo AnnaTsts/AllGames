@@ -1,0 +1,4007 @@
+{
+  "category": "Фрази, які всі говорять",
+  "emoji": "🗣️",
+  "count": 1000,
+  "words": [
+    {
+      "word": "Добрий день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Доброго ранку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Добрий вечір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Добраніч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "До побачення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "До зустрічі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Привіт усім",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Як справи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Що нового",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все гаразд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дякую велике",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Будь ласка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прошу пробачення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вибачте будь ласка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нема за що",
+      "difficulty": "easy"
+    },
+    {
+      "word": "На здоров'я",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смачного",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Приємного апетиту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Щасливої дороги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ні пуху ні пера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Многая літа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "З днем народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зі святом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вітаю тебе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Радий бачити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Довго не бачились",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скільки років скільки зим",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Як життя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все чудово",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не варто дякувати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дай Боже",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слава Богу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дякувати Богу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "От халепа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "От лихо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ой лишенько",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ой матінко рідна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Боже мій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "От тобі маєш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Отакої",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Оце так",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ну і ну",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ти диви",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не може бути",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Та ти що",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Серйозно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Та ну тебе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Годі вже",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Досить балачок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Що за дурниці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це вже занадто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Так не піде",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це нормально",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все буде добре",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тримайся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не хвилюйся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не переживай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заспокойся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все обійдеться",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час покаже",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Побачимо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Може бути",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Навряд чи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хтозна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хто знає",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Важко сказати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це вже інша справа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Одним словом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Коротше кажучи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Так би мовити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іншими словами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "До речі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Між іншим",
+      "difficulty": "easy"
+    },
+    {
+      "word": "На жаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "На щастя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "От у чому річ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ось у чім штука",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ясна річ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Звісно що так",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Авжеж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аякже",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Атож",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ще б пак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Без питань",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Домовились",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Погоджуюсь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не заперечую",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Як скажеш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "На твій розсуд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Твоя воля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роби як знаєш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це твоя справа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мені байдуже",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Як завжди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Як завжди запізнився",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Знову ти за своє",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скільки можна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Досить із мене",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Терпець урвався",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Моє терпіння лопнуло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гидко на душі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Легко на серці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Камінь з душі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "На душі радісно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аж серце співає",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Серце в п'яти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Душа в п'яти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мороз по шкірі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мурашки по спині",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Волосся дибки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аж очі рогом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аж дух перехопило",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дух забило",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слова застрягли в горлі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мову відібрало",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дар мови втратив",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не знайду слів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Немає слів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слів не вистачає",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Просто немає слів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це щось із чимось",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Оце так номер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Оце діла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Такого я не чекав",
+      "difficulty": "easy"
+    },
+    {
+      "word": "От тобі й раз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "От тобі й на",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хто б сумнівався",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Так я і знав",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Я так і думав",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Само собою зрозуміло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це і так ясно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Яке питання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Питання риторичне",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не питання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Без проблем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все путьом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все на мазі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все під контролем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тримаю руку на пульсі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Раз плюнути",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дурне діло не хитре",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Плюнути й розтерти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Легко як двічі два",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Простіше простого",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це дитячі забавки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Проще пареної ріпи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Як два пальці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пара дрібниць",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не проблема зовсім",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це дрібниці життя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дрібниці не варті уваги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мухи не образить",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Комара не вб'є",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тихіше води нижче трави",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ні риба ні м'ясо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ні пава ні ґава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ні те ні се",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ні два ні півтора",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Так собі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нічого особливого",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Середнячок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Звичайна справа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Буденна справа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рутина одним словом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Один і той же день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День як день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нічого нового",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все по-старому",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все як завжди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хай йому грець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хай йому біс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "А хай йому",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Та ну його",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кинь це діло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Забудь про це",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Викинь із голови",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не бери в голову",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не переймайся цим",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Начхати на це",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Плювати на все",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мені однаково",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Один чорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Яка різниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Без різниці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роби своє",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Займайся своїми справами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тримайся подалі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обходь десятою дорогою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дай спокій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Відчепись від мене",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Відчепись нарешті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дай мені спокій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не чіпай мене",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Облиш мене",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Залиш мене в спокої",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не займай мене",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не морочи голову",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не крути мізки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не бреши мені",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кажи правду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кажи як є",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Без брехні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "По правді кажучи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Правду кажучи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Якщо чесно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Якщо по совісті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чесно кажучи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Відверто кажучи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скажу відверто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не буду брехати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Повір мені",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клянусь тобі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слово честі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чесне слово",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Присягаюсь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Богом клянусь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хай мене грім поб'є",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Щоб я так жив",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вір не вір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хочеш вір хочеш ні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Правда це чи ні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це вже точно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стовідсотково",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Без сумніву",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Однозначно так",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Безперечно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це факт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Незаперечний факт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ось тобі факт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перевірений факт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ти маєш рацію",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ти правий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Твоя правда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Згоден повністю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не можу не погодитись",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Важко заперечити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тут не посперечаєшся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Що правда те правда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Правда очі коле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гірка правда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гола правда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Правда і нічого крім правди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тримай себе в руках",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Візьми себе в руки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Опануй себе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заспокой нерви",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не гарячкуй",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не пори гарячку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не рубай з плеча",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Подумай двічі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зваж усе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не поспішай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тихше їдеш далі будеш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сім разів відміряй",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розваж усі за і проти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не квапся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час не жде",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час іде",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час летить",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не гай часу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час не чекає",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пора й честь знати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час і додому",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пора спати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пора обідати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час вечеряти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час прокидатись",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вставай уже",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прокидайся вже",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не проспи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Будильник задзвонив",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День почався",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новий день новий шанс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ранок вечора мудріший",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Завтра буде видно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Побачимо завтра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все на завтра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "На потім відкладемо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не сьогодні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іншим разом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наступного разу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колись іншим разом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Може згодом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дощ як з відра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ллє як з відра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дощем поливає",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заливає як з неба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сонце пече",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спека несусвітня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жарко як в пеклі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Холодно як в морозильнику",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мороз тріскучий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Собачий холод",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Замерз як цуцик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зуб на зуб не попадає",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вітер валить з ніг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Буря насувається",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хмари згущаються",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Небо хмариться",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Небо прояснюється",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Погода псується",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Погода налагоджується",
+      "difficulty": "easy"
+    },
+    {
+      "word": "На небі ні хмаринки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ясна погода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Похмурий день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сірий день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сонячний день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чудова погода сьогодні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Привіт як ти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Радий тебе бачити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заходь у гості",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сідай зручніше",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Почувайся як вдома",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пригощайся будь ласка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бери ще",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не соромся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все ще попереду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все налагодиться",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не журись",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все буде гаразд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тримай хвіст трубою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Голову вище",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не сумуй",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Посміхнись хоч трохи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Радій дрібницям",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Цінуй кожну мить",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Живи сьогоденням",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Насолоджуйся життям",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Все своє ношу з собою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мандруй світом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Світ не без добрих людей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Людяність понад усе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Добро повертається",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роби добро без розрахунку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ділись теплом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дай руку допомоги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Простягни руку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Підтримай ближнього",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не залишай в біді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свої люди порахуємось",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Друзі пізнаються в біді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Разом ми сила",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гуртом і батька легше бити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Третій зайвий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Двоє це компанія троє натовп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час обідати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пора вечеряти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Час перекусити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наступний раз почастую",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кава на двох",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чай з печивом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смачна вечеря",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Домашня кухня найкраща",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Готуй з душею",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смак дитинства",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бабусині рецепти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мамина кухня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Апетит приходить під час їжі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "З'їв би вола",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Голодний як вовк узимку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наївся до відвалу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наївся від пуза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "По самі вінця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сита людина злої не буває",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Живіт до спини прилип",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Черево гуде",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кишки марш грають",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аж живіт болить від сміху",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сміх та й годі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сміху повні штани",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Помирати зі сміху",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Реготати до сліз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сміятись до кольок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сльози від сміху",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нічого смішного",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не до сміху зараз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тут не до жартів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жарти в бік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Досить жартувати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Це вже не жарти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гумор в тему",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорний гумор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тонкий гумор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гострий на слово",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дотепний як завжди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мастак на жарти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Майстер слова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хто мовчить той двох навчить",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мовчання золото",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слово срібло мовчання золото",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Краще промовчати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не всяке слово говори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Думай перш ніж казати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спочатку подумай потім скажи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обережно зі словами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Не лізь не в своє",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Один за всіх усі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Третій завжди зайвий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слово не горобець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тримай язика на припоні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тримати язика за зубами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прикусити язика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Язик без кісток",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Довгий язик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Злий язик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гострий на язик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дати волю язику",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розв'язати язика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тягнути за язик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Влучити в саму точку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Влучити в яблучко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Попасти пальцем у небо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Промахнутися повністю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Схибити з першого разу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Взяти бика за роги",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Братись за діло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Закасати рукави",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не покладаючи рук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Робити на совість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Робити абияк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Через пень колоду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спустивши рукава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аби день до вечора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не в своїй тарілці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Почуватись як не своїй тарілці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "На сьомому небі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "На сьомому небі від щастя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Літати в хмарах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Витати в хмарах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спуститися на землю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Твердо стояти на ногах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стояти на своєму",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гнути свою лінію",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гнути кирпу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати ніс за вітром",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати вухо гостро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дивитись крізь пальці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Заплющувати очі на це",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Закривати очі на проблему",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пропускати повз вуха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пускати повз вуха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Слухати краєм вуха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нашорошити вуха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Наставити вуха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вуха в'януть",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аж вуха запалали",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Червоніти як рак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Червоний як буряк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Білий як полотно",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Блідий як стіна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чорний як сажа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чорніший за ніч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Худий як тріска",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Товстий як бочка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Швидкий як блискавка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Повільний як черепаха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хитрий як лис",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Впертий як віслюк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Впертий як баран",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дурний як пень",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Німий як риба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Голодний як вовк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Злий як собака",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сильний як бик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Слабкий як муха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тихий як миша",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Боягузливий як заєць",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хоробрий як лев",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мудрий як сова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Верткий як в'юн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гнучкий як лозина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прямий як стріла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крутий як яйце",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гладкий як скло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Плаче як дитина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Регоче як навіжений",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кричить на всю губу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мовчить як риба об лід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Б'ється як риба об лід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крутиться як білка в колесі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Носиться як чадний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бігає як заведений",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стоїть як вкопаний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сидить як на голках",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тремтить як осиковий лист",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Труситься як заєць",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мокрий як хлющ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Голий як бубон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гарячий як вогонь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Холодний як лід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Твердий як камінь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "М'який як віск",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Легкий як пір'їнка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Важкий як камінь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Солодкий як мед",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гіркий як полин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кислий як лимон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Солоний як огірок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пекучий як перець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свіжий як огірочок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Червоний як помідор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прозорий як скло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Товстошкірий як слон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Незграбний як ведмідь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Клопоту повна голова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Голова йде обертом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Голова тріщить",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Голова забита дурницями",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Каша в голові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Туман у голові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прояснилося в голові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дійшло нарешті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Осяяло раптом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спало на думку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прийшло в голову",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крутиться в голові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не йде з голови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Засіло в голові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вилетіло з голови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Забув напрочуд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пам'ять як решето",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пам'ять відмовила",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Короткий на пам'ять",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Довга пам'ять",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пам'ятати як зараз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пам'ятати до дрібниць",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати в пам'яті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Закарбувати в пам'яті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Робити з мухи слона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роздувати з мухи слона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перебільшувати без міри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Применшувати значення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Применшувати заслуги",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Применшувати проблему",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не бачити лісу за деревами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бачити тільки поверхню",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дивитись у корінь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дивитись у суть",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Копати глибше",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Копати під когось",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рити яму іншому",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Підставляти ногу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ставити палиці в колеса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вставляти палки в колеса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вставляти свої п'ять копійок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вставити своє слово",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Влізти без мила",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пролізти без мила",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пролізти скрізь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Просунути свою людину",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тягнути когось за собою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тягнути ковдру на себе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Загрібати жар чужими руками",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виносити сміття з хати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виносити сміття напоказ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати в секреті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати язик на припоні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати рот на замку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати в таємниці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мовчати як партизан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мовчати як риба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розповісти все як на духу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виговоритися душею",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зняти камінь з душі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Полегшити душу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Взяти гріх на душу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мати камінь за пазухою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати камінь за пазухою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Точити зуб на когось",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мати зуб на когось",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Загострювати стосунки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Псувати кров",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пити кров",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пити кров по краплі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виводити з себе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Доводити до сказу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Доводити до білого гартування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Довести до сліз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Довести до ручки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дійти до ручки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Опустити руки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Скласти руки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зламатися остаточно",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Впасти духом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Втратити надію",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не втрачати надії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати хвіст пістолетом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не падати духом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Триматися до кінця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йти напролом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йти до кінця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стояти на своєму до кінця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не здаватися ніколи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Боротися до останнього",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Боротися до кінця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Викласти всі карти на стіл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розкрити всі карти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Грати в закриту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Грати з відкритими картами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати козир у рукаві",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розіграти свою карту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Поставити все на карту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ризикнути всім",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йти ва-банк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Грати з вогнем",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ходити по краю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Балансувати на межі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "На волосині від провалу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "На межі зриву",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати ситуацію під контролем",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Випустити ситуацію з рук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Втратити контроль над собою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Взяти себе в шори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Взяти в свої руки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Взяти ініціативу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перехопити ініціативу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Захопити зненацька",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Заскочити зненацька",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Застати на гарячому",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спіймати на гарячому",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спіймати за руку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Викрити брехню",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вивести на чисту воду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вивести на світло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розкрити карти обману",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пустити пилюку в очі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Замилювати очі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пудрити мізки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Забивати баки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Морочити голову",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крутити фіглі-міглі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Водити за ніс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати в невіданні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати в темряві",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Триматись в тіні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Залишатись за кадром",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бути за лаштунками",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не той коник вивезе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "На кожного мудреця досить простоти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сім бід один одвіт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Одна ластівка весни не робить",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не одним хлібом живе людина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не хлібом єдиним",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Живе не по кишені",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тягне кота за хвіст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тягне резину",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Затягувати з відповіддю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зволікати з рішенням",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не відкладай на завтра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роби зараз а не потім",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Час не чекатиме",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Впіймати момент за хвіст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ловити момент",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не втратити нагоди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Скористатися нагодою одразу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Двічі така нагода не випаде",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Один раз живемо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Життя одне",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Другого шансу не буде",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Використай шанс сповна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не пасуй перед труднощами",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не здавайся на півдорозі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йти до мети попри все",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мета виправдовує засоби",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Засіб не виправдовує мету",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дорогу здолає той хто йде",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крапля камінь точить",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Терпіння і труд усе перетруть",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Без труда нема плода",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Праця людину годує",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лінь поперед тебе народилась",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ледачому все ніколи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Відкладати справи в довгий ящик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Робити через силу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Робити абияк лиш би збутися",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Аби з рук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Робити на відчепись",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спустити на самоплив",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пустити справу на самоплив",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати руку на важелях",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Керувати процесом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стояти біля керма",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тримати кермо влади",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тягнути ковдру на свій бік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Грати першу скрипку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бути на других ролях",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Залишатись у тіні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виходити на перший план",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виступати на передньому плані",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Триматися в тіні подій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бути центром уваги",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кінь на чотирьох спотикається",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Буває проруха на стару бабу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Одна голова добре дві краще",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хто не працює не їсть",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не пхай носа не туди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Око за око зуб",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хто риє яму сам впаде",
+      "difficulty": "normal"
+    },
+    {
+      "word": "На чужому нещасті не збудуєш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Не суди щоб не судили",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Насипати солі на рану",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сипати сіль на рану",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розкрити старі рани",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розтравлювати рану",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Загоювати рани часом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Час лікує рани",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Носити воду решетом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Товкти воду в ступі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Переливати з пустого в порожнє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Городити город",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Городити огорожу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ловити рибу в каламутній воді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ловити гав",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Проґавити момент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прогледіти нагоду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Впустити свій шанс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Впіймати свій шанс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не проґавити нагоди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Скористатися моментом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Куй залізо поки гаряче",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не відкладай на потім",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Відкладати в довгу шухляду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Класти під сукно",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ховати під сукном",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зам'яти справу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спустити на гальмах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спустити справу на гальмах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Замести сліди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Замести під килим",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ховати кінці у воду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кінці у воду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шито білими нитками",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шите-крите",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Все шито-крито",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прати брудну білизну",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прати білизну на людях",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Виставляти напоказ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Виставляти на посміховисько",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Робити з когось посміховисько",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ставати посміховиськом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пускати чутки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розпускати плітки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обростати чутками",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плодити чутки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наводити тінь на плетінь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наводити тінь на ясний день",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Приховувати справжні наміри",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мати задню думку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ножа в спину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Всадити ніж у спину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зрадити в найважчу хвилину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кинути напризволяще",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Залишити на призволяще",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кинути напризволяще друга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Продати за копійку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Продати з потрухами",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Продати душу дияволу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Укласти угоду з нечистим",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заключити пакт із дияволом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ходити по лезу ножа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Грати з долею",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спокушати долю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Випробовувати долю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гнівити Бога",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гріх скаржитися вголос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гріх нарікати",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не гріши",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не бери гріха на душу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Замолювати гріхи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спокутувати провину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нести свій хрест",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Терпіти до кінця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нести тягар на собі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Взяти тягар на плечі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Звалити провину на іншого",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перекладати відповідальність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вмивати руки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Умити руки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стояти осторонь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Залишатися осторонь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не втручатися в чужі справи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Соватися не в своє діло",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Яблуко від яблуні недалеко падає",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Яка мати така й донька",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Який батько такий і син",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не в тата вдався",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вдатися в родину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кров не водиця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свій своєму мимоволі брат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свій до свого по своє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рука руку миє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ти мені я тобі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Послуга за послугу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Що посієш те й пожнеш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Як гукнеш так і відгукнеться",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Як дбаєш так і маєш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не рий іншому яму",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чужим горем ситий не будеш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не радій чужому лиху",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кожному своя доля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "У кожного своя правда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не осуждай ближнього",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Крайній завжди винен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Знайти крайнього",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зробити цапом-відбувайлом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стати козлом відпущення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Взяти на себе провину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спокутувати чужу вину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Виправдовувати очікування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не виправдати сподівань",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обманути сподівання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розбити серце вщент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розбити мрії на друзки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розвіяти ілюзії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Впасти з небес на землю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прокинутися від мрій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прозріти нарешті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Відкрити очі на правду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зняти рожеві окуляри",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бачити все в чорному кольорі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Малювати все чорною фарбою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Згущувати барви",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Драматизувати без потреби",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Робити трагедію з дрібниці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роздмухувати з іскри полум'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "З іскри розгориться полум'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гасити пожежу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заливати пожежу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тушити конфлікт у зародку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Придушити бунт у зародку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зупинити на півдорозі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Довести до логічного кінця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Поставити крапку в справі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Поставити крапку над і",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розставити всі крапки над і",
+      "difficulty": "hard"
+    },
+    {
+      "word": "З'ясувати остаточно",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Внести ясність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розвіяти сумніви",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Посіяти сумнів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Закинути зерно сумніву",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Підірвати довіру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Підточувати авторитет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Підривати підвалини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хитати човен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розхитувати ситуацію",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вносити розлад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сіяти розбрат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сіяти ворожнечу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розділяй і володарюй",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стравлювати одне з одним",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Настроювати проти когось",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наговорювати на людину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обмовляти за спиною",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пускати наклепи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обливати брудом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Поливати брудом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тягнути в багно",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Втоптувати в грязь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Змішати з болотом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Втоптати в землю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Піднести до небес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Возвеличувати без міри",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роздувати авторитет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Створювати культ особи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Возводити на п'єдестал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Знімати з п'єдесталу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Скидати з трону",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Позбавляти корони",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Втратити авторитет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Втратити обличчя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зберегти обличчя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Врятувати репутацію",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заплямувати честь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заплямувати репутацію",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пляма на репутації",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чорна пляма на біографії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тавро на все життя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ганебна пляма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Змити ганьбу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спокутувати ганьбу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Реабілітувати себе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Відновити добре ім'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Повернути довіру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заслужити прощення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Просити прощення на колінах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Впасти в ноги",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Схилити голову",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Визнати поразку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Змиритися з долею",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прийняти неминуче",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Скоритися обставинам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плисти за течією",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Плисти проти течії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іти проти вітру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гребти проти течії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не пливти за натовпом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Виділятися з натовпу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бути білою вороною",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стати паршивою вівцею",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Паршива вівця все стадо псує",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ложка дьогтю в бочці меду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ложка дьогтю псує бочку меду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Собаку з'їв на цьому ділі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "З'їсти пуд солі разом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Правда в вині",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кожен про своє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Легше сказати ніж зробити",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обіцяти не означає одружитись",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наобіцяти три мішки гречаної вовни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Наговорити сім мішків гречаної вовни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не вір своїм вухам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вір очам а не вухам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Краще один раз побачити",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не судіть з першого погляду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Одяг не робить людину",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не все золото що блищить",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зовнішність оманлива",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тихий вир найглибший",
+      "difficulty": "hard"
+    },
+    {
+      "word": "В тихому болоті чорти водяться",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тиха вода греблю рве",
+      "difficulty": "hard"
+    },
+    {
+      "word": "З вогню та в полум'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "З дощу та під ринву",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гірше не буває",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Куди не кинь всюди клин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ні туди ні сюди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Впасти між двома стільцями",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сидіти на двох стільцях",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Двом панам не служать",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не можна служити двом господарям",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свічку з обох кінців палити",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гнатися за двома зайцями",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Синиця в жмені",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Журавель в небі не гарантія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не рахуй курчат восени",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Курчат по осені рахують",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не діли шкуру невбитого ведмедя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не хвались ідучи на торжок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не хвали день до вечора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гордість передує падінню",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Занадто високо злетів більше падати",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пригодиться ще води напитися",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не спалюй мостів за собою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тримай двері відчиненими",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не закривай всі шляхи назад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дорога додому завжди відкрита",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Повернутися можна завжди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Надія вмирає останньою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Поки дихаю сподіваюсь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лихо не спить",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Біда сама не ходить",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Біда одна не приходить",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прийшла біда відчиняй ворота",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Де тонко там і рветься",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Де тонко там рветься завжди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Історія повторюється знову",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не ворушити старе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Забути як страшний сон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Викреслити з пам'яті назавжди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перегорнути сторінку життя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Почати з чистого аркуша",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Почати життя спочатку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дати собі другий шанс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Встати з колін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Піднятися після падіння",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обтрусити пил і йти далі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не оглядатися назад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дивитися тільки вперед",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пуд солі з'їсти разом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Що у тверезого на умі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кожен про своє думає",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Легко на словах важко ділом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "По одягу зустрічають по розуму",
+      "difficulty": "hard"
+    },
+    {
+      "word": "За двома зайцями не поженешся",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Краще синиця в руках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не кажи гоп завчасно",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хто високо літає низько сідає",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не рубай гілку під собою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не плюй у свою криницю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Надія вмирає останньою завжди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Де життя там і надія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лихо не спить ніколи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Одна біда тягне другу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Все нове забуте старе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Час все розставить по місцях",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Правда завжди випливає назовні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Брехня на коротких ногах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шила в мішку не сховаєш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Слово вилетіло не спіймаєш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мовчання іноді красномовніше слів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тиша перед бурею",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Затишшя перед грозою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Всьому приходить свій кінець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кінець вінчає справу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не хвалися недоробленою справою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вода камінь точить",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не спалюй мостів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не буди сплячого пса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Не сип сіль на рану",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гріх нарікати на долю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кожен коваль свого щастя",
+      "difficulty": "hard"
+    }
+  ]
+}

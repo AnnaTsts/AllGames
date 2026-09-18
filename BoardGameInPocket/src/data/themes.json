@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "Повний рандом",
+    "emoji": "🎲",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "2",
+    "name": "Загальні знання",
+    "emoji": "🧩",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "3",
+    "name": "Побут і просто слова",
+    "emoji": "🧑‍🍳",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "4",
+    "name": "Кіно",
+    "emoji": "🎬",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "5",
+    "name": "Серіали",
+    "emoji": "📺",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "6",
+    "name": "Музика",
+    "emoji": "🎵",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "7",
+    "name": "Література",
+    "emoji": "📚",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "8",
+    "name": "Наука",
+    "emoji": "🧪",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "9",
+    "name": "Історія",
+    "emoji": "🏛️",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "10",
+    "name": "Географія",
+    "emoji": "🌍",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "11",
+    "name": "Відомі люди",
+    "emoji": "⭐",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "12",
+    "name": "Спорт",
+    "emoji": "⚽",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "13",
+    "name": "Їжа",
+    "emoji": "🍕",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "14",
+    "name": "Природа",
+    "emoji": "🌿",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "15",
+    "name": "Школа та університет",
+    "emoji": "🏫",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "16",
+    "name": "Свята та традиції",
+    "emoji": "🎉",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "17",
+    "name": "Фрази, які всі говорять",
+    "emoji": "🗣️",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "18",
+    "name": "Сучасні фрази",
+    "emoji": "😎",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "19",
+    "name": "Меми",
+    "emoji": "😂",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "20",
+    "name": "Напої",
+    "emoji": "🍹",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "21",
+    "name": "Автомобілі",
+    "emoji": "🚗",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "22",
+    "name": "Бізнес і гроші",
+    "emoji": "💰",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "23",
+    "name": "Люди та стосунки",
+    "emoji": "❤️",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "24",
+    "name": "Причини померти від сорому",
+    "emoji": "💀",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "25",
+    "name": "Погані вчинки",
+    "emoji": "😈",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "26",
+    "name": "Те, що важко пояснити",
+    "emoji": "🤯",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "27",
+    "name": "Те, що дратує",
+    "emoji": "🥴",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "28",
+    "name": "Те, що буває після вечірки",
+    "emoji": "🫠",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "29",
+    "name": "Те, що може піти не за планом",
+    "emoji": "🚨",
+    "enabled": true,
+    "customWords": [],
+    "isCustom": false
+  },
+  {
+    "id": "30",
+    "name": "18+ Те, що ніхто не говорить",
+    "emoji": "🥵",
+    "enabled": false,
+    "customWords": [],
+    "isCustom": false
+  }
+]

@@ -1,0 +1,4007 @@
+{
+  "category": "Спорт",
+  "emoji": "⚽",
+  "count": 1000,
+  "words": [
+    {
+      "word": "футбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баскетбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "волейбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "теніс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хокей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плавання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бокс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "боротьба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гандбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бадмінтон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "настільний теніс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гольф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімнастика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фігурне катання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лижі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ковзани",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сноуборд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "велоспорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "біг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибки у воду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибки в довжину",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибки у висоту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "важка атлетика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дзюдо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "карате",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фехтування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрільба з лука",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кульова стрільба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "веслування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вітрильний спорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "серфінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скейтбординг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скелелазіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "альпінізм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "боулінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "більярд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дартс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крикет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "регбі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бейсбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "водне поло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "керлінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "біатлон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "санний спорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бобслей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тхеквондо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кікбоксинг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "самбо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "аеробіка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "черлідинг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шахи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "армреслінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибки на батуті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивна ходьба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "марафон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "триатлон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пауерліфтинг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бодібілдинг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "йога",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фрисбі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пляжний волейбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пляжний футбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мініфутбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стритбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "парашутний спорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дайвінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кайтсерфінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "віндсерфінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мотокрос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "автоперегони",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Формула-1",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ралі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кінний спорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибки на коні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "поло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сноукайтинг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "футбольний м'яч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баскетбольний м'яч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "волейбольний м'яч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тенісна ракетка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ключка для хокею",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хокейні ковзани",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лижні палиці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивний шолом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "воротарські рукавиці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бутси",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кросівки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивна форма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "свисток судді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "секундомір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скакалка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гантелі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штанга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тренажер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "батут",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гоночний велосипед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дошка для серфінгу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ролики",
+      "difficulty": "easy"
+    },
+    {
+      "word": "боксерські рукавички",
+      "difficulty": "easy"
+    },
+    {
+      "word": "боксерська груша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тенісний м'яч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хокейна шайба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "футбольні ворота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баскетбольний кошик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тенісний корт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "футбольне поле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивний стадіон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плавальний басейн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бігова доріжка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "боксерський ринг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "п'єдестал пошани",
+      "difficulty": "easy"
+    },
+    {
+      "word": "золота медаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "срібна медаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бронзова медаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивний кубок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стартовий пістолет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "естафетна паличка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "боксерська капа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "велосипедний шолом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "наколінники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "захисна маска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивна сумка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пенальті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штрафний удар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "офсайд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жовта картка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "червона картка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тайм-аут",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нічия",
+      "difficulty": "easy"
+    },
+    {
+      "word": "перемога",
+      "difficulty": "easy"
+    },
+    {
+      "word": "поразка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рахунок матчу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тренер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "капітан команди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "воротар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "захисник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нападник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "півзахисник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "заміна гравця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розминка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тренування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "змагання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "турнір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чемпіонат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "олімпіада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "олімпійські ігри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "світовий рекорд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "особистий рекорд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стартова лінія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фінішна лінія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "овертайм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "додатковий час",
+      "difficulty": "easy"
+    },
+    {
+      "word": "серія пенальті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "атака",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оборона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кидок у кільце",
+      "difficulty": "easy"
+    },
+    {
+      "word": "подача м'яча",
+      "difficulty": "easy"
+    },
+    {
+      "word": "удар по воротах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "біг на швидкість",
+      "difficulty": "easy"
+    },
+    {
+      "word": "естафетний біг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фінішна стрічка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибок у довжину з розбігу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "переможець змагань",
+      "difficulty": "easy"
+    },
+    {
+      "word": "глядачі на стадіоні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вболівальники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фан-зона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивний коментатор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "трансляція матчу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розклад ігор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "турнірна таблиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "збірна країни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "клубна команда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "запасний гравець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "капітанська пов'язка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розігрів перед матчем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кутовий прапорець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Усик Олександр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ломаченко Василь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кличко Віталій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кличко Володимир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шевченко Андрій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бубка Сергій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пеле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мессі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роналду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марадона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Майкл Джордан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мухаммед Алі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роджер Федерер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рафаель Надаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Усейн Болт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "брати Кличко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шахтар Донецьк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Динамо Київ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Реал Мадрид",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Барселона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ювентус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Манчестер Юнайтед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліверпуль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мілан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чемпіонат світу з футболу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чемпіонат Європи з футболу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліга чемпіонів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кубок світу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "літні Олімпійські ігри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зимові Олімпійські ігри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тур де Франс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вімблдонський турнір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Суперкубок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чемпіонат Європи з футболу Євро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "біг підтюпцем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "присідання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "віджимання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "підтягування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розтяжка м'язів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибок зі скакалкою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "біг на місці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ходьба на лижах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "катання на ковзанах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "катання на велосипеді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плавання кролем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плавання батерфляєм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плавання на спині",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плавання брасом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пірнання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибок у воду з вишки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибок у воду з трампліна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гра в м'яч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "передача м'яча ногою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "удар головою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жонглювання м'ячем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дриблінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фінт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "обведення суперника",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибок через бар'єр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "подача у волейболі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "блокування атаки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "прийом м'яча",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нападаючий удар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "захисна стійка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "больовий прийом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "задня підніжка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кидок через стегно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "больовий у боротьбі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нокаут",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нокдаун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бій без правил",
+      "difficulty": "easy"
+    },
+    {
+      "word": "змішані єдиноборства",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спаринг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "велотренажер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тренажерна бігова доріжка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "еліптичний тренажер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гребний тренажер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "турнік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімнастичні брусся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімнастичні кільця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "канат для лазіння",
+      "difficulty": "easy"
+    },
+    {
+      "word": "медичний м'яч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "еспандер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фітбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "йога-килимок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімнастичний обруч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімнастична стрічка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімнастичні булави",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лижні черевики",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ковзанярські черевики",
+      "difficulty": "easy"
+    },
+    {
+      "word": "захисний жилет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "щитки воротаря",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гірські лижі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибки з трампліна на лижах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фрістайл на лижах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "могул",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сноуборд-крос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хафпайп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "слоупстайл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шорт-трек",
+      "difficulty": "easy"
+    },
+    {
+      "word": "конькобіжний спорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "парне фігурне катання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "танці на льоду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "синхронне плавання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "художня гімнастика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивна гімнастика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акробатика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "паркур",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скейт-парк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "БМХ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гірський велосипед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шосейний велоспорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "трековий велоспорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "даунхіл на велосипеді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "картинг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "родео на бику",
+      "difficulty": "easy"
+    },
+    {
+      "word": "перетягування каната",
+      "difficulty": "easy"
+    },
+    {
+      "word": "городки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "петанк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крокет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "настільний футбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "аерохокей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "американський більярд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "снукер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пул більярд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "класичний дартс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бочче",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фрізбі-гольф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "збірна України з футболу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "збірна України з боксу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "олімпійська збірна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "футбольний клуб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баскетбольний клуб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хокейний клуб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тренерський штаб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивний агент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скаут команди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "менеджер команди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стартовий склад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лава запасних",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тренувальний табір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "передсезонні збори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "контрольний матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "товариський матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виїзний матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "домашній матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нейтральне поле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "глядацька трибуна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "почесна ложа стадіону",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квиток на матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "абонемент на сезон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "клубні кольори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "емблема клубу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "талісман команди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімн клубу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибок у висоту з розбігу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "метання диска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "метання молота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штовхання ядра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "біг з бар'єрами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "потрійний стрибок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "десятиборство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "семиборство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивна ходьба на 20 км",
+      "difficulty": "easy"
+    },
+    {
+      "word": "марафонський біг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "напівмарафон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крос по пересіченій місцевості",
+      "difficulty": "easy"
+    },
+    {
+      "word": "велокрос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "маунтинбайк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "трюки на роликах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "трюки на скейтборді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фрістайл на сноуборді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гірськолижний слалом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гігантський слалом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "швидкісний спуск на лижах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "супергігант",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хокей з шайбою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хокей на траві",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хокей на роликах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "флорбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "регбі-7",
+      "difficulty": "easy"
+    },
+    {
+      "word": "футзал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пляжний гандбол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "водні лижі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вейкбординг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сплав на байдарках",
+      "difficulty": "easy"
+    },
+    {
+      "word": "каякінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рафтинг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "веслування на каное",
+      "difficulty": "easy"
+    },
+    {
+      "word": "захисні щитки хокеїста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шапочка для плавання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плавальні окуляри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "надувний м'яч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пляжна ракетка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дитячий велосипед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "самокат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "роликова дошка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баскетбольний щит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "волейбольна стійка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сітка для тенісу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "корзина для боулінгу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дорожня велофутболка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кийок для боулінгу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "футбольний матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баскетбольний матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хокейний матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тенісний матч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "боксерський поєдинок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивний зал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фітнес-клуб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивна секція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дитячий спорт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "олімпійський чемпіон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чемпіон світу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "срібний призер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бронзовий призер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рекордсмен світу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спортивна кар'єра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кубок переможця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "подіум переможців",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розминка перед грою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "офсайдна пастка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гра рукою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "автогол",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хавтайм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "технічна поразка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дискваліфікація гравця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "попередження судді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "система відеоасистента судді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "відеоповтор моменту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "асистент судді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "головний суддя матчу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лінійний суддя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "резервний суддя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "антидопінговий контроль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "допінг-проба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "трансферне вікно",
+      "difficulty": "normal"
+    },
+    {
+      "word": "контракт гравця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "орендний гравець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "легіонер команди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дублюючий склад",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фарм-клуб",
+      "difficulty": "normal"
+    },
+    {
+      "word": "молодіжна команда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дитячо-юнацька спортивна школа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спортивний інтернат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тренувальний збір команди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "передматчева нарада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тактична схема гри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "персональна опіка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зонний захист",
+      "difficulty": "normal"
+    },
+    {
+      "word": "контратака",
+      "difficulty": "normal"
+    },
+    {
+      "word": "позиційна атака",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стандартне положення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кутовий удар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вкидання з-за бокової",
+      "difficulty": "normal"
+    },
+    {
+      "word": "штрафний майданчик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лінія воротаря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "центральне коло поля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "офсайдна лінія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бокова лінія поля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гра в меншості",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гра в більшості",
+      "difficulty": "normal"
+    },
+    {
+      "word": "буллі у хокеї",
+      "difficulty": "normal"
+    },
+    {
+      "word": "силовий прийом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вкидання шайби",
+      "difficulty": "normal"
+    },
+    {
+      "word": "воротарська зона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зона нападу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зона захисту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нейтральна зона поля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хет-трик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дубль голів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "результативна передача",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гол у своєму матчі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гол з пенальті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гол головою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гол зі штрафного",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вирішальний пенальті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "серія без поразок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "турнірна серія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плей-офф",
+      "difficulty": "normal"
+    },
+    {
+      "word": "груповий етап",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чвертьфінал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "півфінал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фінал турніру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "матч за третє місце",
+      "difficulty": "normal"
+    },
+    {
+      "word": "регулярний чемпіонат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кубковий формат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "виліт з турніру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вихід у наступний раунд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "посів команди у сітці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рейтинг команди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "світовий рейтинг тенісистів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рейтингові очки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "неспортивна поведінка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фінансовий фейр-плей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "натуралізований спортсмен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ліміт на легіонерів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "умовна дискваліфікація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "довічна дискваліфікація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ключка для гольфу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "м'яч для гольфу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лунка для гольфу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "диск для метання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спис для метання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ядро для штовхання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "легкоатлетичний бар'єр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стартові колодки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гімнастичний кінь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "різновисокі бруся",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гімнастична колода",
+      "difficulty": "normal"
+    },
+    {
+      "word": "канат для перетягування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "баскетбольний щит зі склом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кільце для баскетболу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "антена волейбольної сітки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прапорець лінійного судді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нагрудний номер спортсмена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хронометраж змагань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фотофініш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електронне табло рахунку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стартовий трап у плаванні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "доріжка басейну",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плавальний гідрокостюм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "весло для каное",
+      "difficulty": "normal"
+    },
+    {
+      "word": "весло для байдарки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кермо вітрильної яхти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "грот вітрильника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "щогла яхти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "карабін для скелелазіння",
+      "difficulty": "normal"
+    },
+    {
+      "word": "страхувальна мотузка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "скеледром",
+      "difficulty": "normal"
+    },
+    {
+      "word": "магнезія для рук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "боксерський бандаж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тренувальний боксерський шолом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кімоно дзюдоїста",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пояс з дзюдо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кімоно для карате",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фехтувальна маска",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фехтувальна рапіра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фехтувальна шабля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фехтувальна шпага",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електрофіксатор уколів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лижна мазь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лижний кант",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кріплення для лиж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кріплення для сноуборда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "клапан ковзана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "клюшка воротаря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "маска воротаря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нагрудник воротаря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ярослава Магучіх",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Яна Клочкова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Максим Мирний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Еліна Світоліна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олег Блохін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ігор Бєланов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Анатолій Тимощук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сергій Ребров",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олександр Гвоздик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Руслан Ротань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Жан Беленюк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Валерій Лобановський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ірина Дерюгіна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Олена Костевич",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Денис Силантьєв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Новак Джокович",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Серена Вільямс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Леброн Джеймс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Майк Тайсон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зінедін Зідан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роналдіньо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Неймар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кіліан Мбаппе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ерлінг Голанн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роберт Левандовскі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чемпіонат світу з боксу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чемпіонат світу з плавання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чемпіонат світу з легкої атлетики",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кубок Стенлі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліга Європи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прем'єр-ліга Англії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ла Ліга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бундесліга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Серія А",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кубок Америки з футболу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кубок африканських націй",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чемпіонат світу з хокею",
+      "difficulty": "normal"
+    },
+    {
+      "word": "юніорський чемпіонат світу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Універсіада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "юнацькі Олімпійські ігри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Паралімпійські ігри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спартакіада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лівий захисник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "правий захисник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "центральний захисник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "опорний півзахисник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "атакувальний півзахисник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "крайній нападник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фланговий гравець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ліберо у футболі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розігруючий захисник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "атакуючий захисник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "легкий форвард",
+      "difficulty": "normal"
+    },
+    {
+      "word": "важкий форвард",
+      "difficulty": "normal"
+    },
+    {
+      "word": "центровий гравець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розводжуючий у волейболі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "діагональний гравець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ліберо у волейболі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "центральний блокуючий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "змагальний сезон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "передсезонний збір команди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "контрольний час матчу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "технічний директор клубу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спортивний директор клубу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "селекційна робота клубу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "академія футбольного клубу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "воротарський тренер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тренер з фізичної підготовки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "масажист команди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лікар команди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фізіотерапевт спортсмена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "реабілітація після травми",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розтягнення зв'язок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розрив м'яза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "перелом кістки у спортсмена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "струс мозку у спорті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спортивна травма коліна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "операція на меніску",
+      "difficulty": "normal"
+    },
+    {
+      "word": "відновлення після операції",
+      "difficulty": "normal"
+    },
+    {
+      "word": "допінг-тест поза змаганнями",
+      "difficulty": "normal"
+    },
+    {
+      "word": "біологічний паспорт спортсмена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "антидопінгова агенція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спортивний арбітражний суд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "апеляція на рішення судді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "протест на результат матчу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "переголосування журі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "технічний делегат змагань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "організаційний комітет турніру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акредитація на змагання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "церемонія відкриття Олімпіади",
+      "difficulty": "normal"
+    },
+    {
+      "word": "церемонія закриття Олімпіади",
+      "difficulty": "normal"
+    },
+    {
+      "word": "олімпійський вогонь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "олімпійська естафета вогню",
+      "difficulty": "normal"
+    },
+    {
+      "word": "олімпійська клятва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "олімпійський прапор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "олімпійський девіз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "паралімпійський спортсмен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "класифікація за інвалідністю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "адаптивне обладнання для спорту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "технічний нокаут",
+      "difficulty": "normal"
+    },
+    {
+      "word": "суддівська нарада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "апеляційний протест",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зворотний пас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "діагональна передача",
+      "difficulty": "normal"
+    },
+    {
+      "word": "навісна передача",
+      "difficulty": "normal"
+    },
+    {
+      "word": "довгий пас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "короткий пас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фланговий прорив",
+      "difficulty": "normal"
+    },
+    {
+      "word": "проникаючий пас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гра в стінку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "запасний воротар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "третій воротар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "трансферна сума",
+      "difficulty": "normal"
+    },
+    {
+      "word": "відступні у контракті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "агентська комісія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спонсорський контракт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рекламний контракт спортсмена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "екіпірувальний спонсор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "титульний спонсор турніру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "телевізійні права на трансляцію",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рейтинг глядацької аудиторії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коментаторська кабіна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прес-конференція після матчу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інтерв'ю з переможцем",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нагородження переможців",
+      "difficulty": "normal"
+    },
+    {
+      "word": "підняття кубка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коло пошани",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прощальний матч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ювілейний матч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "запрошений гість матчу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "почесний гість змагань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фан-клуб команди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "виїзний сектор стадіону",
+      "difficulty": "normal"
+    },
+    {
+      "word": "домашній сектор стадіону",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хореографія фанатів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кричалка вболівальників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шарф з символікою клубу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "колекційна футболка гравця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "автограф спортсмена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фотографія з чемпіоном",
+      "difficulty": "normal"
+    },
+    {
+      "word": "благодійний матч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "турнір ветеранів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "матч легенд футболу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дитячий футбольний табір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "літня спортивна школа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "секція з плавання для дітей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кевін Дюрант",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стефен Каррі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Симона Байлз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тайгер Вудс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Валентино Россі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Льюїс Хемілтон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Себастьян Феттель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Катаріна Вітт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ольга Харлан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ганна Різатдінова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "В'ячеслав Узелков",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кубок УЄФА",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліга націй УЄФА",
+      "difficulty": "normal"
+    },
+    {
+      "word": "клубний чемпіонат світу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "континентальний кубок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Азійські ігри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Панамериканські ігри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Європейські ігри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітні ігри",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чемпіонат світу з дзюдо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чемпіонат світу з боротьби",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фінал тенісного сезону",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кубок Девіса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кубок Федерації з тенісу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гран-прі з фігурного катання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фінал Гран-прі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кабадді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сепактакрау",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гьорлінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гельський футбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лякросс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сквош",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ракетбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "реал-теніс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "боулз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "поло на конях",
+      "difficulty": "hard"
+    },
+    {
+      "word": "канупоуло",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вейксерфінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "боулдерінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спортивне орієнтування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скайраннінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трейлраннінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дуатлон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "акватлон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зимовий триатлон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "переслідування в біатлоні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мас-старт у біатлоні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спринтерська гонка в біатлоні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "індивідуальна гонка в біатлоні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "змішана естафета в біатлоні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бразильське джиу-джитсу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сумо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "капоейра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ушу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кудо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "айкідо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хортинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рукопашний бій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "греко-римська боротьба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вільна боротьба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "боротьба на поясах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "армспорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гирьовий спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стронгмен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кросфіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стретчинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пілатес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бодіфітнес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спортивна аеробіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "естетична гімнастика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "синхронні стрибки у воду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хай-дайвінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фрідайвінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підводне орієнтування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підводний хокей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підводне регбі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "плавання в ластах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "корабельний яхтинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "буерний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кайтинг на снігу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скі-альпінізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "швидкісне скелелазіння",
+      "difficulty": "hard"
+    },
+    {
+      "word": "драйтулінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спортивна спелеологія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рогейн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "багатоденний велопробіг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спартанська гонка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "адаптивний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "колісний баскетбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "слідж-хокей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "голбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бочча",
+      "difficulty": "hard"
+    },
+    {
+      "word": "паратхеквондо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спортивна риболовля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закид спінінгом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стрибки з трампліна К-120",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лижне двоборство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "літня вправа з біатлону",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скі-кросс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хафпайп на сноуборді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шосейний біг на ковзанах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скейт-крос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бмх-фрістайл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бмх-рейсинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "флетленд велоспорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стріт-скейтбординг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "верт-катання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лонгбординг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "даунхіл-скейтбординг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "слалом на роликах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бенді хокей з мячем",
+      "difficulty": "hard"
+    },
+    {
+      "word": "юкігассен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мікс-керлінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "парний керлінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "точний закид у петанку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "городошний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лапта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "піраміда більярд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "карамболь більярд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дев'ятка більярд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вісімка пул більярд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "баскетбол 3х3",
+      "difficulty": "hard"
+    },
+    {
+      "word": "регбі на візках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "регбі-лига",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фістбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кульова стрільба з пневматики",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стрільба по тарілочках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трап стрільба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скіт стрільба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дуельна стрільба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "арбалетний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метання ножів спортивне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гонки на собачих упряжках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скіджоринг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кінне поло",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вольтижування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "виїздка кінна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конкур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "триборство кінне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "драг-рейсинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спідвей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тріал мотоциклетний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "багі перегони",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ралі-рейд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "воднолижна акробатика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фігурне катання на водних лижах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "слалом на водних лижах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "парасейлінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кайт-баггі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сноукайт-фрістайл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зимовий кайтсерфінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "льодовий вітрильний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скі-тур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "альпійський скітур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хелі-скіїнг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фрірайд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "екстремальний фрірайд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бейсджампінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вінгсьют-політ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "парапланеризм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дельтапланеризм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "акробатична авіація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "повітроплавання спортивне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підводне фотополювання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спортивне полювання з луком",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хортингова сутичка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "самбістський больовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дзюдоїстський кидок підхватом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кидок прогином",
+      "difficulty": "hard"
+    },
+    {
+      "word": "задня підсічка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "передня підсічка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "утримання збоку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "задушливий прийом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "важіль ліктя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вузол на ногу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "больовий на кисть",
+      "difficulty": "hard"
+    },
+    {
+      "word": "технічна перевага в боротьбі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "туше у фехтуванні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "приорітет атаки у фехтуванні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "подвійний укол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ремізна ситуація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "корідор для бігу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "розширена доріжка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "контрольна лінія стрибка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зона відштовхування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "яма для приземлення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сектор для метань",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кутовий сектор кидка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "принцип неможливого стрибка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дискваліфікація за наступ на лінію",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фальстарт спортсмена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "технічна нічия",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гандикап у перегонах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "буксирувальний старт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "роздільний старт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "загальний старт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "переможець за фотофінішем",
+      "difficulty": "hard"
+    },
+    {
+      "word": "подвійне падіння в боротьбі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "контрольне зважування спортсмена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вагова категорія боксера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "абсолютна вагова категорія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суперважка вага",
+      "difficulty": "hard"
+    },
+    {
+      "word": "напівлегка вага",
+      "difficulty": "hard"
+    },
+    {
+      "word": "напівсередня вага",
+      "difficulty": "hard"
+    },
+    {
+      "word": "легка вага у боксі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хапкідо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кобудо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кендо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нагінату-до",
+      "difficulty": "hard"
+    },
+    {
+      "word": "традиційне таеквондо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "олімпійське таеквондо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крав-мага спортивна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сучасний панкратіон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чинлон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пляжний теніс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "падел теніс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "піклбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "джоркбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "корфбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нетбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гаельський гандбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фінський бейсбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крикет Т20",
+      "difficulty": "hard"
+    },
+    {
+      "word": "софтбол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дог-фрізбі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вейк-скейт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "флоатбординг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сап-серфінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сап-йога",
+      "difficulty": "hard"
+    },
+    {
+      "word": "серфскейт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стріт-воркаут",
+      "difficulty": "hard"
+    },
+    {
+      "word": "турнікмен фрістайл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "воркаут-змагання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пляжна акробатика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пляжне регбі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "акробатичний чирлідинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "степ-аеробіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зумба фітнес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кросфітний воркаут дня",
+      "difficulty": "hard"
+    },
+    {
+      "word": "поштовх штанги",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ривок штанги",
+      "difficulty": "hard"
+    },
+    {
+      "word": "присід зі штангою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "станова тяга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "жим лежачи пауерліфтинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "звання майстра спорту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кандидат у майстри спорту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "звання заслуженого майстра спорту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суддя всеукраїнської категорії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "міжнародна суддівська категорія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "статут спортивної федерації",
+      "difficulty": "hard"
+    },
+    {
+      "word": "календар змагань федерації",
+      "difficulty": "hard"
+    },
+    {
+      "word": "обласна спортивна школа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "республіканські змагання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чемпіонат області",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кубок міста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "першість району",
+      "difficulty": "hard"
+    },
+    {
+      "word": "юнацький спортивний розряд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рейтинговий турнір категорії А",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кваліфікаційний раунд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "відбірковий турнір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "плей-ін турнір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "швейцарська система турніру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "подвійне вибування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "одиночне вибування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рейтинг Ело в шахах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бліц-турнір з шахів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рапід-шахи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цейтнот у шахах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гамбіт у шахах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ендшпіль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дебют у шахах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шаховий етюд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "заочні шахи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "блискавичні шашки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стоклітинні шашки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шашковий етюд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "настільна гра го",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рендзю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спортивний бридж",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спортивний покер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кіберспорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "турнір з кіберспорту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кіберспортивна арена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дрон-рейсинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "авіамодельний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "судномодельний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ракетомодельний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "радіокеровані перегони",
+      "difficulty": "hard"
+    },
+    {
+      "word": "картинг-спринт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дрег-рейсинг мотоциклів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трасовий автоспорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ралі-крос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "позашляховий трофі-рейд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "джип-спринт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "водно-моторний спорт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "перегони на катерах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "перегони на собачих упряжках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зимове плавання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "моржування спортивне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "статичне апное",
+      "difficulty": "hard"
+    },
+    {
+      "word": "динамічне апное",
+      "difficulty": "hard"
+    },
+    {
+      "word": "технічний дайвінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "печерний дайвінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рекреаційний дайвінг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сучасне п'ятиборство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зимовий пентатлон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "відкритий чемпіонат країни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "класифікаційний матч",
+      "difficulty": "hard"
+    },
+    {
+      "word": "показовий виступ гімнастів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вправа на колоді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вправа на брусах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вправа на кільцях",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вільна вправа гімнастки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "опорний стрибок гімнаста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "довільна програма фігуриста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "коротка програма фігуриста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "обов'язкова програма фігуриста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "синхронне катання на ковзанах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "льодове шоу фігуристів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хореографічна постановка програми",
+      "difficulty": "hard"
+    },
+    {
+      "word": "падіння фігуриста на льоду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "потрійний аксель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "четверний стрибок фігуриста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "каскад стрибків фігуриста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підтримка в парному катанні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "викид партнерки",
+      "difficulty": "hard"
+    }
+  ]
+}

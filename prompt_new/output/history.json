@@ -1,0 +1,4007 @@
+{
+  "category": "Історія",
+  "emoji": "🏛️",
+  "count": 1000,
+  "words": [
+    {
+      "word": "Стародавній Єгипет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стародавній Рим",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стародавня Греція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Єгипетські піраміди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Піраміда Хеопса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сфінкс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фараон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ієрогліфи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Папірус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мумія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клеопатра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Юлій Цезар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Александр Македонський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спартак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гладіатори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колізей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Троянський кінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Троя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гомер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Афіни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спарта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Битва при Фермопілах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Цар Леонід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Акрополь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Парфенон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сократ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Платон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Арістотель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Архімед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Піфагор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олімпійські ігри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Римська імперія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Візантійська імперія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Константинополь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Падіння Константинополя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Падіння Римської імперії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Готи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гуни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Атилла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Варвари",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Месопотамія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шумери",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вавилон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ассирія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Персія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Цар Дарій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клинопис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Глиняні таблички",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Велика китайська стіна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Династія Цінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Імператор Цінь Шихуанді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Теракотова армія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конфуцій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великий шовковий шлях",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марко Поло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чингісхан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Монгольська імперія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хан Батий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Монголо-татарське іго",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Куликовська битва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вікінги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Драккар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ерік Рудий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Норманське завоювання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Битва при Гастінгсі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вільгельм Завойовник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Середньовіччя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лицарський турнір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лицар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Замок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феодалізм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кріпацтво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрестові походи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрестоносці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тамплієри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Столітня війна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жанна д'Арк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Війна троянд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорна смерть",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чума",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Магна карта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Король Артур",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Робін Гуд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Генріх VIII",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Єлизавета I",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іспанська армада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Османська імперія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Султан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Яничари",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великі географічні відкриття",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Христофор Колумб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Відкриття Америки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фердинанд Магеллан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Васко да Гама",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Каравела",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Астролябія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Компас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ренесанс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леонардо да Вінчі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мікеланджело",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Реформація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мартін Лютер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Інквізиція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Друкарський верстат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Йоганн Гутенберг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Порох",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гільйотина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Французька революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Штурм Бастилії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марія Антуанетта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Людовик XIV",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Версальський палац",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наполеон Бонапарт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наполеонівські війни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ватерлоо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Промислова революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Парова машина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Залізниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Телеграф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Громадянська війна в США",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Авраам Лінкольн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джордж Вашингтон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Декларація незалежності США",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перша світова війна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Друга світова війна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Голокост",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аушвіц",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перл-Харбор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Атомна бомба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хіросіма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День перемоги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Адольф Гітлер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Йосип Сталін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Володимир Ленін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жовтнева революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Радянський Союз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Берлінська стіна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Холодна війна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Карибська криза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Версальський договір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліга Націй",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ООН",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мао Цзедун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Культурна революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Династія Романових",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Цар Микола II",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Петро I",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Катерина II",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Грозний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Київська Русь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Володимир Великий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрещення Русі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ярослав Мудрий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Козаки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Запорізька Січ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Богдан Хмельницький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гетьманщина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Мазепа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Полтавська битва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Переяславська рада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Голодомор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Українська Народна Республіка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Акт злуки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бій під Крутами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тарас Шевченко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Незалежність України",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Помаранчева революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Революція гідності",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Козак Мамай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гайдамаки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Коліївщина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Руїна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тризуб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Козацькі чайки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Батурин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конституція Пилипа Орлика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Січові стрільці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Данило Галицький",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Галицько-Волинське князівство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Люблінська унія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Берестейська унія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кримське ханство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорна рада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Петро Сагайдачний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іван Сірко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Максим Залізняк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Устим Кармалюк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кирило-Мефодіївське братство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Михайло Грушевський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Симон Петлюра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Павло Скоропадський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Директорія УНР",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Західноукраїнська Народна Республіка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розстріляне відродження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бабин Яр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорнобильська катастрофа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Козацька рада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нестор Літописець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Повість минулих літ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Софія Київська",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Британська імперія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Королева Вікторія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колонізація Африки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Атлантична работоргівля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скасування рабства",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мартін Лютер Кінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Апартеїд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нельсон Мандела",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Магатма Ганді",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Незалежність Індії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Британська Ост-Індська компанія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Самураї",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сьогунат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Реставрація Мейдзі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Корейська війна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "В'єтнамська війна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фідель Кастро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кубинська революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Че Гевара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нормандська операція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Висадка в Нормандії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сталінградська битва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Битва під Москвою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Блокада Ленінграда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Курська битва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Капітуляція Німеччини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нюрнберзький процес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мюнхенська угода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аншлюс Австрії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пакт Молотова-Ріббентропа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Варшавське повстання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рух опору",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Партизани",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Концентраційний табір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гетто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "План Маршалла",
+      "difficulty": "easy"
+    },
+    {
+      "word": "НАТО",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Організація Варшавського договору",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розпад СРСР",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Оксамитова революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Празька весна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Угорське повстання 1956",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Возз'єднання Німеччини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Європейський Союз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шенгенська угода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ганзейський союз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тридцятилітня війна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вестфальський мир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Порохова змова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гай Фокс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Англійська революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Олівер Кромвель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Славна революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бостонське чаювання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Війна за незалежність США",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Луїзіанська купівля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Золота лихоманка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дикий Захід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ковбої",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Індіанці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Трансконтинентальна залізниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Статуя Свободи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ватикан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Папа Римський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великий розкол церкви",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Собор Святого Петра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Собор Паризької Богоматері",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Готична архітектура",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Романська архітектура",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Барокова архітектура",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Класицизм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Просвітництво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вольтер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жан-Жак Руссо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Енциклопедисти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дуель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аристократія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Монархія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Республіка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Абсолютна монархія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конституційна монархія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Британський парламент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Букінгемський палац",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лондонський Тауер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Единбурзький замок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вільям Воллес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Роберт Брюс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кельти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Друїди",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стоунхендж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наскельний живопис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Печера Ласко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кам'яний вік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бронзовий вік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Залізний вік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Неандертальці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Неолітична революція",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Приручення тварин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Винахід колеса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Винахід писемності",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Абетка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кирилиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кирило і Мефодій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Глаголиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Латинська абетка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скіфи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скіфське золото",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сармати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Трипільська культура",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Черняхівська культура",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Херсонес",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ольвія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пантікапей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Боспорське царство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Приєднання Криму до Російської імперії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Григорій Потьомкін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заснування Одеси",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Слобожанщина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кирило Розумовський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ліквідація Гетьманщини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зруйнування Січі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скасування кріпацтва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Емський указ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Валуєвський циркуляр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Українська Центральна Рада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Універсали Центральної Ради",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Четвертий універсал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Брестський мир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ризький мирний договір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Українізація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Соловки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ГУЛАГ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розкуркулення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колективізація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Індустріалізація СРСР",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стаханівський рух",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великий терор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Культ особи Сталіна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "XX з'їзд КПРС",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрущовська відлига",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шістдесятники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дисидентський рух",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Українська Гельсінська група",
+      "difficulty": "easy"
+    },
+    {
+      "word": "В'ячеслав Чорновіл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Левко Лук'яненко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Декларація про державний суверенітет України",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Акт проголошення незалежності України",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Всеукраїнський референдум 1991",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Леонід Кравчук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Біловезька угода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Будапештський меморандум",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Революція на граніті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конституція України 1996",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гімн України",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прапор України",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Трон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Корона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скіпетр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Королівська печатка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Монета",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Золота монета",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Торговельний шлях",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бурштиновий шлях",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Піратство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пірат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скарб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Затонулий корабель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Меч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Щит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лук і стріли",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колісниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Катапульта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Таран",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Облога фортеці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фортеця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вежа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Герб роду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дворянство",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Селянське повстання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Робітничий рух",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Профспілки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Суфражистки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Право жінок голосувати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Емансипація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Расова сегрегація",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Марш на Вашингтон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перші сучасні Олімпійські ігри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "П'єр де Кубертен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Індія під колоніальним правлінням",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Опіумні війни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Японія епохи Едо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Царгород",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Русь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Печерська лавра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Митрополит Іларіон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заповіді Володимира Мономаха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрест Ольги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Похрещення Ольги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аскольд і Дір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заснування Києва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кревська унія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Городельська унія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Магдебурзьке право",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ставропігійське братство",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Острозька академія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Костянтин Острозький",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Петро Могила",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Києво-Могилянська академія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іван Виговський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гадяцький договір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Юрій Хмельницький",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Андрусівське перемир'я",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вічний мир 1686",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бахчисарайський мир",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прутський похід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кодацька фортеця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нова Січ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Задунайська Січ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Слобідські козацькі полки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Малоросійська колегія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рум'янцевський опис",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Генеральна військова канцелярія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пилип Орлик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бендерська конституція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Північна війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Меншиков",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карл XII",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Азовські походи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чигиринські походи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хотинська битва 1621",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Цецорська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Берестецька битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Жовтоводська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Корсунська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пилявецька битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зборівський договір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Білоцерківський договір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Переяславські статті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мартовські статті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Українсько-польська війна 1918-1919",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Українсько-радянська війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Варшавський похід 1920",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Легіон Українських січових стрільців",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кам'янець-Подільський як столиця УНР",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Трудовий конгрес України",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Українська Галицька Армія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чортківська офензива",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Справа Спілки визволення України",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Українська автокефальна православна церква",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Митрополит Василь Липківський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пласт скаутська організація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Організація українських націоналістів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Українська повстанська армія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Роман Шухевич",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Степан Бандера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Волинська трагедія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Операція Вісла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Закерзоння",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гельсінські угоди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Народний рух України",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Небесна сотня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Євромайдан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пелопоннеська війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Друга Пунічна війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ганнібал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перехід Ганнібала через Альпи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Битва при Каннах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Битва при Замі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сципіон Африканський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тріумвірат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гай Марій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Луцій Сулла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перехід через Рубікон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Березневі іди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Брут і Кассій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Октавіан Август",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марк Антоній",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Битва при Акції",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пантеон у Римі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Акведук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Римські легіони",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Римське право",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Закони дванадцяти таблиць",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пунічні війни",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карфаген",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фінікійці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мінойська цивілізація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кносський палац",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мікенська цивілізація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дорійське вторгнення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Афінська демократія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перикл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спартанське виховання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Македонська фаланга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Діадохи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Елліністичний період",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Александрійська бібліотека",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Птолемеї",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Селевкіди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Битва при Гавгамелах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дарій III",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Індійський похід Александра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гуситські війни",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ян Гус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Констанцький собор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Великий західний розкол",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Авіньйонський полон пап",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тевтонський орден",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Грюнвальдська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ягайло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вітовт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Річ Посполита",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Люблінський сейм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лівонська війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Смутні часи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лжедмитрій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мінін і Пожарський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розкол російської церкви",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Протопоп Аввакум",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Степан Разін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пугачовське повстання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Омелян Пугачов",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Семилітня війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Війна за австрійську спадщину",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марія Терезія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йосиф II Габсбург",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Габсбурзька монархія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Священна Римська імперія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карл V Габсбург",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Едикт про віротерпимість",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нантський едикт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Варфоломіївська ніч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гугеноти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кардинал Рішельє",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фронда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Регентство Марії Медічі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Медічі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Флорентійська республіка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Венеціанська республіка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дож Венеції",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кальмарська унія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Шведський потоп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ніштадтський мир",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Індійський національний конгрес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сипайське повстання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Британський радж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тайпінське повстання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Боксерське повстання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Синьхайська революція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сунь Ятсен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Династія Цін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Останній імператор Пуї",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Маньчжурія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Російсько-японська війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Цусімська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Портсмутський мир",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кривава неділя 1905",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Революція 1905 року",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Столипінська реформа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Думська монархія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лютнева революція 1917",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Керенський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тимчасовий уряд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Громадянська війна в Росії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Білий рух",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Червона армія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Воєнний комунізм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Нова економічна політика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Утворення СРСР",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пакт про ненапад",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зимова війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Битва на Халхін-Голі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Судетська криза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Данциг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Напад на Польщу 1939",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дюнкеркська евакуація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Битва за Британію",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Операція Барбаросса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тегеранська конференція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ялтинська конференція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Потсдамська конференція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ленд-ліз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Другий фронт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Атлантична хартія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дрезденське бомбардування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Токійське бомбардування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Капітуляція Японії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мандат Ліги Націй",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Суецька криза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Шестиденна війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Війна судного дня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кемп-девідські угоди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іранська революція 1979",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Радянське вторгнення в Афганістан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розпад Югославії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сараєвський замах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гаврило Принцип",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ерцгерцог Франц Фердинанд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Липнева криза 1914",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Битва на Соммі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Верденська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ютландська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Брусиловський прорив",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Комп'єнське перемир'я",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чотирнадцять пунктів Вільсона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Веймарська республіка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гіперінфляція в Німеччині 1923",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пивний путч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пожежа Рейхстагу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кришталева ніч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мюнхенська конференція 1938",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Скіфо-перські війни",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Похід Дарія на скіфів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Іонійське повстання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марафонська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мільтіад",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Саламінська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фемістокл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Платейська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Делоський союз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пелопоннеський союз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Алківіад",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сицилійська експедиція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Коринфська війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фіванська гегемонія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Епамінонд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Херонейська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Філіп II Македонський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Смерть Александра Македонського",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Держава Селевкідів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Держава Птолемеїв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пергамське царство",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Родоський колос",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Александрійський маяк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сім чудес світу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Висячі сади Семіраміди",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Статуя Зевса в Олімпії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мавзолей у Галікарнасі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Храм Артеміди в Ефесі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стоїцизм філософська школа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Епікуреїзм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Діоген у бочці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Евклідова геометрія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Архімедів гвинт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Александрійська школа науки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Птолемей астроном",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Геліоцентрична система Коперника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Микола Коперник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Галілео Галілей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Суд інквізиції над Галілеєм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йоганн Кеплер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ісаак Ньютон закони руху",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Наукова революція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джордано Бруно",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спалення Джордано Бруно",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Винахід телескопа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Винахід мікроскопа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антоні ван Левенгук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Біблія Гутенберга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Болонський університет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Паризький університет Сорбонна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оксфордський університет заснування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кембриджський університет заснування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Схоластика середньовічна філософія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фома Аквінський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ярмарок у Шампані",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Генуезька республіка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пізанська республіка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міланське герцогство",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джироламо Савонарола",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Чезаре Борджіа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ніколо Макіавеллі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Опричнина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Земський собор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Боярська дума",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кримські походи Селім-Гірея",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Полтавська виправа шведів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карл XII в Бендерах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ганноверська династія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Якобітське повстання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Куллоденська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Об'єднання Англії та Шотландії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Акт про унію 1707",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ірландське повстання 1798",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Великий голод в Ірландії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Об'єднання Італії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джузеппе Гарібальді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Камілло Кавур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Похід тисячі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Об'єднання Німеччини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Отто фон Бісмарк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Франко-прусська війна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Проголошення Німецької імперії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Паризька комуна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Батозька битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Охматівська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дрижипільська битва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крилаті гусари",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Уманська різня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тарговицька конфедерація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хозарський каганат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Каган",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Договір Олега з Візантією",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Похід Олега на Царгород",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Похід Ігоря на Візантію",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Древляни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Помста Ольги древлянам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Полюддя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Устав Володимира Мономаха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимир Мономах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Любецький з'їзд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Половці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва на Калці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роман Мстиславич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Королівство Русь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Батиєва навала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Золота Орда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ярлик на князювання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Калита",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дмитро Донський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мамай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тохтамиш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стояння на Угрі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Феодальна роздробленість",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Новгородська республіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Псковська республіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вічовий устрій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ганзейська контора в Новгороді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ливонський орден",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва на Чудському озері",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Александр Невський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Литовські статути",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Великий князь Гедимін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ольгерд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва на Синіх Водах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Городельський привілей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кревський акт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Флорентійська унія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ферраро-Флорентійський собор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Замойський договір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Автономія Гетьманщини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Малоросійський приказ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зруйнування Батурина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Конотопська битва",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Виговщина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Правобережна Гетьманщина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лівобережна Гетьманщина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Петро Дорошенко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Брюховецький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дем'ян Многогрішний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Іван Самойлович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Василь Кочубей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Донос Кочубея на Мазепу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Молдавські господарі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хотинська війна 1673",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Журавненський мир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бучацький мир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Подільський пашалик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Карловицький мир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Священна ліга проти турків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Азовська флотилія Петра I",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ніжинське грецьке братство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Магістратське управління містом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ратуша",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Цехи ремісників",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гільдії ремісників",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чумацький шлях",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Чумаки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Соляні промисли Криму",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кримськотатарські набіги",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ясир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Викуп бранців",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Козацький реєстр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Реєстрове козацтво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Низове козацтво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Байда Вишневецький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хортицька фортеця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кіш Запорізької Січі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кошовий отаман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Військова старшина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Паланки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Клейноди козацькі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Булава гетьманська",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бунчук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пірнач",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Літопис Самовидця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Літопис Величка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Літопис Грабянки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Синопсис підручник історії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антоній і Феодосій Печерські",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Устав Ярослава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Руська правда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ізборник Святослава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Остромирове євангеліє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мозаїки Софійського собору",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розпад Київської Русі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андрій Боголюбський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перенесення столиці до Володимира",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Всеволод Велике Гніздо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Галицьке боярство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ярослав Осмомисл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мстислав Удатний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аккадська імперія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Саргон Аккадський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хетська держава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Кадеші",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рамзес II",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тутанхамон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ехнатон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нефертіті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розеттський камінь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Жан-Франсуа Шампольйон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ніневія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хаммурапі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кодекс Хаммурапі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Місто Ур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Епос про Гільгамеша",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фінікійський алфавіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заснування Карфагена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Етруски",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ольмеки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Цивілізація майя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Піраміди майя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ацтеки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Теночтітлан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Монтесума",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ернан Кортес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Завоювання Мексики",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Інки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мачу-Пікчу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Атауальпа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Франсіско Пісарро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Завоювання імперії інків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кечуа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вузликове письмо кіпу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Малі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Манса Муса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тімбукту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аксумське царство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Царство Куш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Нубія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Царство Мономотапа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хараппська цивілізація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мохенджо-Даро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ведична доба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Імперія Маур'їв",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ашока Великий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Імперія Гуптів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Могольська імперія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Акбар Великий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тадж-Махал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бабур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Делійський султанат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Династія Тан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Династія Хань",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Порох винахід у Китаї",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Компас винахід у Китаї",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Друкарство в Китаї до Гутенберга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Династія Сун",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Династія Мін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Адмірал Чжен Хе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заборонене місто",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сьогунат Токугава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Період Сенгоку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ода Нобунага",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тойотомі Хідейосі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Токугава Ієясу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Секігахарі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Політика Сакоку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Комодор Перрі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Корея династії Чосон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хангиль корейська писемність",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Седжон Великий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава кхмерів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ангкор-Ват",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Шрівіджая",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Маджапахіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Каролінзьке відродження",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Карл Великий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Коронація Карла Великого",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Верденський договір 843",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розпад імперії Карла Великого",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Оттон I",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Боротьба за інвеституру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Папа Григорій VII",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хождіння до Каносси",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Манцикерті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сельджуки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перший хрестовий похід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Готфрід Бульйонський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Взяття Єрусалиму 1099",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Другий хрестовий похід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Третій хрестовий похід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Річард Левове Серце",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Саладін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Четвертий хрестовий похід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розграбування Константинополя 1204",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Латинська імперія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дитячий хрестовий похід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Реконкіста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Падіння Гранади",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Альгамбра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вигнання євреїв з Іспанії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вигнання морисків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Швейцарська конфедерація заснування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Моргартені",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Габсбурзько-Валуазькі війни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Італійські війни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Павії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Франциск I",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аугсбурзький мир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Данська держава епохи вікінгів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Печенізькі набіги на Русь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Візантійський обряд хрещення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Церковна десятина Русі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Устав про мостові",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Правління Ізяслава Ярославича",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тризна поховальний обряд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Слов'янське язичництво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ідол Перуна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Волхви",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дулібський союз племен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антський союз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Венеди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Черняхівська культура пізня фаза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Готська держава Германаріха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аварський каганат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Уличі та тиверці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Древлянське князівство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Радимицька данина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "В'ятицька данина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Похід на Хозарію Святослава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розгром Хозарського каганату",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Балканський похід Святослава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Загибель Святослава на Дніпрі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Усобиця синів Володимира",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Святополк Окаянний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Борис і Гліб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тризуб на монетах Володимира",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Срібники і златники",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Устав про церковні суди",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Володимиро-Волинська єпархія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перемишльська єпархія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Белзьке князівство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Теребовлянське князівство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Звенигородське князівство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мстислав Тмутороканський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тмутороканське князівство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ізгойство князів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Снемний устрій Русі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Іссі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Гранику",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Осада Тіра Александром",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Хорезмшахів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Тимуридів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тамерлан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Анкарі 1402",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мамлюцький султанат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Айюбідів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Фатімідів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аббасидський халіфат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Омейядський халіфат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Праведні халіфи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Ярмуку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Завоювання Персії арабами",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дім мудрості в Багдаді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аль-Хорезмі математик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ібн Сіна Авіценна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кордовський халіфат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аль-Андалус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Ковадонзі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битва при Пуатьє 732",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Карл Мартел",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Династія Меровінгів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Династія Каролінгів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Піпін Короткий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кнуд Великий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рюрик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Синеус і Трувор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Рюриковичів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Олег Віщий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ігор Рюрикович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ольга Свята",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Святослав Хоробрий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Держава Само",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Аварський каганат вторгнення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Уличі та тиверці племена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Волзька Булгарія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Похід Святослава на Волзьку Булгарію",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Царгородський похід Аскольда і Діра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Устав про закупів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ізгої соціальна категорія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вервь общинний устрій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Уроки та погости",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Печенізька облога Києва 968",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обложення Білгорода Київського",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Городище Плісненськ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зимненське городище",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Данина деревом і хутром",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Служило-родове землеволодіння Русі",
+      "difficulty": "hard"
+    }
+  ]
+}

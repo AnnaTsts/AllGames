@@ -1,0 +1,4007 @@
+{
+  "category": "Їжа",
+  "emoji": "🍕",
+  "count": 1000,
+  "words": [
+    {
+      "word": "борщ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вареники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "деруни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "голубці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сало",
+      "difficulty": "easy"
+    },
+    {
+      "word": "каша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "капусняк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "холодець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пампушки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "млинці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "налисники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кулеш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "юшка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банош",
+      "difficulty": "easy"
+    },
+    {
+      "word": "галушки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кутя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "узвар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квашена капуста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зелений борщ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вергуни",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сирники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мамалига",
+      "difficulty": "easy"
+    },
+    {
+      "word": "курка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яловичина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "свинина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баранина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "індичка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "качка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "риба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "котлета",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сосиска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ковбаса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "паштет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яєчня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "омлет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смажена картопля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "картопляне пюре",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гречка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плов",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пшоняна каша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "курячі крильця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "курячі стегна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фарш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "м'ясо на грилі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "риба смажена",
+      "difficulty": "easy"
+    },
+    {
+      "word": "риба на пару",
+      "difficulty": "easy"
+    },
+    {
+      "word": "креветки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кальмари",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мідії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крабові палички",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рибні котлети",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тушкована капуста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тушкована картопля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "печена картопля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "запечена риба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "запечене м'ясо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смажені гриби",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бекон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шинка домашня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фарширований перець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "запіканка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "заливна риба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хліб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "батон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "булочка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пиріжок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коржик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рогалик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бублик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сухар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грінка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тост",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лаваш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "круасан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "піца",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гамбургер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хот-дог",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шаурма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "картопля фрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "начос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сендвіч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бутерброд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кебаб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чізбургер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спагеті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "макарони",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лазанья",
+      "difficulty": "easy"
+    },
+    {
+      "word": "піца пепероні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "піца маргарита",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яблуко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "груша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "апельсин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мандарин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лимон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виноград",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кавун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "диня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "полуниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "малина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вишня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "черешня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "слива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "персик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "абрикос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ківі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ананас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гранат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лохина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смородина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "аґрус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "журавлина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хурма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "манго",
+      "difficulty": "easy"
+    },
+    {
+      "word": "авокадо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грейпфрут",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лайм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "помідор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "огірок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морква",
+      "difficulty": "easy"
+    },
+    {
+      "word": "буряк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "картопля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цибуля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "часник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "капуста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "перець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баклажан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кабачок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гарбуз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "редиска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кукурудза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горох",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квасоля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гриби",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кріп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "петрушка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шпинат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "броколі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цвітна капуста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "селера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ріпа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "редька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "молоко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кефір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сметана",
+      "difficulty": "easy"
+    },
+    {
+      "word": "йогурт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вершки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "масло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яйце",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сирок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бринза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "домашній сир",
+      "difficulty": "easy"
+    },
+    {
+      "word": "борошно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цукор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сіль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "олія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мед",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оцет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дріжджі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крохмаль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "компот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кисіль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "какао",
+      "difficulty": "easy"
+    },
+    {
+      "word": "молочний коктейль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лимонад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мінеральна вода",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цукерка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шоколад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тістечко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "печиво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вафля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пряник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мармелад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зефір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морозиво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "желе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "халва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пастила",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пончик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яблучний пиріг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вишневий пиріг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "медовик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тарілка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виделка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ложка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ніж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чашка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "склянка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "каструля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сковорідка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "миска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дошка для нарізки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "холодильник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плита",
+      "difficulty": "easy"
+    },
+    {
+      "word": "духовка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мікрохвильовка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чайник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "блендер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тостер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мультиварка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "терка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "качалка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сито",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ополоник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "відкривачка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "штопор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "серветка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скатертина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фартух",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рушник кухонний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кошик для хліба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "варити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смажити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пекти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "різати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мішати",
+      "difficulty": "easy"
+    },
+    {
+      "word": "солити",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чистити картоплю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мити овочі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "накривати на стіл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "готувати обід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "розігрівати їжу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "краяти хліб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "заварювати чай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мити посуд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пити воду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "їсти суп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смажити яєчню",
+      "difficulty": "easy"
+    },
+    {
+      "word": "варити каву",
+      "difficulty": "easy"
+    },
+    {
+      "word": "наливати сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чистити цибулю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "різати хліб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мазати масло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "солити суп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пробувати страву",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сніданок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "обід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вечеря",
+      "difficulty": "easy"
+    },
+    {
+      "word": "перекус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "десерт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фуршет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пікнік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шведський стіл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чіпси",
+      "difficulty": "easy"
+    },
+    {
+      "word": "попкорн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сухарики",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горішки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "насіння соняшника",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крекери",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цукрова вата",
+      "difficulty": "easy"
+    },
+    {
+      "word": "арахіс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "волоський горіх",
+      "difficulty": "easy"
+    },
+    {
+      "word": "суші",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ролли",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тако",
+      "difficulty": "easy"
+    },
+    {
+      "word": "буріто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "манти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хот-дог з гірчицею",
+      "difficulty": "easy"
+    },
+    {
+      "word": "картопля по-селянськи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "салат олів'є",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вінегрет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цезар салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грецький салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "окрошка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "солянка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чебуреки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хачапурі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "долма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кукурудзяна каша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "манна каша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вівсяна каша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рисова каша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "молочна каша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яєчня з беконом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сирна тарілка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "м'ясна тарілка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "канапки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тарталетки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фаршировані кабачки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "піца з грибами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лазанья з фаршем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чізкейк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тірамісу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "панкейки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "млинці з сиром",
+      "difficulty": "easy"
+    },
+    {
+      "word": "млинці з м'ясом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вареники з картоплею",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вареники з вишнею",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вареники з сиром",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вареники з капустою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пельмені з м'ясом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кетчуп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "майонез",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гірчиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чай з лимоном",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кава з молоком",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бутерброд з ковбасою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бутерброд із сиром",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яблучний сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "томатний сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "апельсиновий сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морквяний сік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банановий коктейль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фруктовий салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "овочевий салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "м'ясний бульйон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "курячий бульйон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грибний суп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гороховий суп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "суп з локшиною",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рибний суп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "борщ з м'ясом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вареники з м'ясом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "голубці ліниві",
+      "difficulty": "easy"
+    },
+    {
+      "word": "картопляна запіканка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сирна запіканка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рисова запіканка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яблучний компот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вишневий компот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ягідний морс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чорний хліб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "білий хліб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цільнозерновий хліб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "здобна булка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "листкове тісто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дріжджове тісто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісочне тісто",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вафельний торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шоколадний торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "медовий торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морквяний торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "полуничний джем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "абрикосовий джем",
+      "difficulty": "easy"
+    },
+    {
+      "word": "малинове варення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вишневе варення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "суничне варення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мед з горіхами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горіхова паста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "арахісове масло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шоколадна паста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "солодкий сироп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кленовий сироп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лляна олія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "соняшникова олія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оливкова олія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вершкове масло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "топлене масло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смажений часник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смажена цибуля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тушковані овочі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "овочеве рагу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "печені яблука",
+      "difficulty": "easy"
+    },
+    {
+      "word": "запечені овочі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гарбузова каша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гарбузовий суп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морквяний салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "буряковий салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "капустяний салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "огірковий салат",
+      "difficulty": "easy"
+    },
+    {
+      "word": "салат з редиски",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квашені огірки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мариновані гриби",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мариновані помідори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "соління",
+      "difficulty": "easy"
+    },
+    {
+      "word": "закуска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гострий соус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "солодкий соус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вершковий соус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грибний соус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "м'ясна підлива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "овочева підлива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рибне філе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "куряче філе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "індичаче філе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стейк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "відбивна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шніцель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "биточки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тефтелі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зрази",
+      "difficulty": "easy"
+    },
+    {
+      "word": "печеня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жаркоє",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плов з курки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плов з бараниною",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рагу з картоплею",
+      "difficulty": "easy"
+    },
+    {
+      "word": "куряча грудка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рибний бульйон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "м'ясний рулет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "овочевий суп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фондю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рататуй",
+      "difficulty": "normal"
+    },
+    {
+      "word": "паста карбонара",
+      "difficulty": "normal"
+    },
+    {
+      "word": "різотто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гуляш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бограч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "запечена качка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фарширована качка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "індичка запечена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "баранина на грилі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шашлик зі свинини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шашлик з курки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "копчена ковбаса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сирокопчена ковбаса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "варено-копчена ковбаса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "домашня ковбаса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кров'янка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сальтисон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "смалець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хамон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прошутто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "моцарела",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пармезан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чеддер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гауда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "камамбер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рокфор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фета",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сулугуні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "буженина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "заливне",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аспік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тартар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "карпаччо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "севіче",
+      "difficulty": "normal"
+    },
+    {
+      "word": "поке",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рамен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "удон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пад тай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "каррі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "курка каррі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "том ям",
+      "difficulty": "normal"
+    },
+    {
+      "word": "місо суп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гьоза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дім-сам",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пекінська качка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фалафель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хумус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кус-кус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "табуле",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гаспачо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бульйон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "консоме",
+      "difficulty": "normal"
+    },
+    {
+      "word": "крем-суп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "суп-пюре",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гарбузовий крем-суп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "грибний крем-суп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "борщ з пампушками",
+      "difficulty": "normal"
+    },
+    {
+      "word": "капусняк зі свининою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "юшка рибна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "уха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кулеш з салом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "банош з бринзою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мамалига з бринзою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "деруни зі сметаною",
+      "difficulty": "normal"
+    },
+    {
+      "word": "маковий рулет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рулет з маком",
+      "difficulty": "normal"
+    },
+    {
+      "word": "наполеон торт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "торт київський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "торт празький",
+      "difficulty": "normal"
+    },
+    {
+      "word": "еклер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "профітроль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "безе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "макарун",
+      "difficulty": "normal"
+    },
+    {
+      "word": "крем-брюле",
+      "difficulty": "normal"
+    },
+    {
+      "word": "панна-котта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чізкейк нью-йорк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "штрудель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "яблучний штрудель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пряники медові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коврижка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вергуни з медом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пампушки часникові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хліб бородинський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хліб житній",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хліб пшеничний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фокачча",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чіабатта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "багет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бріош",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кекс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "маффін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "капкейк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "глазур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "цукрова пудра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ванільний цукор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "какао-порошок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шоколадна крихта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "карамель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ірис",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нуга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "щербет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рахат-лукум",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пахлава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "баклава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лукум",
+      "difficulty": "normal"
+    },
+    {
+      "word": "халва соняшникова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "козинак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сушені фрукти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "цукати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "курага",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чорнослив",
+      "difficulty": "normal"
+    },
+    {
+      "word": "родзинки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фініки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інжир",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кеш'ю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фундук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мигдаль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фісташки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кедрові горіхи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "насіння чіа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "насіння льону",
+      "difficulty": "normal"
+    },
+    {
+      "word": "квасоля червона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "квасоля біла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нут",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сочевиця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "булгур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "перловка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пшенична крупа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "манка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вівсяні пластівці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мюслі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гранола",
+      "difficulty": "normal"
+    },
+    {
+      "word": "йогурт грецький",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сир маскарпоне",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сир рікотта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тофу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "соєве молоко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мигдальне молоко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рослинне молоко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "морська сіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "перець запашний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лавровий лист",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кориця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мускатний горіх",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гвоздика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "імбир",
+      "difficulty": "normal"
+    },
+    {
+      "word": "куркума",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шафран",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кмин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коріандр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "базилік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "орегано",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розмарин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тим'ян",
+      "difficulty": "normal"
+    },
+    {
+      "word": "майоран",
+      "difficulty": "normal"
+    },
+    {
+      "word": "естрагон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "м'ята",
+      "difficulty": "normal"
+    },
+    {
+      "word": "меліса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "васабі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "соєвий соус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "терияки соус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аджика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ткемалі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сацебелі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "песто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бешамель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "болоньєзе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "маринара",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тартар соус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "маринувати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тушкувати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "запікати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гриль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фритюр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бланшувати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "карамелізувати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ферментувати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "квасити",
+      "difficulty": "normal"
+    },
+    {
+      "word": "в'ялити",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коптити",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пастеризувати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "збивати білки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розтирати з цукром",
+      "difficulty": "normal"
+    },
+    {
+      "word": "проціджувати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "заправляти салат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нарізати кубиками",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нарізати соломкою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шаткувати капусту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розкачувати тісто",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ліпити вареники",
+      "difficulty": "normal"
+    },
+    {
+      "word": "начиняти перець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фарширувати рибу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гриль-сковорода",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пароварка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "йогуртниця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хлібопічка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кавомашина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кавоварка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "френч-прес",
+      "difficulty": "normal"
+    },
+    {
+      "word": "турка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ситечко для чаю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лопатка кухонна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вінчик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "м'ясорубка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "соковижималка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ваги кухонні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мірна склянка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "форма для випічки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "силіконовий килимок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кондитерський мішок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "обробна дошка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фастфуд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вегетаріанство",
+      "difficulty": "normal"
+    },
+    {
+      "word": "веганство",
+      "difficulty": "normal"
+    },
+    {
+      "word": "піст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кошерна їжа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "халяльна їжа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "органічні продукти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фермерський ринок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дегустація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сомельє",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кулінарний майстер-клас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рецепт страви",
+      "difficulty": "normal"
+    },
+    {
+      "word": "меню ресторану",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шеф-кухар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "офіціант",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чайові",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бронювання столика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "доставка їжі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "їжа на винос",
+      "difficulty": "normal"
+    },
+    {
+      "word": "одноразовий посуд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "харчова алергія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "непереносимість лактози",
+      "difficulty": "normal"
+    },
+    {
+      "word": "глютен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "калорійність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "здорове харчування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "правильне харчування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інтервальне голодування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плов з родзинками",
+      "difficulty": "normal"
+    },
+    {
+      "word": "індичі котлети",
+      "difficulty": "normal"
+    },
+    {
+      "word": "куряча печеня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "печеня по-домашньому",
+      "difficulty": "normal"
+    },
+    {
+      "word": "біфштекс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ромштекс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "антрекот",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бризоль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "люля-кебаб",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хінкалі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мчаді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сациві",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чахохбілі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аджапсандалі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лобіо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хачапурі по-аджарськи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "грузинський сир сулугуні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вірменський лаваш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "долма з виноградного листя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фаршировані баклажани",
+      "difficulty": "normal"
+    },
+    {
+      "word": "овочі гриль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "м'ясо гриль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "риба гриль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "устриці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "равлики їстівні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "курка терияки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "телятина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "оленина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дичина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "заєць тушкований",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кролик тушкований",
+      "difficulty": "normal"
+    },
+    {
+      "word": "риба фарширована",
+      "difficulty": "normal"
+    },
+    {
+      "word": "судак смажений",
+      "difficulty": "normal"
+    },
+    {
+      "word": "короп смажений",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сазан печений",
+      "difficulty": "normal"
+    },
+    {
+      "word": "щука фарширована",
+      "difficulty": "normal"
+    },
+    {
+      "word": "минтай смажений",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хек смажений",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тунець стейк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лосось на грилі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "форель запечена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ікра баклажанна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ікра кабачкова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "солоні гриби",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мариновані огірки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мариновані кабачки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "квашені яблука",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мочені яблука",
+      "difficulty": "normal"
+    },
+    {
+      "word": "варення з полуниці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джем з абрикосів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "повидло",
+      "difficulty": "normal"
+    },
+    {
+      "word": "конфітюр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мус фруктовий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мус шоколадний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "парфе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сорбет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фрапе",
+      "difficulty": "normal"
+    },
+    {
+      "word": "смузі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "глазурований сирок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сирна маса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сувід",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фламбування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "деглазування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "редукція соусу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "емульсія соусу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "желювання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ферментація місо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "закваска на хлібі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "айолі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рулад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "галантин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "террин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фуа-гра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трюфель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чорна ікра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "червона ікра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скумбрія холодного копчення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оселедець пряного посолу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кулеб'яка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "розтягай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сбітень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "медовуха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бри сир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "горгонзола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "страчателла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "буррата",
+      "difficulty": "hard"
+    },
+    {
+      "word": "панчетта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "порчіні гриби",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мариновані лисички",
+      "difficulty": "hard"
+    },
+    {
+      "word": "глазуровані каштани",
+      "difficulty": "hard"
+    },
+    {
+      "word": "смажені каштани",
+      "difficulty": "hard"
+    },
+    {
+      "word": "артишок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спаржа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цикорій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "руккола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "радіккіо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фенхель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "печений батат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "топінамбур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пастернак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дайкон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бок-чой",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кольрабі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мангольд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "щавель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суп з кропиви",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бамія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лемонграс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "галангал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зіра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сумах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "заатар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рас-ель-ханут",
+      "difficulty": "hard"
+    },
+    {
+      "word": "копчена паприка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чилі кайенський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "перець хабанеро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "перець халапеньо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "корінь васабі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "юзу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "каламансі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "маракуя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "личі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рамбутан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дуріан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "джекфрут",
+      "difficulty": "hard"
+    },
+    {
+      "word": "питайя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "карамбола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гуава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "папайя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кумкват",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бефстроганов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хачапурі по-мегрельськи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кутаби",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лагман узбецький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бешбармак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шурпа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "плов узбецький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "самса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "манти казахські",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пад кра пао",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бун ча",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фо суп",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кімчі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бібімбап",
+      "difficulty": "hard"
+    },
+    {
+      "word": "терияки курка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "окономіякі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "такоякі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "унагі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сашімі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "темпура",
+      "difficulty": "hard"
+    },
+    {
+      "word": "місо паста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "натто",
+      "difficulty": "hard"
+    },
+    {
+      "word": "едамаме",
+      "difficulty": "hard"
+    },
+    {
+      "word": "баоцзи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "му шу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кунг пао",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вонтон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цзяоцзи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кассуле",
+      "difficulty": "hard"
+    },
+    {
+      "word": "буйабес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "беарнез соус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крокембуш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "галет бретонський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бріош з родзинками",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кіш лорен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "реклет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шукрут",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цвібак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лебкухен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "штрудель віденський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "захер торт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гуляш угорський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лечо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "паприкаш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "морсілья",
+      "difficulty": "hard"
+    },
+    {
+      "word": "паелья",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тортилья іспанська",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гаспачо андалуський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чурро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "полента",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ризотто міланезе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "осо буко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "капрезе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "брускета",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фокачча з розмарином",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конфі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дюкселль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мірпуа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бульйон дасі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "глінтвейн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сангрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мохіто",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дайкірі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вермут",
+      "difficulty": "hard"
+    },
+    {
+      "word": "портвейн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "херес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бренді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кальвадос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лікер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "наливка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "настоянка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сидр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "портер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стаут",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ламбіко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "абсент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "граппа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "саке",
+      "difficulty": "hard"
+    },
+    {
+      "word": "меренга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дакуаз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бісквіт шифон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "генуезький бісквіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "заварний крем",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крем шарлотт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ганаш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "темперування шоколаду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "айсинг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цукрова мастика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "марципан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "франжипан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "курд лимонний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "компоте фруктове",
+      "difficulty": "hard"
+    },
+    {
+      "word": "глясаж",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тарт татен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "профітролі з кремом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мільфей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кервель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "портулак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чуфа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "якон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "салсіфі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цукіні жовтий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "патисон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "момордика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чайот",
+      "difficulty": "hard"
+    },
+    {
+      "word": "юка коренева",
+      "difficulty": "hard"
+    },
+    {
+      "word": "маніока",
+      "difficulty": "hard"
+    },
+    {
+      "word": "таро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ямс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "водорості норі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "водорості комбу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "водорості вакаме",
+      "difficulty": "hard"
+    },
+    {
+      "word": "агар-агар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "желатин листовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пектин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ксантанова камедь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лецитин соєвий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "брезування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "піднімання тіста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "автоліз тіста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ламінування тіста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "обсмажування до рум'яної скоринки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "заморожування шоковим методом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вакуумна упаковка їжі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "маринування у розсолі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "копчення холодним способом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "копчення гарячим способом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "в'ялення м'яса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дозрівання сиру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "витримка вина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "декантування вина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "купажування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "молекулярна кухня",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гастрономічний тур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фермерське господарство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "органічне землеробство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "слоуфуд рух",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мішленівська зірка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кулінарний батл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дегустаційне меню",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сомельє вина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бариста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кав'ярня спешелті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "обжарка кави",
+      "difficulty": "hard"
+    },
+    {
+      "word": "помел кави",
+      "difficulty": "hard"
+    },
+    {
+      "word": "еспресо шот",
+      "difficulty": "hard"
+    },
+    {
+      "word": "молочна пінка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "латте-арт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "холодне заварювання кави",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стругачка для сиру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мандоліна кухонна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "щипці кулінарні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шпажки для шашлику",
+      "difficulty": "hard"
+    },
+    {
+      "word": "форма для маффінів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "силіконова форма для льоду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "термометр кулінарний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кулінарний шприц",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сифон для вершків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "коптильня домашня",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мангал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тандир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "камінь для піци",
+      "difficulty": "hard"
+    },
+    {
+      "word": "страва фламбе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тартар з лосося",
+      "difficulty": "hard"
+    },
+    {
+      "word": "равіолі з рікотою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тортелліні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ньйокі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "орекьєтте",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фарфалле",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пенне аррабіата",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спагеті болоньєзе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "феттучіне альфредо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лінгвіне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "каннеллоні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суп мінестроне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суп вішисуаз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "крем-суп з броколі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суп том кха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "суп фо бо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пудинг йоркширський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пудинг рисовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пудинг хлібний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бланманже",
+      "difficulty": "hard"
+    },
+    {
+      "word": "желе з агар-агару",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кутя з маком",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кутя з горіхами",
+      "difficulty": "hard"
+    },
+    {
+      "word": "коливо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цукерки ручної роботи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "драже",
+      "difficulty": "hard"
+    },
+    {
+      "word": "льодяники",
+      "difficulty": "hard"
+    },
+    {
+      "word": "монпансьє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квашення капусти в бочці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бочкові помідори",
+      "difficulty": "hard"
+    },
+    {
+      "word": "страва по-міланськи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кухонний комбайн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "витяжка кухонна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "посудомийна машина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дека для випічки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "решітка для гриля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "щипці для льоду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "формочки для печива",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кондитерські насадки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трафарет для тортів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підставка для яєць",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зерна какао",
+      "difficulty": "hard"
+    },
+    {
+      "word": "какао-боби",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ваніль стручкова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бадьян",
+      "difficulty": "hard"
+    },
+    {
+      "word": "перець сичуаньський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "перець довгий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "часник чорний ферментований",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цибуля-шалот",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цибуля-порей",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хрін тертий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "насіння кунжуту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тахіні паста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "соус хойсін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "соус шрирача",
+      "difficulty": "hard"
+    },
+    {
+      "word": "соус табаско",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оцет бальзамічний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оцет рисовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оцет яблучний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "десерт павлова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "десерт тарт татен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "глясаж дзеркальний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конфі качине",
+      "difficulty": "hard"
+    },
+    {
+      "word": "брезування яловичини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "купажування вин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "желатинова маса",
+      "difficulty": "hard"
+    }
+  ]
+}

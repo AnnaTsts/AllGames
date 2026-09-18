@@ -1,0 +1,4007 @@
+{
+  "category": "Природа",
+  "emoji": "🌿",
+  "count": 1000,
+  "words": [
+    {
+      "word": "собака",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кіт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "корова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вівця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "свиня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кролик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ведмідь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вовк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лисиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "заєць",
+      "difficulty": "easy"
+    },
+    {
+      "word": "білка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "олень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лось",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кабан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "їжак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "миша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "щур",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лев",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тигр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "слон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жираф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зебра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мавпа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кенгуру",
+      "difficulty": "easy"
+    },
+    {
+      "word": "панда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дельфін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тюлень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бобер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "видра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "борсук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "куниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рись",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гепард",
+      "difficulty": "easy"
+    },
+    {
+      "word": "носоріг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бегемот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "верблюд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "осел",
+      "difficulty": "easy"
+    },
+    {
+      "word": "буйвол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "антилопа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горила",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шимпанзе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коала",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скунс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "єнот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дикобраз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сарна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горобець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ворона",
+      "difficulty": "easy"
+    },
+    {
+      "word": "голуб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "синиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "орел",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сокіл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лелека",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зозуля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "соловей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ластівка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дятел",
+      "difficulty": "easy"
+    },
+    {
+      "word": "папуга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пінгвін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "страус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лебідь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "качка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гусак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "курка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "півень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "індик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фазан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "журавель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чайка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сорока",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шпак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "снігур",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яструб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гриф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фламінго",
+      "difficulty": "easy"
+    },
+    {
+      "word": "павич",
+      "difficulty": "easy"
+    },
+    {
+      "word": "какаду",
+      "difficulty": "easy"
+    },
+    {
+      "word": "колібрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бджола",
+      "difficulty": "easy"
+    },
+    {
+      "word": "метелик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мураха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "муха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "комар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "павук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонечко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бабка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гусениця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цвіркун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "таракан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "джміль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шершень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "світлячок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "риба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акула",
+      "difficulty": "easy"
+    },
+    {
+      "word": "восьминіг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "краб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "медуза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морська зірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "черепаха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вугор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лосось",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тунець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оселедець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "короп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "щука",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "форель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "устриця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мідія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кальмар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "креветка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морський коник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "косатка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дуб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "береза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сосна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ялина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "клен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "липа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "каштан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "верба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тополя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вільха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ясен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "граб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горіх",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яблуня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "груша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вишня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "слива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "троянда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тюльпан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ромашка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "соняшник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "конвалія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фіалка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "волошка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лілія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нарцис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гвоздика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "орхідея",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кульбаба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кропива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "папороть",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мох",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гриб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "суниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "малина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ожина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чорниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виноград",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кактус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пальма",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бамбук",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лаванда",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жасмин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бузок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "півонія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дощ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сніг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вітер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гроза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "блискавка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грім",
+      "difficulty": "easy"
+    },
+    {
+      "word": "туман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "веселка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хмара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонце",
+      "difficulty": "easy"
+    },
+    {
+      "word": "місяць",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мороз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спека",
+      "difficulty": "easy"
+    },
+    {
+      "word": "град",
+      "difficulty": "easy"
+    },
+    {
+      "word": "буря",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ураган",
+      "difficulty": "easy"
+    },
+    {
+      "word": "торнадо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "злива",
+      "difficulty": "easy"
+    },
+    {
+      "word": "роса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "іній",
+      "difficulty": "easy"
+    },
+    {
+      "word": "посуха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гора",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ліс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "річка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "озеро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "океан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "поле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "луг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "степ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пустеля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "острів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "водоспад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "печера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "долина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пагорб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "узбережжя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "болото",
+      "difficulty": "easy"
+    },
+    {
+      "word": "джерело",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скеля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "літо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "осінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зима",
+      "difficulty": "easy"
+    },
+    {
+      "word": "схід сонця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "захід сонця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "листопад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чорна кішка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "білий сніг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зелена трава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жовте листя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "холодна зима",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тепле літо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яскраве сонце",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нічне небо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ранкова роса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "осіннє листя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весняні квіти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "літня спека",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зимовий холод",
+      "difficulty": "easy"
+    },
+    {
+      "word": "перший сніг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "теплий дощ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сильний вітер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "густий туман",
+      "difficulty": "easy"
+    },
+    {
+      "word": "великий ліс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "глибоке озеро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "висока гора",
+      "difficulty": "easy"
+    },
+    {
+      "word": "швидка річка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "синє море",
+      "difficulty": "easy"
+    },
+    {
+      "word": "піщаний пляж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морська хвиля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гірська вершина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зелений луг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квітуче поле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стигле яблуко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "спіла суниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "колючий їжак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пухнастий кіт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смугастий тигр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плямистий жираф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "довгий хобот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гострі зуби",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пташине гніздо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бджолиний вулик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мурашник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "павутина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "риб'яча луска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "заяче вухо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вовче лігво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ведмежий барліг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лебедина пара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зозулине яйце",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крапля дощу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хмаринка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сніжинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крижинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бурулька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "калюжа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "струмок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "потічок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "криниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "копиця сіна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нора",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кубло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мушля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "черепашка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пір'їна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шишка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жолудь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "насінина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "паросток",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бутон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пелюстка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стебло",
+      "difficulty": "easy"
+    },
+    {
+      "word": "корінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гілка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стовбур дерева",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "галявина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "узлісся",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хащі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зарості",
+      "difficulty": "easy"
+    },
+    {
+      "word": "очерет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "комиш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кувшинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "повний місяць",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зоряне небо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "падаючий сніг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "блакитне небо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пухнаста хмара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дике поле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "запах квітів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня солов'я",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гавкіт собаки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нявкання кота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "іржання коня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мукання корови",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рев лева",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виття вовка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрибок жаби",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жаба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ропуха",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ящірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "змія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крокодил",
+      "difficulty": "easy"
+    },
+    {
+      "word": "алігатор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хамелеон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гекон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "черв'як",
+      "difficulty": "easy"
+    },
+    {
+      "word": "слимак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "равлик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "п'явка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хом'як",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морська свинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шиншила",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тхір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "норка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "альбатрос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пелікан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чапля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баклан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "куріпка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "перепілка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крижень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дика гуска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лебідь-шипун",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горлиця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "одуд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "іволга",
+      "difficulty": "easy"
+    },
+    {
+      "word": "омела",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ялівець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шипшина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "глід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "терен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "калина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бузина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смородина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "аґрус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "журавлина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "брусниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лохина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барвінок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плющ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "самшит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гладіолус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крокус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ірис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "жоржина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "айстра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гортензія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "монстера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "цуценя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кошеня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лоша",
+      "difficulty": "easy"
+    },
+    {
+      "word": "теля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ягня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "порося",
+      "difficulty": "easy"
+    },
+    {
+      "word": "каченя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гусеня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "курча",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зайченя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вовченя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лисеня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ведмежа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оленятко",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тигреня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "левеня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "слоненя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сніговик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гірський струмок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лісова стежка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "польова квітка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "річковий берег",
+      "difficulty": "easy"
+    },
+    {
+      "word": "морський берег",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зелений ліс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "осінній вітер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весняний дощ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "літня гроза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сонячний день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хмарний день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дощовий день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вітряний день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "теплий вітерець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "холодний вітер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "яскрава веселка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "темна хмара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "білий заєць",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рудий кіт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чорний ворон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "горностай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ондатра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сурок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тушканчик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кажан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "крилан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ласиця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лань",
+      "difficulty": "normal"
+    },
+    {
+      "word": "муфлон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "альпака",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лама",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шакал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гієна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "каракал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "оцелот",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ягуар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пума",
+      "difficulty": "normal"
+    },
+    {
+      "word": "леопард",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сніговий барс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бабуїн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "орангутанг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гібон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тапір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ему",
+      "difficulty": "normal"
+    },
+    {
+      "word": "казуар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тукан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ібіс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чапля сіра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бугай болотяний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сипуха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пугач",
+      "difficulty": "normal"
+    },
+    {
+      "word": "беркут",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шуліка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "канюк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кібчик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дрохва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тетерук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "глухар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рябчик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чирок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гагара",
+      "difficulty": "normal"
+    },
+    {
+      "word": "жук-олень",
+      "difficulty": "normal"
+    },
+    {
+      "word": "жук-носоріг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сарана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "цикада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кліщ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "скорпіон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сколопендра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ковалик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "водомірка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "комаха-паличник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ктир",
+      "difficulty": "normal"
+    },
+    {
+      "word": "морський їжак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "морський огірок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "актинія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "планктон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "криль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "скат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "піранья",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тріска",
+      "difficulty": "normal"
+    },
+    {
+      "word": "минтай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "камбала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "анчоус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кит-горбач",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кашалот",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нарвал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "морський лев",
+      "difficulty": "normal"
+    },
+    {
+      "word": "морська видра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "модрина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ялиця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тис",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кипарис",
+      "difficulty": "normal"
+    },
+    {
+      "word": "евкаліпт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "секвоя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "баобаб",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ліщина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "подорожник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "деревій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чистотіл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "звіробій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "материнка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "м'ята",
+      "difficulty": "normal"
+    },
+    {
+      "word": "меліса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шавлія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розмарин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кмин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пижмо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "безсмертник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "едельвейс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "флокс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "заметіль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хуртовина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ожеледиця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "атмосферний фронт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "північне сяйво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "міраж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "паморозь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "суховій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мжичка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шквал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тропічний циклон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "монсун",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пасат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бриз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тундра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тайга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "савана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прерія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джунглі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мангрові зарості",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коралові рифи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фіорд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дельта річки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лиман",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плато",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гірський хребет",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вулкан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гейзер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "льодовик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "айсберг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "архіпелаг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "атол",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ущелина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кратер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "солоне озеро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "оазис",
+      "difficulty": "normal"
+    },
+    {
+      "word": "торфовище",
+      "difficulty": "normal"
+    },
+    {
+      "word": "заплава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гірський перевал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фотосинтез",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кругообіг води",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ерозія ґрунту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "льодовиковий період",
+      "difficulty": "normal"
+    },
+    {
+      "word": "міграція птахів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "линька тварин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сплячка ведмедя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "запилення квітів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нерест риби",
+      "difficulty": "normal"
+    },
+    {
+      "word": "приплив і відплив",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сонячне затемнення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "місячне затемнення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "полярна ніч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "полярний день",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вивітрювання гірських порід",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чорногуз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дика качка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сірий журавель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "болотяна сова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зимородок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рибалочка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "щиголь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чечітка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "костогриз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вивільга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кропив'янка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кобилочка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вальдшнеп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бекас",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кроншнеп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "буревісник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "альбатрос мандрівний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чистик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гагарка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тупик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пелікан рожевий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фазан золотий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "цесарка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "перепел",
+      "difficulty": "normal"
+    },
+    {
+      "word": "куниця лісова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ласка мала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "норка європейська",
+      "difficulty": "normal"
+    },
+    {
+      "word": "видра річкова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бобер річковий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ондатра болотна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "щур водяний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кріт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "землерийка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "їжак вухатий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "заєць-русак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "заєць-біляк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лисиця руда",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вовк сірий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рись європейська",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дикий кабан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "олень благородний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лось європейський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сарна європейська",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зубр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бізон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сайгак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джейран",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гірський цап",
+      "difficulty": "normal"
+    },
+    {
+      "word": "муфлон європейський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "альпійський архар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "осока",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ковила",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рогіз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "латаття",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ряска",
+      "difficulty": "normal"
+    },
+    {
+      "word": "очерет звичайний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "папороть орляк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хвощ польовий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плаун булавовидний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лишайник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мох сфагновий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "водорість бура",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гриб-мухомор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гриб-опеньок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гриб-підберезник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гриб-маслюк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "трюфель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "торфовий мох",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дощовий ліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хвойний ліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "листяний ліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "змішаний ліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "широколистяний ліс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чагарникова зона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "альпійська луки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "субальпійська зона",
+      "difficulty": "normal"
+    },
+    {
+      "word": "скельний масив",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кам'яниста пустеля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "соляна пустеля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "глиниста пустеля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "піщані дюни",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бархан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кит синій",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кит сірий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дельфін афаліна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дельфін білобочка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акула-молот",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акула тигрова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акула біла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "минь риба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лящ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "карась",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лин",
+      "difficulty": "normal"
+    },
+    {
+      "word": "в'юн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бичок риба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "йорж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "судак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сазан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "товстолобик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "білуга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "осетер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стерлядь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "севрюга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вугор річковий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "краб-самітник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рапана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мідія чорноморська",
+      "difficulty": "normal"
+    },
+    {
+      "word": "медуза-корнерот",
+      "difficulty": "normal"
+    },
+    {
+      "word": "горобина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "черемха",
+      "difficulty": "normal"
+    },
+    {
+      "word": "абрикос",
+      "difficulty": "normal"
+    },
+    {
+      "word": "персик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "айва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кизил",
+      "difficulty": "normal"
+    },
+    {
+      "word": "платан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "магнолія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рододендрон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "азалія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "камелія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бегонія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "петунія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чорнобривці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "братки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дзвіночки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "підсніжник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пролісок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рівнина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "низовина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "височина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кряж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "урочище",
+      "difficulty": "normal"
+    },
+    {
+      "word": "полонина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "яр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "балка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "схил гори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "підніжжя гори",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лісосмуга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "діброва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сосновий бір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кленовий гай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вербняк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "болотяна трясовина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кам'яна розсип",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гірське озеро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прісне озеро",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джерело мінеральне",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вулканічний острів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "коралова лагуна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дощовий сезон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сухий сезон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гірська лавина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сич вухатий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лунь польовий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лунь очеретяний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "єхидна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "качкодзьоб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вомбат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тасманійський диявол",
+      "difficulty": "hard"
+    },
+    {
+      "word": "панголін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трубкозуб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "довгоп'ят",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лорі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фенек",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сурикат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гієнова собака",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гривистий вовк",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сервал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "віверра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "генета",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мангуст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пекарі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вікунья",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гуанако",
+      "difficulty": "hard"
+    },
+    {
+      "word": "окапі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "куду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гну",
+      "difficulty": "hard"
+    },
+    {
+      "word": "орикс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дюгонь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ламантин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "білуха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гринда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тюлень-крабоїд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "морський слон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "китоглав",
+      "difficulty": "hard"
+    },
+    {
+      "word": "птах-секретар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гриф-індик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лірохвіст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ківі птах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "одуд лісовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сорокопуд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "омелюх",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фрегат птах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "олуша",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тупик атлантичний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "жук-гнойовик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "муха-цеце",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оса-немка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "наїзник комаха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "клоп-солдатик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "короїд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "довгоносик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хрущ травневий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "жук-точильник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метелик-бражник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "адмірал метелик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "махаон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "аполлон метелик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "поліксена метелик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "голкошкірі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "брахіопода",
+      "difficulty": "hard"
+    },
+    {
+      "word": "наутілус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кальмар-вампір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "риба-вудильник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "риба-місяць",
+      "difficulty": "hard"
+    },
+    {
+      "word": "риба-голка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "морський дракон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "губки тварини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "офіура",
+      "difficulty": "hard"
+    },
+    {
+      "word": "голотурія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "секвоядендрон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гінкго",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хвощ гігантський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "росичка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "венерина мухоловка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "опунція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "агава",
+      "difficulty": "hard"
+    },
+    {
+      "word": "юка рослина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ліана",
+      "difficulty": "hard"
+    },
+    {
+      "word": "епіфіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мангр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "карстова печера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сталактит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сталагміт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фумарола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лавове поле",
+      "difficulty": "hard"
+    },
+    {
+      "word": "магма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "розлом земної кори",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тектонічна плита",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дюна рухома",
+      "difficulty": "hard"
+    },
+    {
+      "word": "такир",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ерг пустельний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кар льодовиковий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "морена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "естуарій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шельф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "абісальна зона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мантія землі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хемосинтез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "азотфіксація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сукцесія екосистеми",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трофічний ланцюг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кругообіг вуглецю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кругообіг азоту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "евтрофікація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "седиментація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "денудація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "континентальний дрейф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "парниковий ефект",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кислотний дощ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "озонова діра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "глобальне потепління",
+      "difficulty": "hard"
+    },
+    {
+      "word": "біолюмінесценція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ехолокація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мімікрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "камуфляж тварин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "симбіоз",
+      "difficulty": "hard"
+    },
+    {
+      "word": "паразитизм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "коменсалізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "статевий добір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "природний добір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "діапауза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "естивація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гібернація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метаморфоз комах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хамелеонівське забарвлення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ендемічний вид",
+      "difficulty": "hard"
+    },
+    {
+      "word": "реліктова рослина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "червонокнижний вид",
+      "difficulty": "hard"
+    },
+    {
+      "word": "інвазивний вид",
+      "difficulty": "hard"
+    },
+    {
+      "word": "біом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "екотон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трофічний рівень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "продуцент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "консумент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "редуцент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "детрит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гумус",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чорнозем",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підзолистий ґрунт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "латерит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вивітрювання хімічне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вивітрювання фізичне",
+      "difficulty": "hard"
+    },
+    {
+      "word": "карстовий рельєф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спелеотема",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гейзерит",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фумарольне поле",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кальдера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стратовулкан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "щитовий вулкан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пірокластичний потік",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лавина сніжна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зсув ґрунту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ополонка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "наледь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "термокарст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вічна мерзлота",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сфагнове болото",
+      "difficulty": "hard"
+    },
+    {
+      "word": "верхове болото",
+      "difficulty": "hard"
+    },
+    {
+      "word": "низинне болото",
+      "difficulty": "hard"
+    },
+    {
+      "word": "евапорація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конденсація вологи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "адіабатичний процес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пасатна інверсія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "циклогенез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "антициклон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ізобара",
+      "difficulty": "hard"
+    },
+    {
+      "word": "атмосферна циркуляція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "джетстрім",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ель-ніньйо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ла-нінья",
+      "difficulty": "hard"
+    },
+    {
+      "word": "альбедо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "парниковий газ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фотоперіодизм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "геліотропізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гідротропізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хемотропізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "партеногенез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метагенез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "поліембріонія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "діапедез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хижа рослина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сапротроф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "міксотроф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ліхенізація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мікориза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "епіфітна рослина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "галофіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ксерофіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гігрофіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мезофіт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "аксолотль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гаттерія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "комодський варан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "анаконда зелена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "королівська кобра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гримуча змія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мамба чорна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тайпан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гадюка степова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тритон гребінчастий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "саламандра вогняна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "олм печерний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "жаба-бик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "жаба-голіаф",
+      "difficulty": "hard"
+    },
+    {
+      "word": "квакша звичайна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "часничниця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кумка червоночерева",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ропуха очеретяна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "папуга кеа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ара гіацинтовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "какапо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гарпія південноамериканська",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сип білоголовий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стерв'ятник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "орлан-білохвіст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дрімлюга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "серпокрилець",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стриж чорний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мухоловка строката",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тарантул",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чорна вдова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "каракурт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сольпуга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "псевдоскорпіон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ногохвістка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "щетинохвістка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "планарія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "коловертка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тихохідка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "п'явка медична",
+      "difficulty": "hard"
+    },
+    {
+      "word": "латимерія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "риба-лоцман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "риба-хірург",
+      "difficulty": "hard"
+    },
+    {
+      "word": "риба-клоун",
+      "difficulty": "hard"
+    },
+    {
+      "word": "риба-меч",
+      "difficulty": "hard"
+    },
+    {
+      "word": "риба-пила",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скат-манта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "електричний вугор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гребневик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сальпа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "асцидія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "морський павук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "раффлезія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вельвічія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "саговник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дерево баньян",
+      "difficulty": "hard"
+    },
+    {
+      "word": "равенала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "непентес",
+      "difficulty": "hard"
+    },
+    {
+      "word": "жирянка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пузирчатка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "женьшень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кордицепс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трутовик",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дощовик гриб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сморчок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лисичка гриб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підосичник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "брекчія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конгломерат",
+      "difficulty": "hard"
+    },
+    {
+      "word": "осадова порода",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метаморфічна порода",
+      "difficulty": "hard"
+    },
+    {
+      "word": "жила рудна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "біосферний заповідник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ноосфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "геосфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "літосфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гідросфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стратосфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тропосфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мезосфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "іоносфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "магнітосфера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сонячний вітер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цунамі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "річкова тераса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алювіальна рівнина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ерозійний яр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "соліфлюкція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "курум",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нунатак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фірн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "льодовикова тріщина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "серак",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гетерозис",
+      "difficulty": "hard"
+    },
+    {
+      "word": "поліморфізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "філотаксис",
+      "difficulty": "hard"
+    },
+    {
+      "word": "геотропізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тигмотропізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "автотомія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "регенерація тканин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гермафродитизм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мутуалізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алелопатія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "міжвидова конкуренція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хижацтво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "територіальна поведінка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шлюбні танці птахів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "міграція риб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підземна річка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підземне озеро",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кальдера вулканічна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гірський сель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "термокарстове озеро",
+      "difficulty": "hard"
+    }
+  ]
+}

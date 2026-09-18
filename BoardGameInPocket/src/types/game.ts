@@ -21,6 +21,7 @@ export type Word = {
 export type ThemeCategory = {
   id: string;
   name: string;
+  emoji: string;
   enabled: boolean;
   customWords: string[];
   isCustom: boolean;

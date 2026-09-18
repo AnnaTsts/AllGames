@@ -37,7 +37,7 @@ export function TeamCard({
             <Text className="text-3xl">🎲</Text>
           </Pressable>
           <Text
-            className="flex-1 font-nunito-bold text-lg text-brown"
+            className="flex-1 font-nunito-bold text-base text-brown"
             numberOfLines={1}
           >
             {name}

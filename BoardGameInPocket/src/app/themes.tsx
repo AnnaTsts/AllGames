@@ -98,6 +98,7 @@ export default function Themes() {
               <ThemeCard
                 key={theme.id}
                 name={theme.name}
+                emoji={theme.emoji}
                 enabled={theme.enabled}
                 isCustom={theme.isCustom}
                 onToggle={() => toggleTheme(theme.id)}

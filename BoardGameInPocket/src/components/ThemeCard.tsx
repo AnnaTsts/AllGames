@@ -4,17 +4,18 @@ import { Toggle } from "@/components/Toggle";
 
 type ThemeCardProps = {
   name: string;
+  emoji: string;
   enabled: boolean;
   isCustom: boolean;
   onToggle: () => void;
   onEdit: () => void;
 };
 
-export function ThemeCard({ name, enabled, isCustom, onToggle, onEdit }: ThemeCardProps) {
+export function ThemeCard({ name, emoji, enabled, isCustom, onToggle, onEdit }: ThemeCardProps) {
   return (
     <View className="card--theme">
       <Text className="flex-1 font-nunito-bold text-lg text-brown" numberOfLines={1}>
-        {name}
+        {emoji} {name}
       </Text>
 
       <View className="flex-row items-center gap-3">

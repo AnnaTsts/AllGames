@@ -1,0 +1,4007 @@
+{
+  "category": "Свята та традиції",
+  "emoji": "🎉",
+  "count": 1000,
+  "words": [
+    {
+      "word": "Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдво Христове",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Старий Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великдень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Водохреще",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стрітення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Благовіщення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вербна неділя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Трійця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зелені свята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спас яблучний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спас медовий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Успіння Богородиці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Покрова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День Миколая",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрещення Господнє",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Івана Купала",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Масляна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обжинки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Андріївські вечорниці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День незалежності України",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День Конституції",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День Соборності",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День захисників України",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День Перемоги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День міста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День прапора",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День вишиванки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День української мови",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хелловін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День Валентина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День Святого Патрика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ханука",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рамадан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дивалі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Китайський Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День подяки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Октоберфест",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День матері",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День батька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Жіночий день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День закоханих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чорна п'ятниця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День Землі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День дитини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День вчителя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День студента",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День науки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День медика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День музики",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День театру",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День книги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День сміху",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ювілей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весілля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заручини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрестини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Випускний вечір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новосілля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дівич-вечір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Парубоцька вечірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Срібне весілля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Золоте весілля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Іменини",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Повноліття",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новорічна ялинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гірлянда на ялинці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феєрверк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Салют",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Святковий торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шампанське на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гарбуз на Хелловін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вертеп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Писанка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Крашанка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великодній кошик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Паска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Коровай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вишиванка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Віночок з квітів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Святкова свічка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Подарунок на день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вітальна листівка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Серпантин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Повітряна кулька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ялинкова прикраса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дід Мороз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Снігуронька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Святий Миколай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пасхальний кролик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обручка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільна сукня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Букет нареченої",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільний торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вишитий рушник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колядування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Щедрування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обмін подарунками",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Загадування бажання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Застілля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тост за здоров'я",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Побажання щастя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перший танець молодят",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Викуп нареченої",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свічки на торті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяна зірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяна вечеря",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дванадцять страв на Різдво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кутя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Узвар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мандаринки на Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бій курантів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Загадування бажання під бій курантів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прикрашання ялинки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прикрашання будинку гірляндами",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяний вінок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Адвент-календар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зустріч гостей на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Родинне свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День всіх закоханих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Букет квітів на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Похід у гості на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Святковий стіл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смачна вечеря на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Запалення свічок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяні пісні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Щедрий вечір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свято врожаю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ярмарок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Карнавал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Парад на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феєрверк на Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Костюм на Хелловін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гарбузовий ліхтар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяний ярмарок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новорічний карнавал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дитяче свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свято в дитячому садку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Випускний в школі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Останній дзвоник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перше вересня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День знань",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Букет для вчителя",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільна подорож",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Медовий місяць",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Освідчення в коханні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Заручинна каблучка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільний кортеж",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільний марш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гості на весіллі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тамада на весіллі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільний танок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрещені батьки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хрестильна сорочка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Церква на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Молитва на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Освячення води",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свячена верба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свячена паска",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свячені крашанки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обід у родинному колі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смачні страви на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гостина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Застілля з родиною",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяний піст",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Великий піст",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пасхальна служба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Всенічна служба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хресний хід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дзвони церкви на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гуляння на майдані",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феєрверк на площі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Салют на День Перемоги",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прапор на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гімн на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Урочиста промова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Нагородження на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Концерт до свята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Виступ артистів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дитячий ранок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ранкова зустріч Нового року",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дід Мороз з подарунками",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мішок подарунків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Лист до Святого Миколая",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Черевичок для подарунків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Санта Клаус",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Північний олень",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сани Діда Мороза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ковзанка на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Катання на санчатах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сніговик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гра в сніжки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зимові канікули",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Літні канікули",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пляжна вечірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пікнік на природі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Барбекю на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феєрверк у нічному небі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Салют у День Незалежності",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стрічки на вінку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Квіти на могилі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Поминальний день",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Проводи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гробки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День пам'яті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хвилина мовчання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Покладання квітів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вшанування пам'яті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Меморіальний захід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ювілейний захід",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Корпоративне свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свято компанії",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День міста з концертом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феєрверк на день міста",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Многая літа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Спів багато літ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вітальна промова на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тост за іменинника",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Побажання здоров'я на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Задування свічок на торті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Загадування бажання на день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прикрашання кімнати кульками",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гірлянда з прапорців",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розтяжка з написом на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Цукерки для гостей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смаколики на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Подарунковий пакет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Подарункова коробка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обгортковий папір для подарунка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бант на подарунку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сюрприз на день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тематична вечірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Костюмована вечірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маскарад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Маска на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конфетті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хлопавка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Конкурси на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ведучий свята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Діджей на весіллі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Музика на весіллі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Танці на весіллі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свято першого дзвоника",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шкільна лінійка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Родинне фото на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сімейний альбом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зустріч гостей хлібом і сіллю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Хліб-сіль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Святковий стіл із наїдками",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Валентинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сердечко з паперу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Букет троянд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Освідчення на коліні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Каблучка в коробочці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільний фотограф",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільна фотосесія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Медовий місяць на морі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Річниця весілля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Річниця стосунків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Романтична вечеря на двох",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Запуск ліхтариків у небо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Небесні ліхтарики",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обмін обручками",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наречений і наречена",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дружка нареченої",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Боярин нареченого",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Танець молодих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Перший спільний танець молодят",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Розрізання весільного торта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кидання букета нареченою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ловля букета нареченою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільна арка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Запрошення на весілля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Список гостей на весілля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Весільний банкет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тюльпани на 8 березня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мімоза на 8 березня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Букет квітів на 8 березня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вітальна листівка на 8 березня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смачний торт на день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Морозиво на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Повітряні кульки з гелієм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прикраса вітрини на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Базар квітів перед святом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Продаж ялинок перед Новим роком",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ялинковий базар",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новорічний настрій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новорічний фільм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новорічне побажання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяний фільм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяний настрій",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зимова казка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Веселка як символ свята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Символ року",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гороскоп на Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Загадування бажань на Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новорічне шоу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Новорічний концерт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Куранти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Президентське новорічне привітання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяний ярмарок з глінтвейном",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Глінтвейн на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гарячий шоколад на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Імбирне печиво",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пряники на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мандаринове дерево",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Запах мандаринів на Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пастуший різдвяний вертеп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ясла з немовлям Ісусом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяна ніч",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свята вечеря напередодні Різдва",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дванадцять страв на святвечір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кутя на святвечір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Компот-узвар на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Голубці на святковий стіл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фарширована риба на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Салат Олів'є на Новий рік",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шампанське опівночі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феєрверк опівночі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяний светр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Светр з оленями",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Костюм Санти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Костюм відьми на Хелловін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Костюм привида на Хелловін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тематична гарбузова прикраса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Солодощі або каверзи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Обхід дворів на Хелловін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Страшна маска на Хелловін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гарбузовий пиріг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Індичка на День подяки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Сімейна вечеря на День подяки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Подяка за врожай",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Літня відпустка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пляжна вечірка на день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Барбекю з друзями",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Пікнік на природі влітку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Феєрверк на випускний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Випускний альбом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прощання зі школою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Атестат про освіту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Студентський квиток",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Посвята у студенти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "День першокурсника",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дипломна робота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Захист диплома",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Вручення дипломів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Урочиста церемонія нагородження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Медаль за досягнення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кубок переможця",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Святковий салют на стадіоні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Відкриття олімпійських ігор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Церемонія відкриття свята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Паради на честь свята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Демонстрація на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мітинг з нагоди свята",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Урочисті збори",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гала-концерт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ювілейний концерт зірки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Творчий вечір",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бенефіс актора",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гарбузовий суп на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Печиво у формі зірочок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Різдвяний пряник з глазур'ю",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Медовик на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Наполеон на день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кремовий торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фруктовий торт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шоколадний фонтан на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Цукерковий бар на весіллі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Солодкий стіл на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Фотозона на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Рамка для фото на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гірлянда з квітів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Прикраса зі шариків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Арка з кульок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Букви з кульок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Цифра з кульок на свято",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Торт з цифрою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свічка у формі цифри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Капелюшок для іменинника",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ковпачок на день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Дзвіночок на різдвяній ялинці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ангелятко на ялинці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Зірка на верхівці ялинки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Мішура на ялинці",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бенгальські вогні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ватра на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Багаття на пікніку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Смажені шашлики на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Кавун на літньому святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Морозиво на дитячому святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Цукрова вата на ярмарку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Попкорн на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Атракціони на ярмарку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Колесо огляду на святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Каруселі на ярмарку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Повітряні кульки для дітей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Клоун на дитячому святі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Аніматор на день народження",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Свято Купала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Купальська ніч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стрибки через багаття",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Плетення вінків на Купала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пускання вінків за водою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пошук цвіту папороті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спалення опудала Масляної",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Млинці на Масляну",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Катання на санях на Масляну",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кулачні бої на Масляну",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прощена неділя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ворожіння на Андрія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кусання калити",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ворожіння на воску",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ворожіння на чоботі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обливання водою на Купала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Останній сніп на Обжинках",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вінок з колосків",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято врожаю на селі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дожинки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Введення в храм Богородиці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вознесіння Господнє",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День Андрія Первозванного",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Катерини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Варвари",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спас горіховий",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спасівка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Петрівка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Русальний тиждень",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Радуниця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Страсний тиждень",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вербна субота",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свячення верби на Вербну неділю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Освячення яблук на Спаса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Освячення меду на Спаса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Освячення горіхів на Спаса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День Гідності та Свободи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День пам'яті та примирення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День Європи в Україні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День державного герба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день миру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день доброти",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день щастя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день дружби",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день рідної мови",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день туризму",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день довкілля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день води",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день прав людини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день толерантності",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день поезії",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день кіно",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день гумору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день посмішки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День космонавтики",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День авіації",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День флоту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День Збройних сил України",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День десантника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День прикордонника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День рятувальника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День пожежника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День поліції",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День журналіста",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День бухгалтера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День програміста",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День актора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День художника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День письменника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День спортсмена",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День тренера",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День кухаря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День перукаря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День будівельника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День шахтаря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День металурга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День енергетика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День залізничника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День банкіра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День юриста",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ід аль-Фітр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Курбан-байрам",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Веселий Ту Бішват",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пурим",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Песах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йом-Кіпур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рош га-Шана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято ліхтарів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дракон-човнові перегони",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Середина осені",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День мертвих у Мексиці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марді Гра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Карнавал у Ріо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Октоберфест у Мюнхені",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День Гая Фокса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День незалежності США",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кванза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день книги",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день музеїв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день театру",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день танцю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Всесвітній день архітектури",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний день музики",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День вишиваного рушника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд викупу нареченої",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Посаг нареченої",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Весільний коровай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Здоровиця молодятам",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гільце",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Весільне деревце",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розплітання коси нареченої",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Покривання нареченої",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кидання рису на молодят",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Розбивання тарілки на щастя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пов'язування рушників молодятам",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Благословення батьків",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Викуп весільного вбрання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Другий день весілля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Циганщина на весіллі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Викрадення нареченої на весіллі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хрестильний обряд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кум і кума",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Похресник",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд імянаречення",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перше причастя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Конфірмація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бар-міцва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бат-міцва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд повноліття",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Похоронний обряд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Поминальна вечеря",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Панахида",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дев'ять днів пам'яті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сорок днів пам'яті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Річниця пам'яті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Поминальна кутя",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Різдвяний піст сорокоденний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Святвечір",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дванадцять пісних страв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перша зірка на небі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ходіння з зіркою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вертепна вистава",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Коза на Різдво",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Меланка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Щедрий вечір з Меланкою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Засівання на Новий рік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обсипання зерном",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Посівальники",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Волхви",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Три царі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Йордан",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Купання в ополонці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хрещенська вода",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Освячення житла свяченою водою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обхід оселі зі свяченою водою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гаївки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Веснянки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Проводжання зими",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стрітенська свічка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стрітенська відлига",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ярилине свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято першої борозни",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд заорювання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Толока",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спільна праця на свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Досвітки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вечорниці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Складчина на свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Побратимство",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кумівство",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хрещена мати",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хрещений батько",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Многая літа на іменини",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд христосування навесні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято першого проліска",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Проліски як вісники весни",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд зустрічі лелек навесні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Лелека приносить дітей",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд освячення насіння перед посівом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято останнього дзвоника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Букет вчителю на випускний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вручення атестатів випускникам",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бал випускників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вальс випускників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прощальна пісня випускників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд посвяти в лицарі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Посвята в козаки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято Покрови козацтва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День українського козацтва",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд освячення зброї на Покрову",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Проводи призовника в армію",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гуляння на проводах у армію",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зустріч воїна з фронту",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд зустрічі переможця",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Урочиста зустріч ветерана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Покладання квітів до пам'ятника",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вшанування загиблих героїв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хвилина мовчання на мітингу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Церемонія покладання вінків",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд освячення прапора",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Присяга на вірність",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Складання військової присяги",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Парад на День Незалежності",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виставка досягнень до свята",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ярмарок ремесел",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виставка народних промислів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гончарний ярмарок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ярмарок вишиванок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Продаж сувенірів на свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дегустація страв на фестивалі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Кулінарний фестиваль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фестиваль вареників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фестиваль борщу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фестиваль меду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пивний фестиваль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Винний фестиваль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Музичний фестиваль просто неба",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фестиваль ліхтарів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фестиваль повітряних куль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фестиваль квітів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виставка квітів до свята",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виставка гарбузів на осіннє свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ярмарок гарбузів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято першого снігу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зустріч зими",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Проводи осені",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято останнього листка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято врожаю яблук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Яблучний фестиваль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято меду на пасіці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День бджоляра",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд першого меду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято вина нового врожаю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Молоде вино на свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд освячення винограду",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято виноградарів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гуляння на масляному тижні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тиждень масляних гулянь",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спалення солом'яного опудала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Штурм снігової фортеці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято зимових ігор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ковзанярський карнавал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Зимовий бал-маскарад",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Новорічний бал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Придворний бал на свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вальс на випускному балі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд посвяти немовляти церкві",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Молитва подяки за врожай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Церковний молебень на свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Освячення транспорту на свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято захисту врожаю від шкідників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд задобрення духів поля",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято першої скошеної трави",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сінокісне свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Толочне гуляння після роботи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спільна трапеза після толоки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято дружби народів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Міжнародний ярмарок культур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Фестиваль національних культур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "День вишиванки на роботі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Флешмоб до свята",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Марафон до Дня Незалежності",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Забіг з нагоди свята",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спортивне свято",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Естафета до свята",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дитячі змагання на святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Конкурс костюмів на святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Конкурс талантів на святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вікторина до свята",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Квест до Дня міста",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд освячення квітів на Маковія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято перших польових квітів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гуляння на Івана Купала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Хоровод навколо багаття",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пісні на Купальську ніч",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дівочі ворожіння на суджену долю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Плавання вінка по річці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Спостереження за вогнем на Купала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Символіка папороті на Купала",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Обряд освячення першого зерна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Свято хліба нового врожаю",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виставка хлібних виробів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дегустація меду на ярмарку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ярмарок медових продуктів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Конкурс на кращий коровай",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виставка вишитих рушників",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Показ народного вбрання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дефіле вишиванок на святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Етнофестиваль народної творчості",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виступ фольклорного колективу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пісні бабусиного хору",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гра на бандурі на святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Виступ троїстих музик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Танцювальний ансамбль на святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гопак на весільному святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Козацькі забави на ярмарку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Змагання силачів на святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Перетягування каната на святі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Метання сокири на фестивалі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Калита на Андрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд Дідуха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дідух на Різдво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд полазника",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Полазник на Різдво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Крачун",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Богата кутя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Голодна кутя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Водяна кутя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято Стрітення Господнього",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд посипання зерном на Меланку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ходіння з Маланкою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд перезви",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Перезва весільна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Коровайниці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд випікання короваю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дружби на весіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Світилка на весіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Боярин на весіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Староста весільний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сватання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Могорич",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заручинний рушник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рушникування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Посад молодих",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Комора молодят",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розстеляння кожуха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Посипання молодят хмелем",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вінчальні свічки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вінчальний рушник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Знімання вінка з нареченої",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Покривання очіпком",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Очіпок молодиці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пов'язування хустки молодиці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Останній сніп-дідух на Обжинках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд закликання дощу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Русалії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Русальний Великдень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мавський Великдень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд проводжання русалок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Клечальна субота",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Клечання хати зеленню",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято зеленої неділі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд заквітчування хати",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд похорону кукушки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Похорон Костроми",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд Куста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято Куста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд стрибання через купальський вогонь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд пошуку скарбу на Купала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мавка на Купала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд ворожіння на вінках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд топлення вінків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято першого грому",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд зустрічі весни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Закликання весни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд спалювання Марени",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд провід зими",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Колодій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Колодка на Масляну",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд прив'язування колодки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Цигикання на Масляну",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заговини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "М'ясниці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пилипівка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Різдвяний Пилипів піст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Провіди небіжчиків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гробки на цвинтарі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Задушниці",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд поминання предків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дмитрівська субота",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Михайлівська субота",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення зерна на посів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд першого вигону худоби",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юріїв день",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Юр'ївська роса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд качання по росі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд обходу полів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято першого снопа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд зажинок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зажинки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обжинковий вінок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд плетіння обжинкового вінка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дідова каша",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд бабиного літа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Покровська ярмарка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято Симеона Стовпника",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Введеніє",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Катерининські ворожіння",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Андріївські ворожіння на судженого",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд кусання калити на Андрія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд стрибання через калиту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стрибунці на Різдво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обхід дворів колядниками",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Береза на Купала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Марена на Купала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення трав на Маковія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Маковія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято Маковія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Медовий Спас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Маковійський букет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято перших плодів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення хліба нового врожаю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд роздачі проскурок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Проскурка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Артос",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення артосу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Світла седмиця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Радуницькі поминки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гробковий понеділок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Фомин тиждень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Антипасха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд христосування",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Христосування крашанками",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Битки крашанками",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд котіння крашанок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гаївкові хороводи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд плетіння вербового батога",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Вербування на Вербну неділю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд биття вербою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято Лазаревої суботи",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення шишок на Вербну",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято Пальмової неділі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кучерявий Спас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Другий Спас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Третій Спас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хлібний Спас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення хліба на Спаса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд заклинання бджіл",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пасічницьке свято",
+      "difficulty": "hard"
+    },
+    {
+      "word": "День бортника",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення пасіки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд посвяти дитини землі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Постриження дитини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд першого зубчика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Родильний обряд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пупорізна баба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд купання породіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд відвідин породіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Зливки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд зливок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Хрестбини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд запивання хрестин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд входин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Входини в нову хату",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд закликання домовика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Новосільний рушник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення нового житла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято закладин будинку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Закладини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд першого вогню в хаті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд обсипання зерном новосілля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Магдалини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Успенський піст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спасівський піст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення квітів на Успіння",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд плетіння маковійського вінка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Головосіка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Усікновення глави Іоанна Хрестителя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пилипів день",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення каді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд читання Псалтиря на поминках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Тризна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд тризни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стравознавство поминальної трапези",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кутя поминальна з медом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд роздачі милостині на поминках",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд запалення лампадки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свічка за упокій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд сорокоуста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сорокоуст",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Родовід на свято роду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято роду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд вшанування предків роду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "День родоводу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення сімейного вогнища",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд викликання дощу танцем",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд заклинання морозу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято першого снігу з ворожінням",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд задобрення дідуха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ставлення дідуха в червоному куті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спалення дідуха на Стрітення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд перенесення вогню від дідуха",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Крачунський хліб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд ділення крачуна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядова випічка на Новий рік",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пирогова кутя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядове частування худоби кутею",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд годування морозу кутею",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кликання мороза на вечерю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд закликання вовка на кутю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Голосіння на похороні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд голосіння за небіжчиком",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Найманий голосільник",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд обмивання небіжчика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд одягання небіжчика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Виставлення труни в хаті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд прощання з небіжчиком",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд винесення труни через поріг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заборона озиратися на похороні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд закривання дзеркал у хаті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд зупинки годинника після смерті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Роздача речей небіжчика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд поминального обіду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кутя з маком на поминки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядовий поминальний хліб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд запалення свічки за упокій",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд читання акафісту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення могили",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Встановлення хреста на могилі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд огородження могили",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд посадки калини на могилі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Символіка калини на похороні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд роздачі рушників на похороні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд викупу місця на цвинтарі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дід і баба на столі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд запрошення душ предків",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд залишання їжі для померлих",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд відчинення дверей для душ",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд обкурювання ладаном хати",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кадило на службі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення ладаном оселі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд заклинання нечистої сили",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обереги від злих духів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд вигнання відьом на Купала",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Спалення відьминого віника",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд захисту від упирів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд замовляння на здоров'я",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Знахарський обряд на свято",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд лікування словом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Замовляння від пристріту",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд відчитування молитвою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято першого волосся дитини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд перших кроків дитини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд перших слів дитини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прикмети на хрестинах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд визначення долі дитини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кладення предметів для ворожіння немовляті",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Купання дитини у свяченій воді",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пуповинний обряд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд закопування пуповини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд першого купання породіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд очищення породіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Церковне воцерковлення породіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд сорока днів після пологів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кумування на хрестинах",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд обміну хлібом між кумами",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Побратимський обряд братання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд обміну поясами побратимів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Клятва на крові побратимства",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд посестринства",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ритуальне випікання весільного гільця",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прикрашання гільця стрічками",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд встановлення гільця на столі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд роздачі шишок гостям весілля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Весільна шишка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд розподілу короваю між родами",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд розрізання короваю на весіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядова пісня короваю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Коровайний обряд випікання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд замішування тіста для короваю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дев'ять коровайниць",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд миття рук перед короваєм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ритуальне вбрання коровайниць",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення весільного вбрання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд одягання нареченої дружками",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Розплетення коси нареченої напередодні весілля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Дівич-вечір із голосінням",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд прощання нареченої з дівуванням",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядова пісня прощання з молодістю",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мальчишник з обрядовими піснями",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд запрошення на весілля хлібом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обхід села із запрошенням",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядове поливання порогу молодої",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд перепони шляху молодятам",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Викуп воріт нареченої",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд перегороджування дороги весільному поїзду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Биття горщиків на щастя",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обсипання молодят хмелем і зерном",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд саджання молодих на кожух",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд накривання молодої хустиною свекрухою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Прийняття невістки до роду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд введення молодої в комору",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядова перша ніч молодят",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд показу простирадла після весілля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Другий день весілля з циганщиною",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд ряження на весіллі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обхід родичів молодою",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд тещиних млинців",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд зятівських гостин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядове частування тестя і тещі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд викликання дощу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд задобрення поля",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядова пісня на зажинки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд першого снопа на полі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Заклинання урожайності землі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд освячення плуга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обрядове орання першої борозни",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Свято весняного рівнодення",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Обряд зустрічі сонця",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,4007 @@
+{
+  "category": "Музика",
+  "emoji": "🎵",
+  "count": 1000,
+  "words": [
+    {
+      "word": "рок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "поп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "джаз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "блюз",
+      "difficulty": "easy"
+    },
+    {
+      "word": "реп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хіп-хоп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "класична музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "електронна музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "техно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "диско",
+      "difficulty": "easy"
+    },
+    {
+      "word": "панк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "метал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кантрі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "соул",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фанк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "реггі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "опера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "романс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шансон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "естрада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вальс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "танго",
+      "difficulty": "easy"
+    },
+    {
+      "word": "полька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гопак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "коломийка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "колискова",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "застільна пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дитяча пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весільна пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "народна пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сучасна музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "попса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рок-н-рол",
+      "difficulty": "easy"
+    },
+    {
+      "word": "свінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "блюграс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "регтайм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "госпел",
+      "difficulty": "easy"
+    },
+    {
+      "word": "латино",
+      "difficulty": "easy"
+    },
+    {
+      "word": "самба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сальса",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бачата",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гітара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бас-гітара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "електрогітара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "скрипка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "віолончель",
+      "difficulty": "easy"
+    },
+    {
+      "word": "контрабас",
+      "difficulty": "easy"
+    },
+    {
+      "word": "арфа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "флейта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кларнет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "саксофон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "труба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тромбон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барабани",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ударна установка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "піаніно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рояль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "орган",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акордеон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баян",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бандура",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сопілка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ксилофон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дзвіночки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тарілки музичні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бубон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "губна гармошка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "синтезатор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "укулеле",
+      "difficulty": "easy"
+    },
+    {
+      "word": "банджо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мандоліна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "волинка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гуслі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "литаври",
+      "difficulty": "easy"
+    },
+    {
+      "word": "маракаси",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кастаньєти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тамбурин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гонг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Океан Ельзи",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бумбокс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Скрябін",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Руслана",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Джамала",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ані Лорак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Тіна Кароль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Верка Сердючка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kalush Orchestra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Go_A",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DakhaBrakha",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elvis Presley",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Beatles",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Michael Jackson",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Queen",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ABBA",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Madonna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Adele",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ед Ширан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ріанна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бейонсе",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frank Sinatra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bob Marley",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elton John",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Freddie Mercury",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Whitney Houston",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Стінг",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coldplay",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Моцарт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бетховен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Бах",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Чайковський",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Шопен",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нота",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ноти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мелодія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ритм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "темп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акорд",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гама",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "приспів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "куплет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музикант",
+      "difficulty": "easy"
+    },
+    {
+      "word": "співак",
+      "difficulty": "easy"
+    },
+    {
+      "word": "співачка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний гурт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оркестр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "диригент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "концерт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фестиваль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мікрофон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "навушники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "колонка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плейлист",
+      "difficulty": "easy"
+    },
+    {
+      "word": "альбом",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сингл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний кліп",
+      "difficulty": "easy"
+    },
+    {
+      "word": "караоке",
+      "difficulty": "easy"
+    },
+    {
+      "word": "танець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "балет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дискотека",
+      "difficulty": "easy"
+    },
+    {
+      "word": "магнітофон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вініл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "платівка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "радіо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музична школа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барабанні палички",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гітарна струна",
+      "difficulty": "easy"
+    },
+    {
+      "word": "звукозапис",
+      "difficulty": "easy"
+    },
+    {
+      "word": "продюсер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ремікс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гурт музикантів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сцена",
+      "difficulty": "easy"
+    },
+    {
+      "word": "концертний зал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "живий концерт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний інструмент",
+      "difficulty": "easy"
+    },
+    {
+      "word": "клавіші піаніно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ноти для гри",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музична нота соль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний ключ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акустична гітара",
+      "difficulty": "easy"
+    },
+    {
+      "word": "електронний барабан",
+      "difficulty": "easy"
+    },
+    {
+      "word": "диджей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "діджейський пульт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "танцювальна музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весільний оркестр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дитячий хор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шкільний хор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вуличний музикант",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музична студія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "запис пісні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "кавер пісні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хіт сезону",
+      "difficulty": "easy"
+    },
+    {
+      "word": "топ чарт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний фестиваль просто неба",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рок-концерт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "поп-зірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рок-зірка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музична премія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Гремі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Євробачення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "конкурс пісні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "битва гуртів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний конкурс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барабанщик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гітарист",
+      "difficulty": "easy"
+    },
+    {
+      "word": "басист",
+      "difficulty": "easy"
+    },
+    {
+      "word": "клавішник",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вокаліст",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бек-вокал",
+      "difficulty": "easy"
+    },
+    {
+      "word": "соліст",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дует співаків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тріо музикантів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "квартет",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ансамбль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "духовий оркестр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "симфонічний оркестр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "камерний оркестр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "військовий оркестр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музична нота ля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гімн України",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Червона рута",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Щедрик",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ой у лузі червона калина",
+      "difficulty": "easy"
+    },
+    {
+      "word": "державний гімн",
+      "difficulty": "easy"
+    },
+    {
+      "word": "патріотична пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "похідна пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний темп швидкий",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний темп повільний",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гучна музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тиха музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сумна пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весела пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "романтична пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "танцювальний ритм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рухи під музику",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хлопати в ритм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "підспівувати пісні",
+      "difficulty": "easy"
+    },
+    {
+      "word": "наспівувати мелодію",
+      "difficulty": "easy"
+    },
+    {
+      "word": "свистіти мелодію",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грати на гітарі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грати на піаніно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "співати пісню",
+      "difficulty": "easy"
+    },
+    {
+      "word": "диригувати оркестром",
+      "difficulty": "easy"
+    },
+    {
+      "word": "писати музику",
+      "difficulty": "easy"
+    },
+    {
+      "word": "складати пісню",
+      "difficulty": "easy"
+    },
+    {
+      "word": "слухати музику",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вмикати музику",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний плеєр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бездротові навушники",
+      "difficulty": "easy"
+    },
+    {
+      "word": "концертний квиток",
+      "difficulty": "easy"
+    },
+    {
+      "word": "афіша концерту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний магазин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нотний зошит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гітарний медіатор",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барабанна установка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дитяча пісенька",
+      "difficulty": "easy"
+    },
+    {
+      "word": "колядка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "щедрівка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "веснянка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хоровод",
+      "difficulty": "easy"
+    },
+    {
+      "word": "частушка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музична вистава",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мюзикл",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рок-опера",
+      "difficulty": "easy"
+    },
+    {
+      "word": "саундтрек",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музика з фільму",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рекламна музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дзвінок телефону мелодія",
+      "difficulty": "easy"
+    },
+    {
+      "word": "будильник з мелодією",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музична пауза",
+      "difficulty": "easy"
+    },
+    {
+      "word": "антракт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "біс на концерті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "оплески публіки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "крик фанатів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фан-клуб",
+      "difficulty": "easy"
+    },
+    {
+      "word": "автограф зірки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "світлові ефекти на концерті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "диско-куля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "феєрверк на концерті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний реквізит",
+      "difficulty": "easy"
+    },
+    {
+      "word": "костюм для виступу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "грим для виступу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний номер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "виступ на сцені",
+      "difficulty": "easy"
+    },
+    {
+      "word": "репетиція концерту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "саундчек",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акустика залу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гучномовець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "підсилювач звуку",
+      "difficulty": "easy"
+    },
+    {
+      "word": "студійний мікрофон",
+      "difficulty": "easy"
+    },
+    {
+      "word": "навушники для запису",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний додаток",
+      "difficulty": "easy"
+    },
+    {
+      "word": "стрімінговий сервіс",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музика в навушниках",
+      "difficulty": "easy"
+    },
+    {
+      "word": "плейлист для тренування",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музика для релаксації",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фонова музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музика для медитації",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дзвінка мелодія дзвіночків",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня про кохання",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня про війну",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня про дружбу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня про Батьківщину",
+      "difficulty": "easy"
+    },
+    {
+      "word": "патріотичний марш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весільний марш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "похоронний марш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "військовий марш",
+      "difficulty": "easy"
+    },
+    {
+      "word": "циганська музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "єврейська музика клезмер",
+      "difficulty": "easy"
+    },
+    {
+      "word": "українська народна музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "американська поп-музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "британський рок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "латиноамериканська музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "африканські барабани",
+      "difficulty": "easy"
+    },
+    {
+      "word": "індійська музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "японська музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музика диско сімдесятих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музика вісімдесятих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "рок вісімдесятих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хіти дев'яностих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сучасні хіти",
+      "difficulty": "easy"
+    },
+    {
+      "word": "новорічна пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "різдвяна пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весняна пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "літня хітова пісня",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня для караоке",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дитячий садок музичне заняття",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музична абетка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ноти до ре мі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "клавіатура піаніно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чорні клавіші",
+      "difficulty": "easy"
+    },
+    {
+      "word": "білі клавіші",
+      "difficulty": "easy"
+    },
+    {
+      "word": "струни гітари",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гриф гітари",
+      "difficulty": "easy"
+    },
+    {
+      "word": "корпус гітари",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смичок для скрипки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "барабанна шкіра",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тарілка ударної установки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "педаль піаніно",
+      "difficulty": "easy"
+    },
+    {
+      "word": "партитура для оркестру",
+      "difficulty": "easy"
+    },
+    {
+      "word": "диригентська паличка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пюпітр для нот",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нота до",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нота ре",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нота мі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нота фа",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нота соль",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нота ля",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нота сі",
+      "difficulty": "easy"
+    },
+    {
+      "word": "бас голос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тенор голос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "баритон голос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сопрано голос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "альт голос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дискант голос",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lady Gaga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Justin Bieber",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ariana Grande",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Taylor Swift",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shakira",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Selena Gomez",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Britney Spears",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bruno Mars",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dua Lipa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Billie Eilish",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Eminem",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Drake",
+      "difficulty": "easy"
+    },
+    {
+      "word": "музичний урок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "домашнє завдання з музики",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шкільний оркестр",
+      "difficulty": "easy"
+    },
+    {
+      "word": "гурток вокалу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дитяча пісня про тварин",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня про зиму",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня про літо",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня про осінь",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня про весну",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ранкова зарядка з музикою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "фітнес під музику",
+      "difficulty": "easy"
+    },
+    {
+      "word": "зумба танець",
+      "difficulty": "easy"
+    },
+    {
+      "word": "аеробіка під музику",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дискотека для дітей",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вечірка з діджеєм",
+      "difficulty": "easy"
+    },
+    {
+      "word": "весільний танець молодих",
+      "difficulty": "easy"
+    },
+    {
+      "word": "перший танець молодят",
+      "difficulty": "easy"
+    },
+    {
+      "word": "випускний бал з музикою",
+      "difficulty": "easy"
+    },
+    {
+      "word": "шкільна дискотека",
+      "difficulty": "easy"
+    },
+    {
+      "word": "поп-панк",
+      "difficulty": "easy"
+    },
+    {
+      "word": "легка музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "важкий рок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "інструментальна музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "вокальна музика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "сучасна класика",
+      "difficulty": "easy"
+    },
+    {
+      "word": "дитяча естрада",
+      "difficulty": "easy"
+    },
+    {
+      "word": "футляр для скрипки",
+      "difficulty": "easy"
+    },
+    {
+      "word": "чохол для гітари",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нотна папка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shazam застосунок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "хіт-парад",
+      "difficulty": "easy"
+    },
+    {
+      "word": "прем'єра кліпу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "лайв-виступ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "акустичний виступ у метро",
+      "difficulty": "easy"
+    },
+    {
+      "word": "пісня-переможець Євробачення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "національний відбір на Євробачення",
+      "difficulty": "easy"
+    },
+    {
+      "word": "журі музичного конкурсу",
+      "difficulty": "easy"
+    },
+    {
+      "word": "голосування глядачів",
+      "difficulty": "easy"
+    },
+    {
+      "word": "смс-голосування за пісню",
+      "difficulty": "easy"
+    },
+    {
+      "word": "нагорода Греммі статуетка",
+      "difficulty": "easy"
+    },
+    {
+      "word": "червона доріжка на концерті",
+      "difficulty": "easy"
+    },
+    {
+      "word": "прес-конференція гурту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "інтерв'ю музиканта",
+      "difficulty": "easy"
+    },
+    {
+      "word": "біографія співака",
+      "difficulty": "easy"
+    },
+    {
+      "word": "документальний фільм про гурт",
+      "difficulty": "easy"
+    },
+    {
+      "word": "тур-автобус гурту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "мерч гурту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "футболка з логотипом гурту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "значок музичного гурту",
+      "difficulty": "easy"
+    },
+    {
+      "word": "постер із улюбленим співаком",
+      "difficulty": "easy"
+    },
+    {
+      "word": "колекція вінілових платівок",
+      "difficulty": "easy"
+    },
+    {
+      "word": "альтернативний рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "інді-музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гранж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ска",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рейв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "драм-н-бейс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дабстеп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ар-енд-бі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "брейкбіт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хаус музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "транс музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електро-поп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "синті-поп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хардкор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хеві-метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "треш-метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "блек-метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дез-метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "панк-рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "поп-рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фолк-рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джаз-фюжн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акапела",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бардівська пісня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шлягер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "регі-фьюжн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "латиноамериканське танго",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фламенко",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кельтська музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "балканська музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "клезмер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "барокова музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ренесансна музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "романтизм у музиці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "імпресіонізм у музиці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мінімалізм у музиці",
+      "difficulty": "normal"
+    },
+    {
+      "word": "авангардна музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "експериментальна музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "етнічна музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "world music",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Бумбокс концерт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Антитіла",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Latexfauna",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Kozak System",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Один в каное",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гайтана",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Наталія Могилевська",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ВВ Воплі Відоплясова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Мандри гурт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Тартак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Друга Річка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Крихітка гурт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Alyona Alyona",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Pianoбой",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Fiat Lux",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вівальді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гайдн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Брамс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Шуберт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ліст",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дебюссі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Прокоф'єв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стравінський",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Верді",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Вагнер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Россіні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Пуччіні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Григ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Дворжак",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сібеліус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Малер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Равель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Сен-Санс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Оффенбах",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гершвін",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Армстронг Луї",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Елла Фіцджеральд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Рей Чарльз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Стіві Вандер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Джимі Хендрікс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Ерік Клептон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Roling Stones",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Nirvana гурт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Pink Floyd",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Led Zeppelin",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Metallica",
+      "difficulty": "normal"
+    },
+    {
+      "word": "AC/DC",
+      "difficulty": "normal"
+    },
+    {
+      "word": "U2 гурт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Depeche Mode",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Radiohead",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Muse гурт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Guns N Roses",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Aerosmith",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Bon Jovi",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Скрипковий ключ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Басовий ключ",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дієз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бемоль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бекар",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пауза музична",
+      "difficulty": "normal"
+    },
+    {
+      "word": "форте",
+      "difficulty": "normal"
+    },
+    {
+      "word": "піано динаміка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "крещендо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "димінуендо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "стаккато",
+      "difficulty": "normal"
+    },
+    {
+      "word": "легато",
+      "difficulty": "normal"
+    },
+    {
+      "word": "арпеджіо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гама мажорна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гама мінорна",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тональність музична",
+      "difficulty": "normal"
+    },
+    {
+      "word": "модуляція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "секвенція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "контрапункт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "поліфонія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гомофонія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "каденція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рефрен",
+      "difficulty": "normal"
+    },
+    {
+      "word": "куплетна форма",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рондо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "соната",
+      "difficulty": "normal"
+    },
+    {
+      "word": "симфонія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "концерт для скрипки",
+      "difficulty": "normal"
+    },
+    {
+      "word": "серенада",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ноктюрн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "етюд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прелюдія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фуга",
+      "difficulty": "normal"
+    },
+    {
+      "word": "меса",
+      "difficulty": "normal"
+    },
+    {
+      "word": "реквієм",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кантата",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ораторія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музична фраза",
+      "difficulty": "normal"
+    },
+    {
+      "word": "такт музичний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "розмір музичний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "синкопа",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акцент музичний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тембр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "динаміка звуку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "резонанс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "обертон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гармонік",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дисонанс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "консонанс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вібрато",
+      "difficulty": "normal"
+    },
+    {
+      "word": "глісандо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "трель",
+      "difficulty": "normal"
+    },
+    {
+      "word": "імпровізація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джем-сейшн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний батл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "реп-баттл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фрістайл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "семпл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "семплер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "драм-машина",
+      "difficulty": "normal"
+    },
+    {
+      "word": "секвенсор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мікшерний пульт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "еквалайзер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "компресор звуку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "реверберація",
+      "difficulty": "normal"
+    },
+    {
+      "word": "студія звукозапису",
+      "difficulty": "normal"
+    },
+    {
+      "word": "звукорежисер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "саунд-продюсер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний лейбл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "контракт із лейблом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "роялті",
+      "difficulty": "normal"
+    },
+    {
+      "word": "авторське право на пісню",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний менеджер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "концертний тур",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гастролі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "райдер артиста",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бекстейдж",
+      "difficulty": "normal"
+    },
+    {
+      "word": "саунд-чек",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кавер-версія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ремастеринг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "демо-запис",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний реліз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дебютний альбом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "концептуальний альбом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "збірка хітів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "живий альбом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акустичний концерт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Unplugged формат",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний відеокліп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "режисер кліпу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хореограф",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бек-танцюристи",
+      "difficulty": "normal"
+    },
+    {
+      "word": "підтанцьовка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гастрольний автобус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний фестиваль Вудсток",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Гластонбері фестиваль",
+      "difficulty": "normal"
+    },
+    {
+      "word": "Євробачення переможець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "номінація на премію",
+      "difficulty": "normal"
+    },
+    {
+      "word": "церемонія нагородження",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний критик",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рецензія на альбом",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний журнал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "плейлист Spotify",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний стрімінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "підкаст про музику",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний блогер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кавер на ютубі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вірусна пісня",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний тренд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "флешмоб танцювальний",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дитячий музичний конкурс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шоу талантів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вокальний тренер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "уроки вокалу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "уроки гри на гітарі",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музична теорія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сольфеджіо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний слух",
+      "difficulty": "normal"
+    },
+    {
+      "word": "абсолютний слух",
+      "difficulty": "normal"
+    },
+    {
+      "word": "транспонування",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акомпанемент",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акомпаніатор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хормейстер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "концертмейстер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичне училище",
+      "difficulty": "normal"
+    },
+    {
+      "word": "консерваторія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "диплом музиканта",
+      "difficulty": "normal"
+    },
+    {
+      "word": "конкурс молодих виконавців",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джазовий клуб",
+      "difficulty": "normal"
+    },
+    {
+      "word": "рок-клуб",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нічний клуб з музикою",
+      "difficulty": "normal"
+    },
+    {
+      "word": "живе виконання",
+      "difficulty": "normal"
+    },
+    {
+      "word": "акустична сесія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "студійна сесія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "запис вокалу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мастерінг треку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "зведення треку",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бітмейкер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "реп-виконавець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "репер",
+      "difficulty": "normal"
+    },
+    {
+      "word": "репер-початківець",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хіп-хоп культура",
+      "difficulty": "normal"
+    },
+    {
+      "word": "брейк-данс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "диджеїнг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вінілові платівки колекція",
+      "difficulty": "normal"
+    },
+    {
+      "word": "програвач вінілу",
+      "difficulty": "normal"
+    },
+    {
+      "word": "касетний плеєр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "mp3 плеєр",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аудіофіл",
+      "difficulty": "normal"
+    },
+    {
+      "word": "аудіосистема",
+      "difficulty": "normal"
+    },
+    {
+      "word": "домашній кінотеатр звук",
+      "difficulty": "normal"
+    },
+    {
+      "word": "концертна апаратура",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сценічний монітор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "навушники студійні",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мікрофонна стійка",
+      "difficulty": "normal"
+    },
+    {
+      "word": "гітарний підсилювач",
+      "difficulty": "normal"
+    },
+    {
+      "word": "педаль ефектів",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дисторшн ефект",
+      "difficulty": "normal"
+    },
+    {
+      "word": "хорус ефект",
+      "difficulty": "normal"
+    },
+    {
+      "word": "делей ефект",
+      "difficulty": "normal"
+    },
+    {
+      "word": "музичний жанр фьюжн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "неофолк",
+      "difficulty": "normal"
+    },
+    {
+      "word": "етноджаз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "симфонічний метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "прогресивний рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "психоделічний рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "симфонічний рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "фолк-метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "павер-метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "спід-метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ню-метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "метал-кор",
+      "difficulty": "normal"
+    },
+    {
+      "word": "диско-хаус",
+      "difficulty": "normal"
+    },
+    {
+      "word": "електро-свінг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джаз-мануш",
+      "difficulty": "normal"
+    },
+    {
+      "word": "боса-нова",
+      "difficulty": "normal"
+    },
+    {
+      "word": "циганський джаз",
+      "difficulty": "normal"
+    },
+    {
+      "word": "біг-бенд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "діксиленд",
+      "difficulty": "normal"
+    },
+    {
+      "word": "нью-ейдж музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "ембіент музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "лоу-фай музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "сіті-поп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "к-поп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "джей-поп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "афробіт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "реггетон",
+      "difficulty": "normal"
+    },
+    {
+      "word": "кумбія",
+      "difficulty": "normal"
+    },
+    {
+      "word": "меренге",
+      "difficulty": "normal"
+    },
+    {
+      "word": "вейпорвейв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "синтвейв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "чіптюн",
+      "difficulty": "normal"
+    },
+    {
+      "word": "бритпоп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "шугейзинг",
+      "difficulty": "normal"
+    },
+    {
+      "word": "пост-рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "мат-рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "емо музика",
+      "difficulty": "normal"
+    },
+    {
+      "word": "скрімо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "індастріал метал",
+      "difficulty": "normal"
+    },
+    {
+      "word": "готик-рок",
+      "difficulty": "normal"
+    },
+    {
+      "word": "дарквейв",
+      "difficulty": "normal"
+    },
+    {
+      "word": "тріп-хоп",
+      "difficulty": "normal"
+    },
+    {
+      "word": "даунтемпо",
+      "difficulty": "normal"
+    },
+    {
+      "word": "біг-біт",
+      "difficulty": "normal"
+    },
+    {
+      "word": "юроденс",
+      "difficulty": "normal"
+    },
+    {
+      "word": "італо-диско",
+      "difficulty": "normal"
+    },
+    {
+      "word": "контрафагот",
+      "difficulty": "hard"
+    },
+    {
+      "word": "англійський ріжок",
+      "difficulty": "hard"
+    },
+    {
+      "word": "альтова флейта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бас-кларнет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "геліконт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сузафон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "челеста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "клавесин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "клавікорд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гамбо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цимбали",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бандонеон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "концертино",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гармоніум",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гідрофон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тайко барабани",
+      "difficulty": "hard"
+    },
+    {
+      "word": "джембе",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конга",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бонго",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кахон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вібрафон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "маримба",
+      "difficulty": "hard"
+    },
+    {
+      "word": "глокеншпіль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тарілки хай-хет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "том-том барабан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "малий барабан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бас-барабан оркестровий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "альтовий саксофон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тенор-саксофон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "баритон-саксофон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сопрано-саксофон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "корнет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "флюгельгорн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "валторна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "туба оркестрова",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пікколо флейта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "блокфлейта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кена флейта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дудук",
+      "difficulty": "hard"
+    },
+    {
+      "word": "шофар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "диджериду",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кобза",
+      "difficulty": "hard"
+    },
+    {
+      "word": "торбан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цимбали угорські",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кантеле",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кобилка скрипки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підборіддя скрипки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "колки гітари",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лади гітари",
+      "difficulty": "hard"
+    },
+    {
+      "word": "розетка гітари",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дека інструмента",
+      "difficulty": "hard"
+    },
+    {
+      "word": "резонаторна коробка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "камертон",
+      "difficulty": "hard"
+    },
+    {
+      "word": "метроном",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тюнер гітарний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "капо для гітари",
+      "difficulty": "hard"
+    },
+    {
+      "word": "плектр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "смичок контрабаса",
+      "difficulty": "hard"
+    },
+    {
+      "word": "канифоль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Гвідо Аретинський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "невми",
+      "difficulty": "hard"
+    },
+    {
+      "word": "модальна музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лідійський лад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дорійський лад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "міксолідійський лад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фрігійський лад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "еолійський лад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "локрійський лад",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пентатоніка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "блюзова гама",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хроматична гама",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цілотонова гама",
+      "difficulty": "hard"
+    },
+    {
+      "word": "атональна музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "серіалізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "додекафонія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алеаторика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конкретна музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "електроакустична музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мюзик-конкрет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спектральна музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мінімалізм Райх",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мінімалізм Гласс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нововіденська школа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шенберг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Веберн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Берг",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Барток",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кодай",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Онеггер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мессіан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Пендерецький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лютославський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Шостакович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Скрябін композитор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Рахманінов",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Глінка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Мусоргський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Римський-Корсаков",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Бородін",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Кюї",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Могутня купка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Леонтович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Лисенко Микола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Стеценко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ревуцький",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Барвінський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Косенко",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Станкович",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Скорик Мирослав",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Сильвестров Валентин",
+      "difficulty": "hard"
+    },
+    {
+      "word": "церковний спів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "знаменний розспів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "партесний спів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "акапельний хор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "григоріанський хорал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "меса реквієм структура",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пасіони",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хорал протестантський",
+      "difficulty": "hard"
+    },
+    {
+      "word": "органний пункт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "базо остинато",
+      "difficulty": "hard"
+    },
+    {
+      "word": "контрапунктична тема",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фугато",
+      "difficulty": "hard"
+    },
+    {
+      "word": "інвенція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "токата",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пасакалія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чакона",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гавот",
+      "difficulty": "hard"
+    },
+    {
+      "word": "менует",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сарабанда",
+      "difficulty": "hard"
+    },
+    {
+      "word": "куранта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "жига",
+      "difficulty": "hard"
+    },
+    {
+      "word": "полонез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мазурка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "краков'як",
+      "difficulty": "hard"
+    },
+    {
+      "word": "чардаш",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хабанера",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пасодобль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кадриль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "контрданс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "екосез",
+      "difficulty": "hard"
+    },
+    {
+      "word": "серенада вокальна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "баркарола",
+      "difficulty": "hard"
+    },
+    {
+      "word": "елегія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рапсодія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фантазія музична",
+      "difficulty": "hard"
+    },
+    {
+      "word": "попурі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "транскрипція музична",
+      "difficulty": "hard"
+    },
+    {
+      "word": "перекладення для оркестру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "партія першої скрипки",
+      "difficulty": "hard"
+    },
+    {
+      "word": "партія альта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "диригентська партитура",
+      "difficulty": "hard"
+    },
+    {
+      "word": "репетиційна цифра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "генеральна репетиція оркестру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "акустична камера студії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "звукоізоляція студії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "багатоканальний запис",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дорожка запису",
+      "difficulty": "hard"
+    },
+    {
+      "word": "овердаб",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пунч-ін запис",
+      "difficulty": "hard"
+    },
+    {
+      "word": "автотюн",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вокодер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ринг-модулятор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "арпеджіатор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "осцилятор синтезатора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фільтр синтезатора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "огибаюча ADSR",
+      "difficulty": "hard"
+    },
+    {
+      "word": "модульний синтезатор",
+      "difficulty": "hard"
+    },
+    {
+      "word": "драм-падс",
+      "difficulty": "hard"
+    },
+    {
+      "word": "MIDI-контролер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "MIDI-клавіатура",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цифрова робоча станція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "плагін ефектів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "side-chain компресія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лімітер звуку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "де-ессер",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нойз-гейт",
+      "difficulty": "hard"
+    },
+    {
+      "word": "панорамування звуку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стерео база",
+      "difficulty": "hard"
+    },
+    {
+      "word": "моно доріжка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "частотний спектр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "низькі частоти",
+      "difficulty": "hard"
+    },
+    {
+      "word": "середні частоти",
+      "difficulty": "hard"
+    },
+    {
+      "word": "високі частоти",
+      "difficulty": "hard"
+    },
+    {
+      "word": "музична акустика зали",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дифузор звуку",
+      "difficulty": "hard"
+    },
+    {
+      "word": "бас-пастка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "музикознавство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "етномузикологія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "музична палеографія",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фольклористика музична",
+      "difficulty": "hard"
+    },
+    {
+      "word": "експедиція за фольклором",
+      "difficulty": "hard"
+    },
+    {
+      "word": "збирач пісень",
+      "difficulty": "hard"
+    },
+    {
+      "word": "нотний запис фольклору",
+      "difficulty": "hard"
+    },
+    {
+      "word": "варіант мелодії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "наспів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "речитатив",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мелодекламація",
+      "difficulty": "hard"
+    },
+    {
+      "word": "куплетно-варіаційна форма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "строфічна форма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тричастинна форма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сонатна форма",
+      "difficulty": "hard"
+    },
+    {
+      "word": "розробка в сонатній формі",
+      "difficulty": "hard"
+    },
+    {
+      "word": "експозиція теми",
+      "difficulty": "hard"
+    },
+    {
+      "word": "реприза музична",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кода музичного твору",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вступ до симфонії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фінал симфонії",
+      "difficulty": "hard"
+    },
+    {
+      "word": "частина сонати",
+      "difficulty": "hard"
+    },
+    {
+      "word": "опус композитора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "каталог творів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "рукопис партитури",
+      "difficulty": "hard"
+    },
+    {
+      "word": "автограф композитора",
+      "difficulty": "hard"
+    },
+    {
+      "word": "видавництво нот",
+      "difficulty": "hard"
+    },
+    {
+      "word": "музичний архів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "консерваторський клас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "майстер-клас з вокалу",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конкурс імені Чайковського",
+      "difficulty": "hard"
+    },
+    {
+      "word": "конкурс імені Шопена",
+      "difficulty": "hard"
+    },
+    {
+      "word": "міжнародний джазовий фестиваль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "резиденція оркестру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "художній керівник оркестру",
+      "difficulty": "hard"
+    },
+    {
+      "word": "головний диригент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "запрошений диригент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "концертне турне світом",
+      "difficulty": "hard"
+    },
+    {
+      "word": "акустичний інструмент проти електронного",
+      "difficulty": "hard"
+    },
+    {
+      "word": "історичне виконавство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "автентичний інструмент",
+      "difficulty": "hard"
+    },
+    {
+      "word": "барочна скрипка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "клавір",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фортепіанний квінтет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "струнний квартет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "духовий квінтет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "камерний ансамбль",
+      "difficulty": "hard"
+    },
+    {
+      "word": "оперний театр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лібрето опери",
+      "difficulty": "hard"
+    },
+    {
+      "word": "арія з опери",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дует з опери",
+      "difficulty": "hard"
+    },
+    {
+      "word": "речитатив опери",
+      "difficulty": "hard"
+    },
+    {
+      "word": "увертюра",
+      "difficulty": "hard"
+    },
+    {
+      "word": "антракт опери",
+      "difficulty": "hard"
+    },
+    {
+      "word": "костюми опери",
+      "difficulty": "hard"
+    },
+    {
+      "word": "декорації опери",
+      "difficulty": "hard"
+    },
+    {
+      "word": "балетна трупа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "партія балерини",
+      "difficulty": "hard"
+    },
+    {
+      "word": "па-де-де",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гранд-батман",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пуанти балетні",
+      "difficulty": "hard"
+    },
+    {
+      "word": "хореографічна постановка",
+      "difficulty": "hard"
+    },
+    {
+      "word": "індійська табла",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ситар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "саранги",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кото японське",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сямісен",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ерху",
+      "difficulty": "hard"
+    },
+    {
+      "word": "гуцінь",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пипа",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ханг барабан",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стіл-драм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "берімбау",
+      "difficulty": "hard"
+    },
+    {
+      "word": "варган",
+      "difficulty": "hard"
+    },
+    {
+      "word": "окарина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "пан-флейта",
+      "difficulty": "hard"
+    },
+    {
+      "word": "зурна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "троїста музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ліра колісна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кобза бандуриста",
+      "difficulty": "hard"
+    },
+    {
+      "word": "думи кобзарів",
+      "difficulty": "hard"
+    },
+    {
+      "word": "кобзарство",
+      "difficulty": "hard"
+    },
+    {
+      "word": "лірництво",
+      "difficulty": "hard"
+    },
+    {
+      "word": "билина",
+      "difficulty": "hard"
+    },
+    {
+      "word": "скальд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "трубадур",
+      "difficulty": "hard"
+    },
+    {
+      "word": "менестрель",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мадригал",
+      "difficulty": "hard"
+    },
+    {
+      "word": "вілланела",
+      "difficulty": "hard"
+    },
+    {
+      "word": "органум",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мотет",
+      "difficulty": "hard"
+    },
+    {
+      "word": "ричеркар",
+      "difficulty": "hard"
+    },
+    {
+      "word": "канон музичний",
+      "difficulty": "hard"
+    },
+    {
+      "word": "генерал-бас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "цифрований бас",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тема з варіаціями",
+      "difficulty": "hard"
+    },
+    {
+      "word": "дванадцятитоновий ряд",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мікротональна музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "четвертитонова музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "спектралізм",
+      "difficulty": "hard"
+    },
+    {
+      "word": "стохастична музика",
+      "difficulty": "hard"
+    },
+    {
+      "word": "алгоритмічна композиція",
+      "difficulty": "hard"
+    },
+    {
+      "word": "графічна партитура",
+      "difficulty": "hard"
+    },
+    {
+      "word": "підготовлене фортепіано",
+      "difficulty": "hard"
+    },
+    {
+      "word": "флажолет скрипковий",
+      "difficulty": "hard"
+    },
+    {
+      "word": "піцикато",
+      "difficulty": "hard"
+    },
+    {
+      "word": "коль леньо",
+      "difficulty": "hard"
+    },
+    {
+      "word": "сордіна",
+      "difficulty": "hard"
+    },
+    {
+      "word": "фрулато",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мультифонік",
+      "difficulty": "hard"
+    },
+    {
+      "word": "циркулярне дихання",
+      "difficulty": "hard"
+    },
+    {
+      "word": "амбушюр",
+      "difficulty": "hard"
+    },
+    {
+      "word": "мундштук духового інструмента",
+      "difficulty": "hard"
+    },
+    {
+      "word": "тростина кларнета",
+      "difficulty": "hard"
+    }
+  ]
+}
