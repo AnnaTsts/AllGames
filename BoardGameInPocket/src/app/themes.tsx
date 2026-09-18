@@ -99,6 +99,7 @@ export default function Themes() {
                 key={theme.id}
                 name={theme.name}
                 enabled={theme.enabled}
+                isCustom={theme.isCustom}
                 onToggle={() => toggleTheme(theme.id)}
                 onEdit={() => router.push({ pathname: "/theme-edit", params: { id: theme.id } })}
               />

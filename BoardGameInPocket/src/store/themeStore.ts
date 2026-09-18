@@ -57,7 +57,7 @@ export const useThemeStore = create<ThemeState>()(
         set((state) => ({
           themes: [
             ...state.themes,
-            { id: Date.now().toString(), name, enabled: true, customWords: [] },
+            { id: Date.now().toString(), name, enabled: true, customWords: [], isCustom: true },
           ],
         })),
       renameTheme: (id, name) =>

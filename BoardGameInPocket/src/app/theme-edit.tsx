@@ -1,5 +1,5 @@
 import { useLocalSearchParams, useRouter } from "expo-router";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   KeyboardAvoidingView,
   Platform,
@@ -24,6 +24,10 @@ export default function ThemeEdit() {
   const removeWordFromTheme = useThemeStore((state) => state.removeWordFromTheme);
 
   const [revealedIndices, setRevealedIndices] = useState<Set<number>>(new Set());
+
+  useEffect(() => {
+    setRevealedIndices(new Set());
+  }, [id]);
 
   const allRevealed = useMemo(
     () => (theme?.customWords.length ?? 0) > 0 && revealedIndices.size === theme?.customWords.length,
@@ -121,7 +125,11 @@ export default function ThemeEdit() {
             })}
 
             <Pressable
-              onPress={() => addWordToTheme(theme.id, "")}
+              onPress={() => {
+                const newIndex = theme.customWords.length;
+                addWordToTheme(theme.id, "");
+                setRevealedIndices((current) => new Set(current).add(newIndex));
+              }}
               className="flex-row items-center gap-2 self-start"
               style={({ pressed }) => ({ opacity: pressed ? 0.7 : 1 })}
             >

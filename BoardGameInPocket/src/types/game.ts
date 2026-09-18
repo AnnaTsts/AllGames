@@ -23,6 +23,7 @@ export type ThemeCategory = {
   name: string;
   enabled: boolean;
   customWords: string[];
+  isCustom: boolean;
 };
 
 export type Round = {
