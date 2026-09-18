@@ -1,6 +1,13 @@
 import { useRouter } from "expo-router";
 import { useMemo } from "react";
-import { Pressable, SafeAreaView, ScrollView, Text, View } from "react-native";
+import {
+  Pressable,
+  SafeAreaView,
+  ScrollView,
+  Text,
+  useWindowDimensions,
+  View,
+} from "react-native";
 
 import { roundTypes } from "@/data/rounds";
 import { useGameStore } from "@/store/gameStore";
@@ -28,6 +35,7 @@ type TeamResult = {
 
 export default function Results() {
   const router = useRouter();
+  const { height: screenHeight } = useWindowDimensions();
   const teams = useTeamStore((state) => state.teams);
   const activeRoundIds = useGameStore((state) => state.activeRoundIds);
   const roundScores = useGameStore((state) => state.roundScores);
@@ -55,6 +63,8 @@ export default function Results() {
   const winner = results[0];
   const runnerUp = results[1];
   const margin = winner && runnerUp ? winner.total - runnerUp.total : null;
+
+  const otherColumnFlex = 1 / (playedRounds.length + 1);
 
   return (
     <View className="flex-1 bg-tan">
@@ -101,20 +111,22 @@ export default function Results() {
           <Text className="flex-1 font-nunito-semibold text-body-sm text-muted-foreground">
             Назва команди
           </Text>
-          {playedRounds.map((round) => (
+          {playedRounds.map((round, index) => (
             <Text
               key={round.id}
-              className="w-12 text-center font-nunito-semibold text-body-sm text-muted-foreground"
+              style={{ flex: otherColumnFlex }}
+              className="text-center font-nunito-semibold text-body-sm text-muted-foreground"
               numberOfLines={1}
             >
-              {round.title}
+              {index + 1}
             </Text>
           ))}
           <Text
-            className="w-16 text-right font-nunito-semibold text-body-sm text-muted-foreground"
+            style={{ flex: otherColumnFlex }}
+            className="text-right font-nunito-semibold text-body-sm text-muted-foreground"
             numberOfLines={1}
           >
-            ЗАГАЛОМ
+            Σ
           </Text>
         </View>
 
@@ -156,14 +168,16 @@ export default function Results() {
                 {result.roundScores.map((score, scoreIndex) => (
                   <Text
                     key={scoreIndex}
-                    className="w-12 text-center font-nunito-bold text-body-md text-brown"
+                    style={{ flex: otherColumnFlex }}
+                    className="text-center font-nunito-bold text-body-md text-brown"
                   >
                     {score}
                   </Text>
                 ))}
 
                 <Text
-                  className={`w-16 text-right font-nunito-bold text-body-lg ${
+                  style={{ flex: otherColumnFlex }}
+                  className={`text-right font-nunito-bold text-body-lg ${
                     isTopResult ? "text-error" : "text-violet"
                   }`}
                 >
@@ -174,7 +188,7 @@ export default function Results() {
           })}
         </ScrollView>
 
-        <View className="px-6 pb-6 pt-2">
+        <View className="px-6 pt-2" style={{ paddingBottom: screenHeight * 0.1 }}>
           <Pressable
             onPress={() => router.replace("/")}
             className="button--teal"
