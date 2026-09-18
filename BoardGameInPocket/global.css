@@ -189,6 +189,10 @@
   @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-error bg-cream py-4;
 }
 
+.button--outline-cream {
+  @apply flex-row items-center justify-center gap-2 rounded-full border-2 border-cream/40 bg-cream/10 px-5 py-3;
+}
+
 .button--outline-error--selected {
   @apply bg-error;
 }

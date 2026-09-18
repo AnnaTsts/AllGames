@@ -7,7 +7,7 @@ import { Toggle } from "@/components/Toggle";
 import { WordCountSlider } from "@/components/WordCountSlider";
 import { MAX_WORD_COUNT, MIN_WORD_COUNT, useThemeStore } from "@/store/themeStore";
 
-type AddModalState = { type: "theme" } | { type: "word"; themeId: string; themeName: string } | null;
+type AddModalState = { type: "theme" } | null;
 
 export default function Themes() {
   const router = useRouter();
@@ -19,7 +19,6 @@ export default function Themes() {
   const toggleTheme = useThemeStore((state) => state.toggleTheme);
   const setAllThemesSelected = useThemeStore((state) => state.setAllThemesSelected);
   const addTheme = useThemeStore((state) => state.addTheme);
-  const addWordToTheme = useThemeStore((state) => state.addWordToTheme);
   const toggleDifficulty = useThemeStore((state) => state.toggleDifficulty);
 
   const [modalState, setModalState] = useState<AddModalState>(null);
@@ -34,11 +33,7 @@ export default function Themes() {
     const value = inputValue.trim();
     if (!value || !modalState) return;
 
-    if (modalState.type === "theme") {
-      addTheme(value);
-    } else {
-      addWordToTheme(modalState.themeId, value);
-    }
+    addTheme(value);
     closeModal();
   };
 
@@ -105,7 +100,7 @@ export default function Themes() {
                 name={theme.name}
                 enabled={theme.enabled}
                 onToggle={() => toggleTheme(theme.id)}
-                onAddWord={() => setModalState({ type: "word", themeId: theme.id, themeName: theme.name })}
+                onEdit={() => router.push({ pathname: "/theme-edit", params: { id: theme.id } })}
               />
             ))}
 
@@ -134,14 +129,12 @@ export default function Themes() {
       <Modal visible={modalState !== null} transparent animationType="fade" onRequestClose={closeModal}>
         <View className="flex-1 items-center justify-center bg-brown/60 px-6">
           <View className="w-full gap-4 rounded-3xl bg-cream p-6">
-            <Text className="font-nunito-bold text-h3 text-brown">
-              {modalState?.type === "word" ? `Нове слово — ${modalState.themeName}` : "Нова тема"}
-            </Text>
+            <Text className="font-nunito-bold text-h3 text-brown">Нова тема</Text>
 
             <TextInput
               value={inputValue}
               onChangeText={setInputValue}
-              placeholder={modalState?.type === "word" ? "Слово" : "Назва теми"}
+              placeholder="Назва теми"
               placeholderTextColor="#786459"
               autoFocus
               className="rounded-2xl border-2 border-brown px-4 py-3 font-nunito-regular text-body-lg text-brown"

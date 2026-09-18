@@ -24,7 +24,10 @@ type ThemeState = {
   toggleTheme: (id: string) => void;
   setAllThemesSelected: (enabled: boolean) => void;
   addTheme: (name: string) => void;
+  renameTheme: (id: string, name: string) => void;
   addWordToTheme: (id: string, word: string) => void;
+  updateWordInTheme: (id: string, wordIndex: number, word: string) => void;
+  removeWordFromTheme: (id: string, wordIndex: number) => void;
   toggleDifficulty: (difficulty: Difficulty) => void;
 };
 
@@ -57,11 +60,36 @@ export const useThemeStore = create<ThemeState>()(
             { id: Date.now().toString(), name, enabled: true, customWords: [] },
           ],
         })),
+      renameTheme: (id, name) =>
+        set((state) => ({
+          themes: state.themes.map((theme) => (theme.id === id ? { ...theme, name } : theme)),
+        })),
       addWordToTheme: (id, word) =>
         set((state) => ({
           themes: state.themes.map((theme) =>
             theme.id === id
               ? { ...theme, customWords: [...theme.customWords, word] }
+              : theme
+          ),
+        })),
+      updateWordInTheme: (id, wordIndex, word) =>
+        set((state) => ({
+          themes: state.themes.map((theme) =>
+            theme.id === id
+              ? {
+                  ...theme,
+                  customWords: theme.customWords.map((existing, index) =>
+                    index === wordIndex ? word : existing
+                  ),
+                }
+              : theme
+          ),
+        })),
+      removeWordFromTheme: (id, wordIndex) =>
+        set((state) => ({
+          themes: state.themes.map((theme) =>
+            theme.id === id
+              ? { ...theme, customWords: theme.customWords.filter((_, index) => index !== wordIndex) }
               : theme
           ),
         })),
