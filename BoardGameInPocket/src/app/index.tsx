@@ -6,12 +6,14 @@ import { images } from "@/constants/images";
 import { useLanguageStore } from "@/store/languageStore";
 import { useTeamStore } from "@/store/teamStore";
 import { useRoundStore } from "@/store/roundStore";
+import { useThemeStore } from "@/store/themeStore";
 
 export default function Index() {
   const router = useRouter();
   const teamCount = useTeamStore((state) => state.teams.length);
   const toggleLanguage = useLanguageStore((state) => state.toggleLanguage);
   const roundCount = useRoundStore((state) => state.selectedRoundIds.length);
+  const wordCount = useThemeStore((state) => state.wordCount);
 
   return (
     <ImageBackground source={images.backgroundWelcome} className="flex-1" resizeMode="cover">
@@ -42,7 +44,7 @@ export default function Index() {
               <StatCard icon="🚀" value={String(roundCount)} label="тури" onPress={() => router.push("/rounds")}/>
             </View>
             <View className="flex-row gap-4">
-              <StatCard icon="📖" value="30" label="слів" onPress={() => router.push("/themes")} />
+              <StatCard icon="📖" value={String(wordCount)} label="слів" onPress={() => router.push("/themes")} />
               <StatCard icon="⏱️" value="60" label="секунд" />
             </View>
           </View>
