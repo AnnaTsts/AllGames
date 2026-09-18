@@ -1,8 +1,7 @@
 import { useRouter } from "expo-router";
 import { useState } from "react";
-import { Alert, Pressable, SafeAreaView, Text, View } from "react-native";
+import { Pressable, SafeAreaView, Text, View } from "react-native";
 
-import { Toggle } from "@/components/Toggle";
 import { useGameStore } from "@/store/gameStore";
 import { useTeamStore } from "@/store/teamStore";
 
@@ -33,16 +32,8 @@ export default function TeamTurn() {
   const wordPool = useGameStore((state) => state.wordPool);
 
   const [soundOn, setSoundOn] = useState(true);
-  const [hideWord, setHideWord] = useState(false);
 
   const currentTeam = teams[currentTeamIndex] ?? teams[0];
-
-  const explainHideWord = () => {
-    Alert.alert(
-      "Приховувати слово від суперників",
-      "Слово побачить лише той, хто пояснює. Інші команди не зможуть підглянути його на екрані."
-    );
-  };
 
   return (
     <View className="flex-1 bg-cream">
@@ -74,22 +65,11 @@ export default function TeamTurn() {
               <ReadyStatCard icon="🕐" label="Час" value={`${ROUND_SECONDS} сек`} />
               <ReadyStatCard icon="🎴" label="У капелюсі" value={`${wordPool.length} слів`} />
             </View>
-
-            <View className="mt-10 w-full flex-row items-center justify-between gap-4">
-              <Text className="flex-1 font-nunito-semibold text-body-lg text-brown">
-                Приховувати слово від суперників
-              </Text>
-              <Toggle value={hideWord} onValueChange={() => setHideWord((prev) => !prev)} />
-            </View>
-
-            <Pressable onPress={explainHideWord} hitSlop={8} className="mt-2 self-start">
-              <Text className="font-nunito-bold text-body-lg text-teal">Як це працює?</Text>
-            </Pressable>
           </View>
 
           <Pressable
             onPress={() => router.replace("/game-round")}
-            className="items-center justify-center rounded-3xl bg-brown py-[22px]"
+            className="mb-[10%] items-center justify-center rounded-3xl bg-brown py-[22px]"
             style={({ pressed }) => ({ opacity: pressed ? 0.85 : 1 })}
           >
             <Text className="font-nunito-bold text-[22px] text-cream">Грати</Text>
